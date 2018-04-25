@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\bin\Debug\netcoreapp2.0\A_Miner_Task.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\bin\Debug\netcoreapp2.0\A_Miner_Task.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\bin\Debug\netcoreapp2.0\A_Miner_Task.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\bin\Debug\netcoreapp2.0\A_Miner_Task.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\bin\Debug\netcoreapp2.0\A_Miner_Task.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\obj\Debug\netcoreapp2.0\A_Miner_Task.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\obj\Debug\netcoreapp2.0\A_Miner_Task.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\obj\Debug\netcoreapp2.0\A_Miner_Task.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\obj\Debug\netcoreapp2.0\A_Miner_Task.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\A_Miner_Task\obj\Debug\netcoreapp2.0\A_Miner_Task.pdb

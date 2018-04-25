@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\bin\Debug\netcoreapp2.0\Count_of_Symbols.deps.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\bin\Debug\netcoreapp2.0\Count_of_Symbols.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\bin\Debug\netcoreapp2.0\Count_of_Symbols.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\bin\Debug\netcoreapp2.0\Count_of_Symbols.dll
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\bin\Debug\netcoreapp2.0\Count_of_Symbols.pdb
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\obj\Debug\netcoreapp2.0\Count_of_Symbols.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\obj\Debug\netcoreapp2.0\Count_of_Symbols.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\obj\Debug\netcoreapp2.0\Count_of_Symbols.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\obj\Debug\netcoreapp2.0\Count_of_Symbols.dll
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Count_of_Symbols\obj\Debug\netcoreapp2.0\Count_of_Symbols.pdb

@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\bin\Debug\netcoreapp2.0\Max_Method.deps.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\bin\Debug\netcoreapp2.0\Max_Method.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\bin\Debug\netcoreapp2.0\Max_Method.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\bin\Debug\netcoreapp2.0\Max_Method.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\bin\Debug\netcoreapp2.0\Max_Method.pdb
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\obj\Debug\netcoreapp2.0\Max_Method.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\obj\Debug\netcoreapp2.0\Max_Method.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\obj\Debug\netcoreapp2.0\Max_Method.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\obj\Debug\netcoreapp2.0\Max_Method.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Max_Method\obj\Debug\netcoreapp2.0\Max_Method.pdb

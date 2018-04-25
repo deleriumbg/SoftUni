@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\bin\Debug\Mobile_Operator.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\bin\Debug\Mobile_Operator.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\bin\Debug\Mobile_Operator.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\obj\Debug\Mobile_Operator.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\obj\Debug\Mobile_Operator.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Mobile_Operator\obj\Debug\Mobile_Operator.pdb

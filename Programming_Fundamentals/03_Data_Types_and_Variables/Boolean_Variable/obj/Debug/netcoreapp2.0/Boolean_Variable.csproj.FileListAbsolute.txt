@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\bin\Debug\netcoreapp2.0\Boolean_Variable.deps.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\bin\Debug\netcoreapp2.0\Boolean_Variable.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\bin\Debug\netcoreapp2.0\Boolean_Variable.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\bin\Debug\netcoreapp2.0\Boolean_Variable.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\bin\Debug\netcoreapp2.0\Boolean_Variable.pdb
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\obj\Debug\netcoreapp2.0\Boolean_Variable.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\obj\Debug\netcoreapp2.0\Boolean_Variable.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\obj\Debug\netcoreapp2.0\Boolean_Variable.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\obj\Debug\netcoreapp2.0\Boolean_Variable.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Boolean_Variable\obj\Debug\netcoreapp2.0\Boolean_Variable.pdb

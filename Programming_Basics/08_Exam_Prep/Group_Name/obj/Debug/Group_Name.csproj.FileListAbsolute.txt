@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\bin\Debug\Group_Name.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\bin\Debug\Group_Name.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\bin\Debug\Group_Name.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\obj\Debug\Group_Name.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\obj\Debug\Group_Name.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Group_Name\obj\Debug\Group_Name.pdb

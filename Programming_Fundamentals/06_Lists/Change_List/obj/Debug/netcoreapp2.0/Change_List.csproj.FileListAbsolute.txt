@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\bin\Debug\netcoreapp2.0\Change_List.deps.json
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\bin\Debug\netcoreapp2.0\Change_List.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\bin\Debug\netcoreapp2.0\Change_List.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\bin\Debug\netcoreapp2.0\Change_List.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\bin\Debug\netcoreapp2.0\Change_List.pdb
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Change_List\obj\Debug\netcoreapp2.0\Change_List.pdb

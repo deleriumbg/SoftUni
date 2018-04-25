@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\bin\Debug\Tailoring_Workshop.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\bin\Debug\Tailoring_Workshop.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\bin\Debug\Tailoring_Workshop.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\obj\Debug\Tailoring_Workshop.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\obj\Debug\Tailoring_Workshop.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Tailoring_Workshop\obj\Debug\Tailoring_Workshop.pdb

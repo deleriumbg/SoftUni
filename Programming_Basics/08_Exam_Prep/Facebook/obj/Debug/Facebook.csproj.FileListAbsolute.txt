@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\obj\Debug\Facebook.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\obj\Debug\Facebook.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\bin\Debug\Facebook.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\bin\Debug\Facebook.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\bin\Debug\Facebook.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\obj\Debug\Facebook.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Facebook\obj\Debug\Facebook.pdb

@@ -1,0 +1,6 @@
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\bin\Debug\Numbers_1_to_10.exe.config
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\bin\Debug\Numbers_1_to_10.exe
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\bin\Debug\Numbers_1_to_10.pdb
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\obj\Debug\Numbers_1_to_10.csproj.CoreCompileInputs.cache
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\obj\Debug\Numbers_1_to_10.exe
+C:\Projects\03_Simple_Conditions\Numbers_1_to_10\obj\Debug\Numbers_1_to_10.pdb

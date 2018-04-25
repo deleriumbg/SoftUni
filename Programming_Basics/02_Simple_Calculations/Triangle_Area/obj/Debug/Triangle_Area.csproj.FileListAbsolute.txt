@@ -1,0 +1,6 @@
+C:\Projects\02_Simple_Calculations\Triangle_Area\bin\Debug\Triangle_Area.exe.config
+C:\Projects\02_Simple_Calculations\Triangle_Area\bin\Debug\Triangle_Area.exe
+C:\Projects\02_Simple_Calculations\Triangle_Area\bin\Debug\Triangle_Area.pdb
+C:\Projects\02_Simple_Calculations\Triangle_Area\obj\Debug\Triangle_Area.csproj.CoreCompileInputs.cache
+C:\Projects\02_Simple_Calculations\Triangle_Area\obj\Debug\Triangle_Area.exe
+C:\Projects\02_Simple_Calculations\Triangle_Area\obj\Debug\Triangle_Area.pdb

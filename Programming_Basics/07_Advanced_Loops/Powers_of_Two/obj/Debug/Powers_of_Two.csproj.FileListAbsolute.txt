@@ -1,0 +1,6 @@
+C:\Projects\07_Advanced_Loops\Powers_of_Two\bin\Debug\Powers_of_Two.exe.config
+C:\Projects\07_Advanced_Loops\Powers_of_Two\bin\Debug\Powers_of_Two.exe
+C:\Projects\07_Advanced_Loops\Powers_of_Two\bin\Debug\Powers_of_Two.pdb
+C:\Projects\07_Advanced_Loops\Powers_of_Two\obj\Debug\Powers_of_Two.csproj.CoreCompileInputs.cache
+C:\Projects\07_Advanced_Loops\Powers_of_Two\obj\Debug\Powers_of_Two.exe
+C:\Projects\07_Advanced_Loops\Powers_of_Two\obj\Debug\Powers_of_Two.pdb

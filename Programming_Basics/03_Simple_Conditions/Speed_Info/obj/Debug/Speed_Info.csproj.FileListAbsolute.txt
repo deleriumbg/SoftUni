@@ -1,0 +1,6 @@
+C:\Projects\03_Simple_Conditions\Speed_Info\bin\Debug\Speed_Info.exe.config
+C:\Projects\03_Simple_Conditions\Speed_Info\bin\Debug\Speed_Info.exe
+C:\Projects\03_Simple_Conditions\Speed_Info\bin\Debug\Speed_Info.pdb
+C:\Projects\03_Simple_Conditions\Speed_Info\obj\Debug\Speed_Info.csproj.CoreCompileInputs.cache
+C:\Projects\03_Simple_Conditions\Speed_Info\obj\Debug\Speed_Info.exe
+C:\Projects\03_Simple_Conditions\Speed_Info\obj\Debug\Speed_Info.pdb

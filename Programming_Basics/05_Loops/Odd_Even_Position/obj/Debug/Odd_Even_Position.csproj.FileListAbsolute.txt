@@ -1,0 +1,7 @@
+C:\Projects\05_Loops\Odd_Even_Position\bin\Debug\Odd_Even_Position.exe.config
+C:\Projects\05_Loops\Odd_Even_Position\bin\Debug\Odd_Even_Position.exe
+C:\Projects\05_Loops\Odd_Even_Position\bin\Debug\Odd_Even_Position.pdb
+C:\Projects\05_Loops\Odd_Even_Position\obj\Debug\Odd_Even_Position.csprojResolveAssemblyReference.cache
+C:\Projects\05_Loops\Odd_Even_Position\obj\Debug\Odd_Even_Position.csproj.CoreCompileInputs.cache
+C:\Projects\05_Loops\Odd_Even_Position\obj\Debug\Odd_Even_Position.exe
+C:\Projects\05_Loops\Odd_Even_Position\obj\Debug\Odd_Even_Position.pdb

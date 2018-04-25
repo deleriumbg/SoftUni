@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\bin\Debug\netcoreapp2.0\Fold_and_Sum.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\bin\Debug\netcoreapp2.0\Fold_and_Sum.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\bin\Debug\netcoreapp2.0\Fold_and_Sum.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\bin\Debug\netcoreapp2.0\Fold_and_Sum.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\bin\Debug\netcoreapp2.0\Fold_and_Sum.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Fold_and_Sum\obj\Debug\netcoreapp2.0\Fold_and_Sum.pdb

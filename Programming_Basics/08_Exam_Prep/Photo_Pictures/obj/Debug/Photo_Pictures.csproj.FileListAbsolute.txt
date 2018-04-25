@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\bin\Debug\Photo_Pictures.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\bin\Debug\Photo_Pictures.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\bin\Debug\Photo_Pictures.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\obj\Debug\Photo_Pictures.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\obj\Debug\Photo_Pictures.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Photo_Pictures\obj\Debug\Photo_Pictures.pdb

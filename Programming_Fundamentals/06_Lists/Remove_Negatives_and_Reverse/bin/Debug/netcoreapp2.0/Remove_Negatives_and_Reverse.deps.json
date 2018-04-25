@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Remove_Negatives_and_Reverse/1.0.0": {
+        "runtime": {
+          "Remove_Negatives_and_Reverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Remove_Negatives_and_Reverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

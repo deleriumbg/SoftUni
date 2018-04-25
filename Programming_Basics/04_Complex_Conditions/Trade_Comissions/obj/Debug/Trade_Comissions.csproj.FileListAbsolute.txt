@@ -1,0 +1,7 @@
+C:\Projects\04_Complex_Conditions\Trade_Comissions\bin\Debug\Trade_Comissions.exe.config
+C:\Projects\04_Complex_Conditions\Trade_Comissions\bin\Debug\Trade_Comissions.exe
+C:\Projects\04_Complex_Conditions\Trade_Comissions\bin\Debug\Trade_Comissions.pdb
+C:\Projects\04_Complex_Conditions\Trade_Comissions\obj\Debug\Trade_Comissions.csprojResolveAssemblyReference.cache
+C:\Projects\04_Complex_Conditions\Trade_Comissions\obj\Debug\Trade_Comissions.csproj.CoreCompileInputs.cache
+C:\Projects\04_Complex_Conditions\Trade_Comissions\obj\Debug\Trade_Comissions.exe
+C:\Projects\04_Complex_Conditions\Trade_Comissions\obj\Debug\Trade_Comissions.pdb

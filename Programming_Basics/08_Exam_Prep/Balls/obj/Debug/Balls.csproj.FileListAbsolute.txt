@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\bin\Debug\Balls.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\bin\Debug\Balls.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\bin\Debug\Balls.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\obj\Debug\Balls.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Balls\obj\Debug\Balls.pdb

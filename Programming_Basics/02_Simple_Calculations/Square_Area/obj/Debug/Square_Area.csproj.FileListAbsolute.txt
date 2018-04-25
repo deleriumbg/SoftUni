@@ -1,0 +1,6 @@
+C:\Projects\02_Simple_Calculations\Square_Area\obj\Debug\Square_Area.csproj.CoreCompileInputs.cache
+C:\Projects\02_Simple_Calculations\Square_Area\bin\Debug\Square_Area.exe.config
+C:\Projects\02_Simple_Calculations\Square_Area\bin\Debug\Square_Area.exe
+C:\Projects\02_Simple_Calculations\Square_Area\bin\Debug\Square_Area.pdb
+C:\Projects\02_Simple_Calculations\Square_Area\obj\Debug\Square_Area.exe
+C:\Projects\02_Simple_Calculations\Square_Area\obj\Debug\Square_Area.pdb

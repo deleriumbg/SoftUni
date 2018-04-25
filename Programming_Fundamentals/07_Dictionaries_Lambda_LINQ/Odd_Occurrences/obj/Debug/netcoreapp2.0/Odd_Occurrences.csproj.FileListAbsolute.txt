@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\bin\Debug\netcoreapp2.0\Odd_Occurrences.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\bin\Debug\netcoreapp2.0\Odd_Occurrences.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\bin\Debug\netcoreapp2.0\Odd_Occurrences.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\bin\Debug\netcoreapp2.0\Odd_Occurrences.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\bin\Debug\netcoreapp2.0\Odd_Occurrences.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\obj\Debug\netcoreapp2.0\Odd_Occurrences.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\obj\Debug\netcoreapp2.0\Odd_Occurrences.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\obj\Debug\netcoreapp2.0\Odd_Occurrences.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\obj\Debug\netcoreapp2.0\Odd_Occurrences.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Odd_Occurrences\obj\Debug\netcoreapp2.0\Odd_Occurrences.pdb

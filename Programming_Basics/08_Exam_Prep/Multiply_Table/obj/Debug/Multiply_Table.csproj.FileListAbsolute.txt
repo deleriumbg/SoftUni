@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\bin\Debug\Multiply_Table.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\bin\Debug\Multiply_Table.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\bin\Debug\Multiply_Table.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\obj\Debug\Multiply_Table.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\obj\Debug\Multiply_Table.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Multiply_Table\obj\Debug\Multiply_Table.pdb

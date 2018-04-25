@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\bin\Debug\netcoreapp2.0\Count_Numbers.deps.json
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\bin\Debug\netcoreapp2.0\Count_Numbers.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\bin\Debug\netcoreapp2.0\Count_Numbers.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\bin\Debug\netcoreapp2.0\Count_Numbers.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\bin\Debug\netcoreapp2.0\Count_Numbers.pdb
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\obj\Debug\netcoreapp2.0\Count_Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\obj\Debug\netcoreapp2.0\Count_Numbers.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\obj\Debug\netcoreapp2.0\Count_Numbers.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\obj\Debug\netcoreapp2.0\Count_Numbers.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Count_Numbers\obj\Debug\netcoreapp2.0\Count_Numbers.pdb

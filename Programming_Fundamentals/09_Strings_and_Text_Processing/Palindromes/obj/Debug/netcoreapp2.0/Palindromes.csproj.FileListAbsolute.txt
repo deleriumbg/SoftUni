@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\bin\Debug\netcoreapp2.0\Palindromes.deps.json
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\bin\Debug\netcoreapp2.0\Palindromes.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\bin\Debug\netcoreapp2.0\Palindromes.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\bin\Debug\netcoreapp2.0\Palindromes.dll
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\bin\Debug\netcoreapp2.0\Palindromes.pdb
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.dll
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.pdb
+C:\Projects\Programming_Fundamentals\09_Strings_and_Text_Processing\Palindromes\obj\Debug\netcoreapp2.0\Palindromes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\bin\Debug\netcoreapp2.0\Hands_of_Cards.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\bin\Debug\netcoreapp2.0\Hands_of_Cards.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\bin\Debug\netcoreapp2.0\Hands_of_Cards.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\bin\Debug\netcoreapp2.0\Hands_of_Cards.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\bin\Debug\netcoreapp2.0\Hands_of_Cards.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Hands_of_Cards\obj\Debug\netcoreapp2.0\Hands_of_Cards.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\bin\Debug\Profit.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\bin\Debug\Profit.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\bin\Debug\Profit.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\obj\Debug\Profit.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Profit\obj\Debug\Profit.pdb

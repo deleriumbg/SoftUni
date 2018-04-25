@@ -1,0 +1,7 @@
+C:\Projects\03_Simple_Conditions\Unit_Converter\bin\Debug\Unit_Converter.exe.config
+C:\Projects\03_Simple_Conditions\Unit_Converter\bin\Debug\Unit_Converter.exe
+C:\Projects\03_Simple_Conditions\Unit_Converter\bin\Debug\Unit_Converter.pdb
+C:\Projects\03_Simple_Conditions\Unit_Converter\obj\Debug\Unit_Converter.csprojResolveAssemblyReference.cache
+C:\Projects\03_Simple_Conditions\Unit_Converter\obj\Debug\Unit_Converter.csproj.CoreCompileInputs.cache
+C:\Projects\03_Simple_Conditions\Unit_Converter\obj\Debug\Unit_Converter.exe
+C:\Projects\03_Simple_Conditions\Unit_Converter\obj\Debug\Unit_Converter.pdb

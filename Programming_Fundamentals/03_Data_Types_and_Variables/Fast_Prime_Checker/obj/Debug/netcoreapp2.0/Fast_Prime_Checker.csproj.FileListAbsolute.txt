@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\bin\Debug\netcoreapp2.0\Fast_Prime_Checker.deps.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\bin\Debug\netcoreapp2.0\Fast_Prime_Checker.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\bin\Debug\netcoreapp2.0\Fast_Prime_Checker.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\bin\Debug\netcoreapp2.0\Fast_Prime_Checker.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\bin\Debug\netcoreapp2.0\Fast_Prime_Checker.pdb
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\obj\Debug\netcoreapp2.0\Fast_Prime_Checker.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\obj\Debug\netcoreapp2.0\Fast_Prime_Checker.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\obj\Debug\netcoreapp2.0\Fast_Prime_Checker.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\obj\Debug\netcoreapp2.0\Fast_Prime_Checker.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Fast_Prime_Checker\obj\Debug\netcoreapp2.0\Fast_Prime_Checker.pdb

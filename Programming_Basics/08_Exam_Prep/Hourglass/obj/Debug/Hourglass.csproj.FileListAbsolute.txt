@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\bin\Debug\Hourglass.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\bin\Debug\Hourglass.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\bin\Debug\Hourglass.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\obj\Debug\Hourglass.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\obj\Debug\Hourglass.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Hourglass\obj\Debug\Hourglass.pdb

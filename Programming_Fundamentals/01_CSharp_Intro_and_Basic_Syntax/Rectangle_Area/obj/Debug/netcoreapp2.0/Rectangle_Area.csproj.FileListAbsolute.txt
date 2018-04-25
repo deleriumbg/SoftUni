@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\bin\Debug\netcoreapp2.0\Rectangle_Area.deps.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\bin\Debug\netcoreapp2.0\Rectangle_Area.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\bin\Debug\netcoreapp2.0\Rectangle_Area.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\bin\Debug\netcoreapp2.0\Rectangle_Area.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\bin\Debug\netcoreapp2.0\Rectangle_Area.pdb
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\obj\Debug\netcoreapp2.0\Rectangle_Area.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\obj\Debug\netcoreapp2.0\Rectangle_Area.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\obj\Debug\netcoreapp2.0\Rectangle_Area.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\obj\Debug\netcoreapp2.0\Rectangle_Area.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Rectangle_Area\obj\Debug\netcoreapp2.0\Rectangle_Area.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\bin\Debug\Prime_Pairs.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\bin\Debug\Prime_Pairs.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\bin\Debug\Prime_Pairs.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\obj\Debug\Prime_Pairs.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\obj\Debug\Prime_Pairs.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\obj\Debug\Prime_Pairs.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Prime_Pairs\obj\Debug\Prime_Pairs.pdb

@@ -1,0 +1,7 @@
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\bin\Debug\Greatest_Common_Diviser.exe.config
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\bin\Debug\Greatest_Common_Diviser.exe
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\bin\Debug\Greatest_Common_Diviser.pdb
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\obj\Debug\Greatest_Common_Diviser.csprojResolveAssemblyReference.cache
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\obj\Debug\Greatest_Common_Diviser.csproj.CoreCompileInputs.cache
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\obj\Debug\Greatest_Common_Diviser.exe
+C:\Projects\07_Advanced_Loops\Greatest_Common_Diviser\obj\Debug\Greatest_Common_Diviser.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\bin\Debug\netcoreapp2.0\Closest_Two_Points.deps.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\bin\Debug\netcoreapp2.0\Closest_Two_Points.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\bin\Debug\netcoreapp2.0\Closest_Two_Points.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\bin\Debug\netcoreapp2.0\Closest_Two_Points.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\bin\Debug\netcoreapp2.0\Closest_Two_Points.pdb
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Closest_Two_Points\obj\Debug\netcoreapp2.0\Closest_Two_Points.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\bin\Debug\netcoreapp2.0\Magic_Letter.deps.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\bin\Debug\netcoreapp2.0\Magic_Letter.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\bin\Debug\netcoreapp2.0\Magic_Letter.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\bin\Debug\netcoreapp2.0\Magic_Letter.dll
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\bin\Debug\netcoreapp2.0\Magic_Letter.pdb
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.dll
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Magic_Letter\obj\Debug\netcoreapp2.0\Magic_Letter.pdb

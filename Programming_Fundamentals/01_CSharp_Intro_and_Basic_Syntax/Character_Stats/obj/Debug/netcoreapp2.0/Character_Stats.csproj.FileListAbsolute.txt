@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\bin\Debug\netcoreapp2.0\Character_Stats.deps.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\bin\Debug\netcoreapp2.0\Character_Stats.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\bin\Debug\netcoreapp2.0\Character_Stats.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\bin\Debug\netcoreapp2.0\Character_Stats.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\bin\Debug\netcoreapp2.0\Character_Stats.pdb
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\obj\Debug\netcoreapp2.0\Character_Stats.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\obj\Debug\netcoreapp2.0\Character_Stats.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\obj\Debug\netcoreapp2.0\Character_Stats.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\obj\Debug\netcoreapp2.0\Character_Stats.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Character_Stats\obj\Debug\netcoreapp2.0\Character_Stats.pdb

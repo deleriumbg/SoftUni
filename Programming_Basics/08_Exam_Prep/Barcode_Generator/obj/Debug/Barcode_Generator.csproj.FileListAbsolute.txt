@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\bin\Debug\Barcode_Generator.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\bin\Debug\Barcode_Generator.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\bin\Debug\Barcode_Generator.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\obj\Debug\Barcode_Generator.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\obj\Debug\Barcode_Generator.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Barcode_Generator\obj\Debug\Barcode_Generator.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\bin\Debug\Lucky_Numbers.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\bin\Debug\Lucky_Numbers.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\bin\Debug\Lucky_Numbers.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\obj\Debug\Lucky_Numbers.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\obj\Debug\Lucky_Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\obj\Debug\Lucky_Numbers.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Lucky_Numbers\obj\Debug\Lucky_Numbers.pdb

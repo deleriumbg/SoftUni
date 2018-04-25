@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\bin\Debug\netcoreapp2.0\Center_Point.deps.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\bin\Debug\netcoreapp2.0\Center_Point.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\bin\Debug\netcoreapp2.0\Center_Point.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\bin\Debug\netcoreapp2.0\Center_Point.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\bin\Debug\netcoreapp2.0\Center_Point.pdb
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\obj\Debug\netcoreapp2.0\Center_Point.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\obj\Debug\netcoreapp2.0\Center_Point.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\obj\Debug\netcoreapp2.0\Center_Point.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\obj\Debug\netcoreapp2.0\Center_Point.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Center_Point\obj\Debug\netcoreapp2.0\Center_Point.pdb

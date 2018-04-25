@@ -1,0 +1,6 @@
+C:\Projects\06_Drawing_With_Loops\Square_Frame\bin\Debug\Square_Frame.exe.config
+C:\Projects\06_Drawing_With_Loops\Square_Frame\bin\Debug\Square_Frame.exe
+C:\Projects\06_Drawing_With_Loops\Square_Frame\bin\Debug\Square_Frame.pdb
+C:\Projects\06_Drawing_With_Loops\Square_Frame\obj\Debug\Square_Frame.csproj.CoreCompileInputs.cache
+C:\Projects\06_Drawing_With_Loops\Square_Frame\obj\Debug\Square_Frame.exe
+C:\Projects\06_Drawing_With_Loops\Square_Frame\obj\Debug\Square_Frame.pdb

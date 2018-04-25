@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\bin\Debug\Ivanovis_Family.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\bin\Debug\Ivanovis_Family.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\bin\Debug\Ivanovis_Family.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\obj\Debug\Ivanovis_Family.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\obj\Debug\Ivanovis_Family.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\obj\Debug\Ivanovis_Family.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Family\obj\Debug\Ivanovis_Family.pdb

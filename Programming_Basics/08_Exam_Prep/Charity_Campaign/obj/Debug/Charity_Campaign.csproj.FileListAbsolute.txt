@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\bin\Debug\Charity_Campaign.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\bin\Debug\Charity_Campaign.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\bin\Debug\Charity_Campaign.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\obj\Debug\Charity_Campaign.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\obj\Debug\Charity_Campaign.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Charity_Campaign\obj\Debug\Charity_Campaign.pdb

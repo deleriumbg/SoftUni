@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\bin\Debug\netcoreapp2.0\Pairs_by_Difference.deps.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\bin\Debug\netcoreapp2.0\Pairs_by_Difference.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\bin\Debug\netcoreapp2.0\Pairs_by_Difference.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\bin\Debug\netcoreapp2.0\Pairs_by_Difference.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\bin\Debug\netcoreapp2.0\Pairs_by_Difference.pdb
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\obj\Debug\netcoreapp2.0\Pairs_by_Difference.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\obj\Debug\netcoreapp2.0\Pairs_by_Difference.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\obj\Debug\netcoreapp2.0\Pairs_by_Difference.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\obj\Debug\netcoreapp2.0\Pairs_by_Difference.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Pairs_by_Difference\obj\Debug\netcoreapp2.0\Pairs_by_Difference.pdb

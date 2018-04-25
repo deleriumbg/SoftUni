@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\bin\Debug\New_Years_Eve_Party.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\bin\Debug\New_Years_Eve_Party.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\bin\Debug\New_Years_Eve_Party.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\obj\Debug\New_Years_Eve_Party.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\obj\Debug\New_Years_Eve_Party.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\New_Years_Eve_Party\obj\Debug\New_Years_Eve_Party.pdb

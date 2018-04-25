@@ -1,0 +1,6 @@
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.exe.config
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.exe
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.pdb
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.csproj.CoreCompileInputs.cache
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.exe
+C:\Projects\02_Simple_Calculations\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.pdb

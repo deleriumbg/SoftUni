@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\bin\Debug\Butterfly_Linq.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\bin\Debug\Butterfly_Linq.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\bin\Debug\Butterfly_Linq.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\obj\Debug\Butterfly_Linq.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\obj\Debug\Butterfly_Linq.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\obj\Debug\Butterfly_Linq.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Butterfly_Linq\obj\Debug\Butterfly_Linq.pdb

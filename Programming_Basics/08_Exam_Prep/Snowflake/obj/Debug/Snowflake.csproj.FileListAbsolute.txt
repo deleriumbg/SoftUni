@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\bin\Debug\Snowflake.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\bin\Debug\Snowflake.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\bin\Debug\Snowflake.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\obj\Debug\Snowflake.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Snowflake\obj\Debug\Snowflake.pdb

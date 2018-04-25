@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\bin\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.deps.json
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\bin\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\bin\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\bin\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\bin\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.pdb
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Sum_Adjacent_Equal_Numbers\obj\Debug\netcoreapp2.0\Sum_Adjacent_Equal_Numbers.pdb

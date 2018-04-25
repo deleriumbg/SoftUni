@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\bin\Debug\Grandpa_Stavri.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\bin\Debug\Grandpa_Stavri.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\bin\Debug\Grandpa_Stavri.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\obj\Debug\Grandpa_Stavri.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\obj\Debug\Grandpa_Stavri.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Grandpa_Stavri\obj\Debug\Grandpa_Stavri.pdb

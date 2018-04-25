@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\bin\Debug\netcoreapp2.0\Reversed_Chars.deps.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\bin\Debug\netcoreapp2.0\Reversed_Chars.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\bin\Debug\netcoreapp2.0\Reversed_Chars.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\bin\Debug\netcoreapp2.0\Reversed_Chars.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\bin\Debug\netcoreapp2.0\Reversed_Chars.pdb
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\obj\Debug\netcoreapp2.0\Reversed_Chars.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\obj\Debug\netcoreapp2.0\Reversed_Chars.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\obj\Debug\netcoreapp2.0\Reversed_Chars.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\obj\Debug\netcoreapp2.0\Reversed_Chars.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Reversed_Chars\obj\Debug\netcoreapp2.0\Reversed_Chars.pdb

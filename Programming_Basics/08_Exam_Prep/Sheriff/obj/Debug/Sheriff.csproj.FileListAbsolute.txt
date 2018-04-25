@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\bin\Debug\Sheriff.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\bin\Debug\Sheriff.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\bin\Debug\Sheriff.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\obj\Debug\Sheriff.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\obj\Debug\Sheriff.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Sheriff\obj\Debug\Sheriff.pdb

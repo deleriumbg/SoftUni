@@ -1,0 +1,6 @@
+C:\Projects\05_Loops\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.exe.config
+C:\Projects\05_Loops\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.exe
+C:\Projects\05_Loops\Numbers_Ending_in_7\bin\Debug\Numbers_Ending_in_7.pdb
+C:\Projects\05_Loops\Numbers_Ending_in_7\obj\Debug\Numbers_Ending_in_7.csproj.CoreCompileInputs.cache
+C:\Projects\05_Loops\Numbers_Ending_in_7\obj\Debug\Numbers_Ending_in_7.exe
+C:\Projects\05_Loops\Numbers_Ending_in_7\obj\Debug\Numbers_Ending_in_7.pdb

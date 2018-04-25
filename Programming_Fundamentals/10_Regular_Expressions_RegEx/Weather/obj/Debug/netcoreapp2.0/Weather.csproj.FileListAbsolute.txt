@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Weather\obj\Debug\netcoreapp2.0\Weather.pdb

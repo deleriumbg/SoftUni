@@ -1,0 +1,7 @@
+C:\Projects\06_Drawing_With_Loops\Diamond\bin\Debug\Diamond.exe.config
+C:\Projects\06_Drawing_With_Loops\Diamond\bin\Debug\Diamond.exe
+C:\Projects\06_Drawing_With_Loops\Diamond\bin\Debug\Diamond.pdb
+C:\Projects\06_Drawing_With_Loops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Projects\06_Drawing_With_Loops\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Projects\06_Drawing_With_Loops\Diamond\obj\Debug\Diamond.exe
+C:\Projects\06_Drawing_With_Loops\Diamond\obj\Debug\Diamond.pdb

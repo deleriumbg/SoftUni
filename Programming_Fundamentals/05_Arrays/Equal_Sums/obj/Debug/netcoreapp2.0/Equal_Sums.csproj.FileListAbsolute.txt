@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\bin\Debug\netcoreapp2.0\Equal_Sums.deps.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\bin\Debug\netcoreapp2.0\Equal_Sums.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\bin\Debug\netcoreapp2.0\Equal_Sums.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\bin\Debug\netcoreapp2.0\Equal_Sums.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\bin\Debug\netcoreapp2.0\Equal_Sums.pdb
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\obj\Debug\netcoreapp2.0\Equal_Sums.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\obj\Debug\netcoreapp2.0\Equal_Sums.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\obj\Debug\netcoreapp2.0\Equal_Sums.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\obj\Debug\netcoreapp2.0\Equal_Sums.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Equal_Sums\obj\Debug\netcoreapp2.0\Equal_Sums.pdb

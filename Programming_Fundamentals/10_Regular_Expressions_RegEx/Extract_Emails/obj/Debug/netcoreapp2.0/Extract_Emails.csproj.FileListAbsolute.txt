@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\bin\Debug\netcoreapp2.0\Extract_Emails.deps.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\bin\Debug\netcoreapp2.0\Extract_Emails.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\bin\Debug\netcoreapp2.0\Extract_Emails.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\bin\Debug\netcoreapp2.0\Extract_Emails.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\bin\Debug\netcoreapp2.0\Extract_Emails.pdb
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Extract_Emails\obj\Debug\netcoreapp2.0\Extract_Emails.pdb

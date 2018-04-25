@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\bin\Debug\netcoreapp2.0\Extract_Middle_Elements.deps.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\bin\Debug\netcoreapp2.0\Extract_Middle_Elements.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\bin\Debug\netcoreapp2.0\Extract_Middle_Elements.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\bin\Debug\netcoreapp2.0\Extract_Middle_Elements.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\bin\Debug\netcoreapp2.0\Extract_Middle_Elements.pdb
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\obj\Debug\netcoreapp2.0\Extract_Middle_Elements.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\obj\Debug\netcoreapp2.0\Extract_Middle_Elements.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\obj\Debug\netcoreapp2.0\Extract_Middle_Elements.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\obj\Debug\netcoreapp2.0\Extract_Middle_Elements.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Extract_Middle_Elements\obj\Debug\netcoreapp2.0\Extract_Middle_Elements.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\bin\Debug\Final_Competition.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\bin\Debug\Final_Competition.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\bin\Debug\Final_Competition.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\obj\Debug\Final_Competition.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\obj\Debug\Final_Competition.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\obj\Debug\Final_Competition.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Final_Competition\obj\Debug\Final_Competition.pdb

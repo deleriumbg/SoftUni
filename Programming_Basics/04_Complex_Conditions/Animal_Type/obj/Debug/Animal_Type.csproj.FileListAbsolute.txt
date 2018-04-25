@@ -1,0 +1,6 @@
+C:\Projects\04_Complex_Conditions\Animal_Type\bin\Debug\Animal_Type.exe.config
+C:\Projects\04_Complex_Conditions\Animal_Type\bin\Debug\Animal_Type.exe
+C:\Projects\04_Complex_Conditions\Animal_Type\bin\Debug\Animal_Type.pdb
+C:\Projects\04_Complex_Conditions\Animal_Type\obj\Debug\Animal_Type.csproj.CoreCompileInputs.cache
+C:\Projects\04_Complex_Conditions\Animal_Type\obj\Debug\Animal_Type.exe
+C:\Projects\04_Complex_Conditions\Animal_Type\obj\Debug\Animal_Type.pdb

@@ -1,0 +1,7 @@
+C:\Projects\07_Advanced_Loops\Number_Pyramid\bin\Debug\Number_Pyramid.exe.config
+C:\Projects\07_Advanced_Loops\Number_Pyramid\bin\Debug\Number_Pyramid.exe
+C:\Projects\07_Advanced_Loops\Number_Pyramid\bin\Debug\Number_Pyramid.pdb
+C:\Projects\07_Advanced_Loops\Number_Pyramid\obj\Debug\Number_Pyramid.csproj.CoreCompileInputs.cache
+C:\Projects\07_Advanced_Loops\Number_Pyramid\obj\Debug\Number_Pyramid.exe
+C:\Projects\07_Advanced_Loops\Number_Pyramid\obj\Debug\Number_Pyramid.pdb
+C:\Projects\07_Advanced_Loops\Number_Pyramid\obj\Debug\Number_Pyramid.csprojResolveAssemblyReference.cache

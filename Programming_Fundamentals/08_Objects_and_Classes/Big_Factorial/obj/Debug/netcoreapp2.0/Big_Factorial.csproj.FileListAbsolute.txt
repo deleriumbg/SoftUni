@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\bin\Debug\netcoreapp2.0\Big_Factorial.deps.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\bin\Debug\netcoreapp2.0\Big_Factorial.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\bin\Debug\netcoreapp2.0\Big_Factorial.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\bin\Debug\netcoreapp2.0\Big_Factorial.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\bin\Debug\netcoreapp2.0\Big_Factorial.pdb
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\obj\Debug\netcoreapp2.0\Big_Factorial.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\obj\Debug\netcoreapp2.0\Big_Factorial.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\obj\Debug\netcoreapp2.0\Big_Factorial.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\obj\Debug\netcoreapp2.0\Big_Factorial.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Big_Factorial\obj\Debug\netcoreapp2.0\Big_Factorial.pdb

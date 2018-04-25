@@ -1,0 +1,6 @@
+C:\Projects\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe.config
+C:\Projects\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe
+C:\Projects\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.pdb
+C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.csproj.CoreCompileInputs.cache
+C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.exe
+C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.pdb

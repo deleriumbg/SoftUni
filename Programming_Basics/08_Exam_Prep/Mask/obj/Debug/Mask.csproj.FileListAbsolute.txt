@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\bin\Debug\Mask.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\bin\Debug\Mask.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\bin\Debug\Mask.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\obj\Debug\Mask.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\obj\Debug\Mask.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\obj\Debug\Mask.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Mask\obj\Debug\Mask.csprojResolveAssemblyReference.cache

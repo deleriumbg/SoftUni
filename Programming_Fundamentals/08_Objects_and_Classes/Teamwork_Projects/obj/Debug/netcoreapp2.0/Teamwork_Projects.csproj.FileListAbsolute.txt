@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\bin\Debug\netcoreapp2.0\Teamwork_Projects.deps.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\bin\Debug\netcoreapp2.0\Teamwork_Projects.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\bin\Debug\netcoreapp2.0\Teamwork_Projects.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\bin\Debug\netcoreapp2.0\Teamwork_Projects.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\bin\Debug\netcoreapp2.0\Teamwork_Projects.pdb
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Teamwork_Projects\obj\Debug\netcoreapp2.0\Teamwork_Projects.pdb

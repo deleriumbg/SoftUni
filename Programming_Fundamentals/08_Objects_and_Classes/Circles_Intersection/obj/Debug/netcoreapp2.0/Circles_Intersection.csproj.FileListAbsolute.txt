@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\bin\Debug\netcoreapp2.0\Circles_Intersection.deps.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\bin\Debug\netcoreapp2.0\Circles_Intersection.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\bin\Debug\netcoreapp2.0\Circles_Intersection.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\bin\Debug\netcoreapp2.0\Circles_Intersection.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\bin\Debug\netcoreapp2.0\Circles_Intersection.pdb
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.dll
+C:\Projects\Programming_Fundamentals\08_Objects_and_Classes\Circles_Intersection\obj\Debug\netcoreapp2.0\Circles_Intersection.pdb

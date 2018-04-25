@@ -1,0 +1,7 @@
+C:\Projects\05_Loops\Odd_and_Even_Sum\bin\Debug\Odd_and_Even_Sum.exe.config
+C:\Projects\05_Loops\Odd_and_Even_Sum\bin\Debug\Odd_and_Even_Sum.exe
+C:\Projects\05_Loops\Odd_and_Even_Sum\bin\Debug\Odd_and_Even_Sum.pdb
+C:\Projects\05_Loops\Odd_and_Even_Sum\obj\Debug\Odd_and_Even_Sum.csprojResolveAssemblyReference.cache
+C:\Projects\05_Loops\Odd_and_Even_Sum\obj\Debug\Odd_and_Even_Sum.csproj.CoreCompileInputs.cache
+C:\Projects\05_Loops\Odd_and_Even_Sum\obj\Debug\Odd_and_Even_Sum.exe
+C:\Projects\05_Loops\Odd_and_Even_Sum\obj\Debug\Odd_and_Even_Sum.pdb

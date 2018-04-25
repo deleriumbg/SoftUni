@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\bin\Debug\netcoreapp2.0\Employee_Data.deps.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\bin\Debug\netcoreapp2.0\Employee_Data.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\bin\Debug\netcoreapp2.0\Employee_Data.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\bin\Debug\netcoreapp2.0\Employee_Data.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\bin\Debug\netcoreapp2.0\Employee_Data.pdb
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\obj\Debug\netcoreapp2.0\Employee_Data.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\obj\Debug\netcoreapp2.0\Employee_Data.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\obj\Debug\netcoreapp2.0\Employee_Data.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\obj\Debug\netcoreapp2.0\Employee_Data.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Employee_Data\obj\Debug\netcoreapp2.0\Employee_Data.pdb

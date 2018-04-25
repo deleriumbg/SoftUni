@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\bin\Debug\Ivanovis_Holiday.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\bin\Debug\Ivanovis_Holiday.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\bin\Debug\Ivanovis_Holiday.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\obj\Debug\Ivanovis_Holiday.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\obj\Debug\Ivanovis_Holiday.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Ivanovis_Holiday\obj\Debug\Ivanovis_Holiday.pdb

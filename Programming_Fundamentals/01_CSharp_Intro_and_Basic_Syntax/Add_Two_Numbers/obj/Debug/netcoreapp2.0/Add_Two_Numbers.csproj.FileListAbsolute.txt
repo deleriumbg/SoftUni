@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\bin\Debug\netcoreapp2.0\Add_Two_Numbers.deps.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\bin\Debug\netcoreapp2.0\Add_Two_Numbers.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\bin\Debug\netcoreapp2.0\Add_Two_Numbers.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\bin\Debug\netcoreapp2.0\Add_Two_Numbers.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\bin\Debug\netcoreapp2.0\Add_Two_Numbers.pdb
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\obj\Debug\netcoreapp2.0\Add_Two_Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\obj\Debug\netcoreapp2.0\Add_Two_Numbers.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\obj\Debug\netcoreapp2.0\Add_Two_Numbers.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\obj\Debug\netcoreapp2.0\Add_Two_Numbers.dll
+C:\Projects\Programming_Fundamentals\01_CSharp_Intro_and_Basic_Syntax\Add_Two_Numbers\obj\Debug\netcoreapp2.0\Add_Two_Numbers.pdb

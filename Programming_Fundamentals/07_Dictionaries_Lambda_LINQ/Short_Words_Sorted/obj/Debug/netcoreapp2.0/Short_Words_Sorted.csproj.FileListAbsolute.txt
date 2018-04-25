@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\bin\Debug\netcoreapp2.0\Short_Words_Sorted.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\bin\Debug\netcoreapp2.0\Short_Words_Sorted.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\bin\Debug\netcoreapp2.0\Short_Words_Sorted.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\bin\Debug\netcoreapp2.0\Short_Words_Sorted.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\bin\Debug\netcoreapp2.0\Short_Words_Sorted.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Short_Words_Sorted\obj\Debug\netcoreapp2.0\Short_Words_Sorted.pdb

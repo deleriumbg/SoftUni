@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\bin\Debug\Cup.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\bin\Debug\Cup.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\bin\Debug\Cup.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\obj\Debug\Cup.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\obj\Debug\Cup.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Cup\obj\Debug\Cup.pdb

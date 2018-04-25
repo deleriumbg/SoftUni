@@ -1,0 +1,7 @@
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe.config
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.pdb
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.csproj.CoreCompileInputs.cache
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.exe
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.pdb
+C:\Projects\04_Complex_Conditions\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.csprojResolveAssemblyReference.cache

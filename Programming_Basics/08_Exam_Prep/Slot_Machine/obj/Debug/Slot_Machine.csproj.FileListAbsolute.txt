@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Slot_Machine\obj\Debug\Slot_Machine.pdb

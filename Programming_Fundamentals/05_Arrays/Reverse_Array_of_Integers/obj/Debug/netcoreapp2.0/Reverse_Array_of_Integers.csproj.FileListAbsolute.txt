@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\bin\Debug\netcoreapp2.0\Reverse_Array_of_Integers.deps.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\bin\Debug\netcoreapp2.0\Reverse_Array_of_Integers.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\bin\Debug\netcoreapp2.0\Reverse_Array_of_Integers.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\bin\Debug\netcoreapp2.0\Reverse_Array_of_Integers.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\bin\Debug\netcoreapp2.0\Reverse_Array_of_Integers.pdb
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Reverse_Array_of_Integers\obj\Debug\netcoreapp2.0\Reverse_Array_of_Integers.pdb

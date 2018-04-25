@@ -1,0 +1,6 @@
+C:\Projects\06_Drawing_With_Loops\Fortress\bin\Debug\Fortress.exe.config
+C:\Projects\06_Drawing_With_Loops\Fortress\bin\Debug\Fortress.exe
+C:\Projects\06_Drawing_With_Loops\Fortress\bin\Debug\Fortress.pdb
+C:\Projects\06_Drawing_With_Loops\Fortress\obj\Debug\Fortress.csproj.CoreCompileInputs.cache
+C:\Projects\06_Drawing_With_Loops\Fortress\obj\Debug\Fortress.exe
+C:\Projects\06_Drawing_With_Loops\Fortress\obj\Debug\Fortress.pdb

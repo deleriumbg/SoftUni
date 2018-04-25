@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\bin\Debug\Bills.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\bin\Debug\Bills.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\bin\Debug\Bills.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\obj\Debug\Bills.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\obj\Debug\Bills.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\obj\Debug\Bills.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Bills\obj\Debug\Bills.pdb

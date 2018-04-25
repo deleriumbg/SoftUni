@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\bin\Debug\netcoreapp2.0\Vowel_or_Digit.deps.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\bin\Debug\netcoreapp2.0\Vowel_or_Digit.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\bin\Debug\netcoreapp2.0\Vowel_or_Digit.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\bin\Debug\netcoreapp2.0\Vowel_or_Digit.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\bin\Debug\netcoreapp2.0\Vowel_or_Digit.pdb
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\obj\Debug\netcoreapp2.0\Vowel_or_Digit.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\obj\Debug\netcoreapp2.0\Vowel_or_Digit.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\obj\Debug\netcoreapp2.0\Vowel_or_Digit.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\obj\Debug\netcoreapp2.0\Vowel_or_Digit.dll
+C:\Projects\Programming_Fundamentals\03_Data_Types_and_Variables\Vowel_or_Digit\obj\Debug\netcoreapp2.0\Vowel_or_Digit.pdb

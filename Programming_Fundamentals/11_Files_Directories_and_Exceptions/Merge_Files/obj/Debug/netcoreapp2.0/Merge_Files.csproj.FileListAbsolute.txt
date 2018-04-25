@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\bin\Debug\netcoreapp2.0\Merge_Files.deps.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\bin\Debug\netcoreapp2.0\Merge_Files.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\bin\Debug\netcoreapp2.0\Merge_Files.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\bin\Debug\netcoreapp2.0\Merge_Files.dll
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\bin\Debug\netcoreapp2.0\Merge_Files.pdb
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.dll
+C:\Projects\Programming_Fundamentals\11_Files_Directories_and_Exceptions\Merge_Files\obj\Debug\netcoreapp2.0\Merge_Files.pdb

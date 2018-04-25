@@ -1,0 +1,6 @@
+C:\Projects\05_Loops\Min_Number\bin\Debug\Min_Number.exe.config
+C:\Projects\05_Loops\Min_Number\bin\Debug\Min_Number.exe
+C:\Projects\05_Loops\Min_Number\bin\Debug\Min_Number.pdb
+C:\Projects\05_Loops\Min_Number\obj\Debug\Min_Number.csproj.CoreCompileInputs.cache
+C:\Projects\05_Loops\Min_Number\obj\Debug\Min_Number.exe
+C:\Projects\05_Loops\Min_Number\obj\Debug\Min_Number.pdb

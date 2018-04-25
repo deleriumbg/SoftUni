@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\bin\Debug\Bakery.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\bin\Debug\Bakery.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\bin\Debug\Bakery.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\obj\Debug\Bakery.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\obj\Debug\Bakery.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Bakery\obj\Debug\Bakery.pdb

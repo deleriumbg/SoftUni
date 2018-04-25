@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\bin\Debug\netcoreapp2.0\test2.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\bin\Debug\netcoreapp2.0\test2.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\bin\Debug\netcoreapp2.0\test2.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\bin\Debug\netcoreapp2.0\test2.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\bin\Debug\netcoreapp2.0\test2.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\obj\Debug\netcoreapp2.0\test2.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\obj\Debug\netcoreapp2.0\test2.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\obj\Debug\netcoreapp2.0\test2.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\obj\Debug\netcoreapp2.0\test2.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\test2\obj\Debug\netcoreapp2.0\test2.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\bin\Debug\Swimming_World_Record.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\bin\Debug\Swimming_World_Record.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\bin\Debug\Swimming_World_Record.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\obj\Debug\Swimming_World_Record.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\obj\Debug\Swimming_World_Record.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Swimming_World_Record\obj\Debug\Swimming_World_Record.pdb

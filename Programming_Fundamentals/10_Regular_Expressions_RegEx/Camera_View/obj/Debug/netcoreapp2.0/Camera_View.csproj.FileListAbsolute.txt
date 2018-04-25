@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\bin\Debug\netcoreapp2.0\Camera_View.deps.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\bin\Debug\netcoreapp2.0\Camera_View.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\bin\Debug\netcoreapp2.0\Camera_View.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\bin\Debug\netcoreapp2.0\Camera_View.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\bin\Debug\netcoreapp2.0\Camera_View.pdb
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Camera_View\obj\Debug\netcoreapp2.0\Camera_View.pdb

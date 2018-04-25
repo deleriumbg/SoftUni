@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\bin\Debug\netcoreapp2.0\Hotel.deps.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\bin\Debug\netcoreapp2.0\Hotel.dll
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\bin\Debug\netcoreapp2.0\Hotel.pdb
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.dll
+C:\Projects\Programming_Fundamentals\02_CSharp_Conditional_Statements_and_Loops\Hotel\obj\Debug\netcoreapp2.0\Hotel.pdb

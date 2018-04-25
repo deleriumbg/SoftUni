@@ -1,0 +1,22 @@
+#outside{
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: #0000ff;
+    padding: 10px;
+}
+
+#middle{
+    border-style: dashed;
+    border-radius: 4px;
+    border-color: #ff0000;
+    padding: 10px;
+}
+
+#inner{
+    border-style: solid;
+    border-radius: 3px;
+    border-color: #008000;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}

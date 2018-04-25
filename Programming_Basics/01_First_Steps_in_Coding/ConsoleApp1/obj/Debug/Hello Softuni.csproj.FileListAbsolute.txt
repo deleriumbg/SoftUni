@@ -1,0 +1,7 @@
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\obj\Debug\Hello Softuni.csprojResolveAssemblyReference.cache
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\obj\Debug\Hello Softuni.csproj.CoreCompileInputs.cache
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Projects\01_First_Steps_in_Coding\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

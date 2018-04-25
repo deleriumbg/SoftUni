@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\bin\Debug\netcoreapp2.0\Hello_Name.deps.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\bin\Debug\netcoreapp2.0\Hello_Name.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\bin\Debug\netcoreapp2.0\Hello_Name.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\bin\Debug\netcoreapp2.0\Hello_Name.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\bin\Debug\netcoreapp2.0\Hello_Name.pdb
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.dll
+C:\Projects\Programming_Fundamentals\04_Methods_Debugging_and_Troubleshooting_Code\Hello_Name\obj\Debug\netcoreapp2.0\Hello_Name.pdb

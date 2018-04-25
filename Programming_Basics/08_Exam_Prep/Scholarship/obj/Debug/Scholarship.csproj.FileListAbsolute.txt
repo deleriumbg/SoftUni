@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\bin\Debug\Scholarship.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\bin\Debug\Scholarship.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\obj\Debug\Scholarship.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Scholarship\obj\Debug\Scholarship.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\bin\Debug\Picture_in_the_Wall.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\bin\Debug\Picture_in_the_Wall.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\bin\Debug\Picture_in_the_Wall.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\obj\Debug\Picture_in_the_Wall.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\obj\Debug\Picture_in_the_Wall.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Picture_in_the_Wall\obj\Debug\Picture_in_the_Wall.pdb

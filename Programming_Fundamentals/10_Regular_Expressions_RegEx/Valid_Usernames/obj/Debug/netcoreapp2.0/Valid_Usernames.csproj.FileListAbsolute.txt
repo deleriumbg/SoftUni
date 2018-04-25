@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\bin\Debug\netcoreapp2.0\Valid_Usernames.deps.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\bin\Debug\netcoreapp2.0\Valid_Usernames.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\bin\Debug\netcoreapp2.0\Valid_Usernames.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\bin\Debug\netcoreapp2.0\Valid_Usernames.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\bin\Debug\netcoreapp2.0\Valid_Usernames.pdb
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.dll
+C:\Projects\Programming_Fundamentals\10_Regular_Expressions_RegEx\Valid_Usernames\obj\Debug\netcoreapp2.0\Valid_Usernames.pdb

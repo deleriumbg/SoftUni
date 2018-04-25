@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\bin\Debug\School_Camp.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\bin\Debug\School_Camp.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\bin\Debug\School_Camp.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\obj\Debug\School_Camp.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\obj\Debug\School_Camp.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\School_Camp\obj\Debug\School_Camp.pdb

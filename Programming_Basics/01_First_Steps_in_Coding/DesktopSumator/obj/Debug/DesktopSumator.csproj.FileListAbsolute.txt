@@ -1,0 +1,10 @@
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\bin\Debug\DesktopSumator.exe.config
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\bin\Debug\DesktopSumator.exe
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\bin\Debug\DesktopSumator.pdb
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.csprojResolveAssemblyReference.cache
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.Form1.resources
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.Properties.Resources.resources
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.csproj.GenerateResource.Cache
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.csproj.CoreCompileInputs.cache
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.exe
+C:\Projects\01_First_Steps_in_Coding\DesktopSumator\obj\Debug\DesktopSumator.pdb

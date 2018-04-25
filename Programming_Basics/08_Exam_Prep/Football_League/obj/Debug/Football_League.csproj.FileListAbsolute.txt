@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\bin\Debug\Football_League.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\bin\Debug\Football_League.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\bin\Debug\Football_League.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\obj\Debug\Football_League.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\obj\Debug\Football_League.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Football_League\obj\Debug\Football_League.pdb

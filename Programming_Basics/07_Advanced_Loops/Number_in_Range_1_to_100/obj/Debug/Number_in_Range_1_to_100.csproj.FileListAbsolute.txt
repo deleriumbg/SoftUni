@@ -1,0 +1,6 @@
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\bin\Debug\Number_in_Range_1_to_100.exe.config
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\bin\Debug\Number_in_Range_1_to_100.exe
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\bin\Debug\Number_in_Range_1_to_100.pdb
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\obj\Debug\Number_in_Range_1_to_100.csproj.CoreCompileInputs.cache
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\obj\Debug\Number_in_Range_1_to_100.exe
+C:\Projects\07_Advanced_Loops\Number_in_Range_1_to_100\obj\Debug\Number_in_Range_1_to_100.pdb

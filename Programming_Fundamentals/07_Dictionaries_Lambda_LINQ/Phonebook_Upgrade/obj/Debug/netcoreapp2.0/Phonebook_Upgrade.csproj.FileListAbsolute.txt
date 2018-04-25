@@ -1,0 +1,10 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\bin\Debug\netcoreapp2.0\Phonebook_Upgrade.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\bin\Debug\netcoreapp2.0\Phonebook_Upgrade.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\bin\Debug\netcoreapp2.0\Phonebook_Upgrade.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\bin\Debug\netcoreapp2.0\Phonebook_Upgrade.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\bin\Debug\netcoreapp2.0\Phonebook_Upgrade.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\obj\Debug\netcoreapp2.0\Phonebook_Upgrade.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\obj\Debug\netcoreapp2.0\Phonebook_Upgrade.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\obj\Debug\netcoreapp2.0\Phonebook_Upgrade.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\obj\Debug\netcoreapp2.0\Phonebook_Upgrade.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Phonebook_Upgrade\obj\Debug\netcoreapp2.0\Phonebook_Upgrade.pdb

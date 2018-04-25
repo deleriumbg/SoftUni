@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\bin\Debug\Money_Reward.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\bin\Debug\Money_Reward.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\bin\Debug\Money_Reward.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\obj\Debug\Money_Reward.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\obj\Debug\Money_Reward.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\obj\Debug\Money_Reward.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Money_Reward\obj\Debug\Money_Reward.pdb

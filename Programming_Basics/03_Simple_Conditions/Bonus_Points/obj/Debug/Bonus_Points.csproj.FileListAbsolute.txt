@@ -1,0 +1,7 @@
+C:\Projects\03_Simple_Conditions\Bonus_Points\bin\Debug\Bonus_Points.exe.config
+C:\Projects\03_Simple_Conditions\Bonus_Points\bin\Debug\Bonus_Points.exe
+C:\Projects\03_Simple_Conditions\Bonus_Points\bin\Debug\Bonus_Points.pdb
+C:\Projects\03_Simple_Conditions\Bonus_Points\obj\Debug\Bonus_Points.csprojResolveAssemblyReference.cache
+C:\Projects\03_Simple_Conditions\Bonus_Points\obj\Debug\Bonus_Points.csproj.CoreCompileInputs.cache
+C:\Projects\03_Simple_Conditions\Bonus_Points\obj\Debug\Bonus_Points.exe
+C:\Projects\03_Simple_Conditions\Bonus_Points\obj\Debug\Bonus_Points.pdb

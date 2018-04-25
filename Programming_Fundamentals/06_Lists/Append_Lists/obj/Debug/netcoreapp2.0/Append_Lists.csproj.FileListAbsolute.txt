@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\bin\Debug\netcoreapp2.0\Append_Lists.deps.json
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\bin\Debug\netcoreapp2.0\Append_Lists.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\bin\Debug\netcoreapp2.0\Append_Lists.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\bin\Debug\netcoreapp2.0\Append_Lists.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\bin\Debug\netcoreapp2.0\Append_Lists.pdb
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.dll
+C:\Projects\Programming_Fundamentals\06_Lists\Append_Lists\obj\Debug\netcoreapp2.0\Append_Lists.pdb

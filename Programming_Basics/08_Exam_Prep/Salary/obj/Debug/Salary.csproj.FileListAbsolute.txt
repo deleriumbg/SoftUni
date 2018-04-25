@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\bin\Debug\Salary.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\bin\Debug\Salary.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\bin\Debug\Salary.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\obj\Debug\Salary.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Salary\obj\Debug\Salary.pdb

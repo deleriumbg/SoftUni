@@ -1,0 +1,7 @@
+C:\Projects\02_Simple_Calculations\1000_Days\obj\Debug\1000_Days.csprojResolveAssemblyReference.cache
+C:\Projects\02_Simple_Calculations\1000_Days\obj\Debug\1000_Days.csproj.CoreCompileInputs.cache
+C:\Projects\02_Simple_Calculations\1000_Days\bin\Debug\1000_Days.exe.config
+C:\Projects\02_Simple_Calculations\1000_Days\bin\Debug\1000_Days.exe
+C:\Projects\02_Simple_Calculations\1000_Days\bin\Debug\1000_Days.pdb
+C:\Projects\02_Simple_Calculations\1000_Days\obj\Debug\1000_Days.exe
+C:\Projects\02_Simple_Calculations\1000_Days\obj\Debug\1000_Days.pdb

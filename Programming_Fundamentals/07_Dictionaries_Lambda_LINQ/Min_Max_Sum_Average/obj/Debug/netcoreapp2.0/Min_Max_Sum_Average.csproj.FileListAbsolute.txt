@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\bin\Debug\netcoreapp2.0\Min_Max_Sum_Average.deps.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\bin\Debug\netcoreapp2.0\Min_Max_Sum_Average.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\bin\Debug\netcoreapp2.0\Min_Max_Sum_Average.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\bin\Debug\netcoreapp2.0\Min_Max_Sum_Average.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\bin\Debug\netcoreapp2.0\Min_Max_Sum_Average.pdb
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.dll
+C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Min_Max_Sum_Average\obj\Debug\netcoreapp2.0\Min_Max_Sum_Average.pdb

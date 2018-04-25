@@ -1,0 +1,7 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\bin\Debug\External_Evaluation.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\bin\Debug\External_Evaluation.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\bin\Debug\External_Evaluation.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\obj\Debug\External_Evaluation.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\obj\Debug\External_Evaluation.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\obj\Debug\External_Evaluation.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\External_Evaluation\obj\Debug\External_Evaluation.pdb

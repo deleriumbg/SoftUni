@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\bin\Debug\Friendly_Trip.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\bin\Debug\Friendly_Trip.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\bin\Debug\Friendly_Trip.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\obj\Debug\Friendly_Trip.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\obj\Debug\Friendly_Trip.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Friendly_Trip\obj\Debug\Friendly_Trip.pdb

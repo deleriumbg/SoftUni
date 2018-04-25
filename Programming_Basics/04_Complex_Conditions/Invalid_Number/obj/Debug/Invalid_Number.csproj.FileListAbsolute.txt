@@ -1,0 +1,6 @@
+C:\Projects\04_Complex_Conditions\Invalid_Number\bin\Debug\Invalid_Number.exe.config
+C:\Projects\04_Complex_Conditions\Invalid_Number\bin\Debug\Invalid_Number.exe
+C:\Projects\04_Complex_Conditions\Invalid_Number\bin\Debug\Invalid_Number.pdb
+C:\Projects\04_Complex_Conditions\Invalid_Number\obj\Debug\Invalid_Number.csproj.CoreCompileInputs.cache
+C:\Projects\04_Complex_Conditions\Invalid_Number\obj\Debug\Invalid_Number.exe
+C:\Projects\04_Complex_Conditions\Invalid_Number\obj\Debug\Invalid_Number.pdb

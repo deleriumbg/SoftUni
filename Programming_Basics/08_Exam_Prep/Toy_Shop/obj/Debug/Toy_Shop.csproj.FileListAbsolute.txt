@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\bin\Debug\Toy_Shop.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\bin\Debug\Toy_Shop.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\bin\Debug\Toy_Shop.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\obj\Debug\Toy_Shop.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\obj\Debug\Toy_Shop.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Toy_Shop\obj\Debug\Toy_Shop.pdb

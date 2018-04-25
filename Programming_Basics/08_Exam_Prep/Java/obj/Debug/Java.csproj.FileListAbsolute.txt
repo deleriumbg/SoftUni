@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\bin\Debug\Java.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\bin\Debug\Java.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\bin\Debug\Java.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\obj\Debug\Java.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\obj\Debug\Java.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Java\obj\Debug\Java.pdb

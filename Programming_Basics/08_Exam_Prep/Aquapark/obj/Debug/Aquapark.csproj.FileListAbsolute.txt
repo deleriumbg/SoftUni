@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\bin\Debug\Aquapark.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\bin\Debug\Aquapark.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\bin\Debug\Aquapark.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\obj\Debug\Aquapark.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\obj\Debug\Aquapark.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Aquapark\obj\Debug\Aquapark.pdb

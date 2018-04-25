@@ -1,0 +1,10 @@
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\bin\Debug\BGN_to_EUR_Convertor.exe.config
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\bin\Debug\BGN_to_EUR_Convertor.exe
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\bin\Debug\BGN_to_EUR_Convertor.pdb
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.csprojResolveAssemblyReference.cache
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.Form1.resources
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.Properties.Resources.resources
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.csproj.GenerateResource.Cache
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.csproj.CoreCompileInputs.cache
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.exe
+C:\Projects\02_Simple_Calculations\BGN_to_EUR_Convertor\obj\Debug\BGN_to_EUR_Convertor.pdb

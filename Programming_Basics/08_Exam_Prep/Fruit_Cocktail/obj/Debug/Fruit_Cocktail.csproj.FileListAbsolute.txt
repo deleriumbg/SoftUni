@@ -1,0 +1,6 @@
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\bin\Debug\Fruit_Cocktail.exe.config
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\bin\Debug\Fruit_Cocktail.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\bin\Debug\Fruit_Cocktail.pdb
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\obj\Debug\Fruit_Cocktail.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\obj\Debug\Fruit_Cocktail.exe
+C:\Projects\Programming_Basics\08_Exam_Prep\Fruit_Cocktail\obj\Debug\Fruit_Cocktail.pdb

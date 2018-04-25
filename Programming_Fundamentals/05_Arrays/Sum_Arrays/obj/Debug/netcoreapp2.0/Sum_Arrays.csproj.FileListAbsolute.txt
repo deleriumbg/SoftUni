@@ -1,0 +1,11 @@
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\bin\Debug\netcoreapp2.0\Sum_Arrays.deps.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\bin\Debug\netcoreapp2.0\Sum_Arrays.runtimeconfig.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\bin\Debug\netcoreapp2.0\Sum_Arrays.runtimeconfig.dev.json
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\bin\Debug\netcoreapp2.0\Sum_Arrays.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\bin\Debug\netcoreapp2.0\Sum_Arrays.pdb
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.csprojResolveAssemblyReference.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.AssemblyInfoInputs.cache
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.AssemblyInfo.cs
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.dll
+C:\Projects\Programming_Fundamentals\05_Arrays\Sum_Arrays\obj\Debug\netcoreapp2.0\Sum_Arrays.pdb
