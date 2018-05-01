@@ -35,9 +35,9 @@ public class Calculator {
         this.operator = operator;
     }
 
-    public double calculateResult(){
+    public double calculateResult() {
         double result;
-        switch(this.operator){
+        switch (this.operator) {
             case "+":
                 result = this.leftOperand + this.rightOperand;
                 break;
