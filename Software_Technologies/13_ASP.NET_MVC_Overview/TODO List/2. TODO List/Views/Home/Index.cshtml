@@ -1,0 +1,40 @@
+﻿@model IEnumerable<TODO_List.Models.Task>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>TODO List</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Title)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </td>
+                        <td>
+                            <a asp-controller="Task" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-controller="Task" asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-controller="Task" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @using (Html.BeginForm("Create", "Task", FormMethod.Post, new { @class = "form-inline" }))
+        {
+            <input type="text" name="title" class="form-control" />
+            <input type="submit" value="Add Task" class="btn btn-default" />
+
+        }
+    </div>
+</div>
