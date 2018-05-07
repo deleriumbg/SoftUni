@@ -13335,11 +13335,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\Blog\\Blog.csproj",
+      "projectPath": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\Blog\\obj\\",
+      "outputPath": "C:\\SoftUni\\Software_Technologies\\15_ASP.NET_Blog_Basic_Functionality\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
