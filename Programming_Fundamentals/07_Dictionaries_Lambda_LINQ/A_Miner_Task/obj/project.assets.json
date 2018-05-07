@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\A_Miner_Task.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\A_Miner_Task.csproj",
       "projectName": "A_Miner_Task",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\A_Miner_Task.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\A_Miner_Task.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\A_Miner_Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

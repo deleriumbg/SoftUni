@@ -4,3 +4,9 @@ C:\Projects\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.pdb
 C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.csproj.CoreCompileInputs.cache
 C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.exe
 C:\Projects\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.pdb
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe.config
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\bin\Debug\Excellent_Result.pdb
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.exe
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Excellent_Result\obj\Debug\Excellent_Result.pdb

@@ -1,0 +1,32 @@
+﻿@model List<Blog.Models.Article>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var article in Model)
+        {
+            <div class="col-sm-6">
+                <article>
+                    <header>
+                        <h2>
+                            <a asp-action="Details" asp-route-id="@article.Id">@article.Title</a>
+                        </h2>
+                    </header>
+                    <p>
+                        @Html.DisplayFor(modelItem => article.Content)
+                    </p>
+                    <footer class="pull-right">
+                        <small class="author">
+                            @Html.DisplayFor(modelItem => article.Author.FullName)
+                        </small>
+                    </footer>
+                </article>
+            </div>
+        }
+    </div>
+</div>
+
+

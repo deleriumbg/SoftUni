@@ -9,3 +9,14 @@ C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numb
 C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.AssemblyInfo.cs
 C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.dll
 C:\Projects\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.pdb
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\bin\Debug\netcoreapp2.0\Count_Real_Numbers.deps.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\bin\Debug\netcoreapp2.0\Count_Real_Numbers.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\bin\Debug\netcoreapp2.0\Count_Real_Numbers.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\bin\Debug\netcoreapp2.0\Count_Real_Numbers.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\bin\Debug\netcoreapp2.0\Count_Real_Numbers.pdb
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Count_Real_Numbers\obj\Debug\netcoreapp2.0\Count_Real_Numbers.pdb

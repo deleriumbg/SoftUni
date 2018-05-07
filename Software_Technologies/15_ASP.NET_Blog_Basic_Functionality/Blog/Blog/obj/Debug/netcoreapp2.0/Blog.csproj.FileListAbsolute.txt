@@ -1,0 +1,12 @@
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.deps.json
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.json
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.runtimeconfig.dev.json
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.dll
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csprojResolveAssemblyReference.cache
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.csproj.CoreCompileInputs.cache
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfoInputs.cache
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.AssemblyInfo.cs
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\bin\Debug\netcoreapp2.0\Blog.pdb
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.dll
+C:\SoftUni\Software_Technologies\15_ASP.NET_Blog_Basic_Functionality\Blog\Blog\obj\Debug\netcoreapp2.0\Blog.pdb

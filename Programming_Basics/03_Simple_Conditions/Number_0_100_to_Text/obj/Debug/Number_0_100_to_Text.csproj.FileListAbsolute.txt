@@ -5,3 +5,10 @@ C:\Projects\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_
 C:\Projects\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.csproj.CoreCompileInputs.cache
 C:\Projects\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.exe
 C:\Projects\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.pdb
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\bin\Debug\Number_0_100_to_Text.exe.config
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\bin\Debug\Number_0_100_to_Text.exe
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\bin\Debug\Number_0_100_to_Text.pdb
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.exe
+C:\SoftUni\Programming_Basics\03_Simple_Conditions\Number_0_100_to_Text\obj\Debug\Number_0_100_to_Text.pdb

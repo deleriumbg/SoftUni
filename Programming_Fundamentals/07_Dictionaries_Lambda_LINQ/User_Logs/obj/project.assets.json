@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\User_Logs.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\User_Logs.csproj",
       "projectName": "User_Logs",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\User_Logs.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\User_Logs.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\User_Logs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

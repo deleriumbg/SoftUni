@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\Fold_and_Sum.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\Fold_and_Sum.csproj",
       "projectName": "Fold_and_Sum",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\Fold_and_Sum.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\Fold_and_Sum.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Fold_and_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

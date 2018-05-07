@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\Legendary_Farming.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\Legendary_Farming.csproj",
       "projectName": "Legendary_Farming",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\Legendary_Farming.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\Legendary_Farming.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\07_Dictionaries_Lambda_LINQ\\Legendary_Farming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

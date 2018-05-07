@@ -1,0 +1,30 @@
+﻿@model Blog.Models.Article
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container">
+    <article>
+        <header>
+            <h2>
+                @Model.Title
+            </h2>
+        </header>
+        <p>
+            @Html.DisplayFor(model => model.Content)
+        </p>
+        <small class="author">
+            -- author @Html.DisplayFor(model => model.Author.FullName)
+        </small>
+        <footer class="pull-right">
+            @if (User.IsInRole("Admin") || Model.IsAuthor(User.Identity.Name))
+            {
+                <a class="btn btn-success btn-xs" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                <a class="btn btn-danger btn-xs" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+            }
+            <a class="btn btn-default btn-xs" asp-action="Index">Back</a>
+        </footer>
+    </article>
+</div>
+
