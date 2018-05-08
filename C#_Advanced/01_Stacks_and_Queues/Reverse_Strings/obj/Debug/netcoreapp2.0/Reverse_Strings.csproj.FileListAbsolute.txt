@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\bin\Debug\netcoreapp2.0\Reverse_Strings.deps.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\bin\Debug\netcoreapp2.0\Reverse_Strings.runtimeconfig.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\bin\Debug\netcoreapp2.0\Reverse_Strings.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\bin\Debug\netcoreapp2.0\Reverse_Strings.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\bin\Debug\netcoreapp2.0\Reverse_Strings.pdb
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Reverse_Strings\obj\Debug\netcoreapp2.0\Reverse_Strings.pdb

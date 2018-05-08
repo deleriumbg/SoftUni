@@ -1,0 +1,10 @@
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\bin\Debug\netcoreapp2.0\Traffic_Jam.deps.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\bin\Debug\netcoreapp2.0\Traffic_Jam.runtimeconfig.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\bin\Debug\netcoreapp2.0\Traffic_Jam.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\bin\Debug\netcoreapp2.0\Traffic_Jam.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\bin\Debug\netcoreapp2.0\Traffic_Jam.pdb
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\obj\Debug\netcoreapp2.0\Traffic_Jam.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\obj\Debug\netcoreapp2.0\Traffic_Jam.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\obj\Debug\netcoreapp2.0\Traffic_Jam.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\obj\Debug\netcoreapp2.0\Traffic_Jam.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\01_Stacks_and_Queues\Traffic_Jam\obj\Debug\netcoreapp2.0\Traffic_Jam.pdb
