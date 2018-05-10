@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\bin\Debug\netcoreapp2.0\Poisonous_Plants.deps.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\bin\Debug\netcoreapp2.0\Poisonous_Plants.runtimeconfig.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\bin\Debug\netcoreapp2.0\Poisonous_Plants.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\bin\Debug\netcoreapp2.0\Poisonous_Plants.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\bin\Debug\netcoreapp2.0\Poisonous_Plants.pdb
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Poisonous_Plants\obj\Debug\netcoreapp2.0\Poisonous_Plants.pdb

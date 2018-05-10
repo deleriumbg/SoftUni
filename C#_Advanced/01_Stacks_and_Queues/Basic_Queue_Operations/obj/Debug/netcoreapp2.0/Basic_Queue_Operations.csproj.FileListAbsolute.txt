@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\bin\Debug\netcoreapp2.0\Basic_Queue_Operations.deps.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\bin\Debug\netcoreapp2.0\Basic_Queue_Operations.runtimeconfig.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\bin\Debug\netcoreapp2.0\Basic_Queue_Operations.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\bin\Debug\netcoreapp2.0\Basic_Queue_Operations.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\bin\Debug\netcoreapp2.0\Basic_Queue_Operations.pdb
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Basic_Queue_Operations\obj\Debug\netcoreapp2.0\Basic_Queue_Operations.pdb

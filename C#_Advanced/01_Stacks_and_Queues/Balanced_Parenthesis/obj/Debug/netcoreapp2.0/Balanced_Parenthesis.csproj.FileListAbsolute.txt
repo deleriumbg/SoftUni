@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\bin\Debug\netcoreapp2.0\Balanced_Parenthesis.deps.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\bin\Debug\netcoreapp2.0\Balanced_Parenthesis.runtimeconfig.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\bin\Debug\netcoreapp2.0\Balanced_Parenthesis.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\bin\Debug\netcoreapp2.0\Balanced_Parenthesis.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\bin\Debug\netcoreapp2.0\Balanced_Parenthesis.pdb
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.dll
+C:\SoftUni\C#_Advanced\01_Stacks_and_Queues\Balanced_Parenthesis\obj\Debug\netcoreapp2.0\Balanced_Parenthesis.pdb
