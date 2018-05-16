@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\bin\Debug\netcoreapp2.0\Matrix_of_Palindromes.deps.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\bin\Debug\netcoreapp2.0\Matrix_of_Palindromes.runtimeconfig.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\bin\Debug\netcoreapp2.0\Matrix_of_Palindromes.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\bin\Debug\netcoreapp2.0\Matrix_of_Palindromes.dll
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\bin\Debug\netcoreapp2.0\Matrix_of_Palindromes.pdb
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.dll
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Matrix_of_Palindromes\obj\Debug\netcoreapp2.0\Matrix_of_Palindromes.pdb

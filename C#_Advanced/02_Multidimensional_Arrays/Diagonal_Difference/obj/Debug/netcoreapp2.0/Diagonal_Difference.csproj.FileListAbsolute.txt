@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\bin\Debug\netcoreapp2.0\Diagonal_Difference.deps.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\bin\Debug\netcoreapp2.0\Diagonal_Difference.runtimeconfig.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\bin\Debug\netcoreapp2.0\Diagonal_Difference.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\bin\Debug\netcoreapp2.0\Diagonal_Difference.dll
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\bin\Debug\netcoreapp2.0\Diagonal_Difference.pdb
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.dll
+C:\SoftUni\C#_Advanced\02_Multidimensional_Arrays\Diagonal_Difference\obj\Debug\netcoreapp2.0\Diagonal_Difference.pdb

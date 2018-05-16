@@ -5,11 +5,21 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_Matrix_Elements", "Sum_Matrix_Elements\Sum_Matrix_Elements.csproj", "{2EB49372-CC8A-421D-86E3-8E84EC152C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_With_Maximum_Sum", "Square_With_Maximum_Sum\Square_With_Maximum_Sum.csproj", "{D97A09C8-F706-4391-9466-4A63C98DA243}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square_With_Maximum_Sum", "Square_With_Maximum_Sum\Square_With_Maximum_Sum.csproj", "{D97A09C8-F706-4391-9466-4A63C98DA243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group_Numbers", "Group_Numbers\Group_Numbers.csproj", "{83888A51-A636-49E3-84CD-0FDAB9D3482E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group_Numbers", "Group_Numbers\Group_Numbers.csproj", "{83888A51-A636-49E3-84CD-0FDAB9D3482E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{24010CAB-D9DC-4066-9E5B-CCAC3316E701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{24010CAB-D9DC-4066-9E5B-CCAC3316E701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_of_Palindromes", "Matrix_of_Palindromes\Matrix_of_Palindromes.csproj", "{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{72F7683E-CF0A-496C-88A3-AFE415D32A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares_in_Matrix", "Squares_in_Matrix\Squares_in_Matrix.csproj", "{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal_Sum", "Maximal_Sum\Maximal_Sum.csproj", "{1ABCD2DB-7555-4DC9-AA1F-504969227549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiks_Matrix", "Rubiks_Matrix\Rubiks_Matrix.csproj", "{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{24010CAB-D9DC-4066-9E5B-CCAC3316E701}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24010CAB-D9DC-4066-9E5B-CCAC3316E701}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24010CAB-D9DC-4066-9E5B-CCAC3316E701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F7683E-CF0A-496C-88A3-AFE415D32A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F7683E-CF0A-496C-88A3-AFE415D32A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F7683E-CF0A-496C-88A3-AFE415D32A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F7683E-CF0A-496C-88A3-AFE415D32A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
