@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\bin\Debug\netcoreapp2.0\Line_Numbers.deps.json
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\bin\Debug\netcoreapp2.0\Line_Numbers.runtimeconfig.json
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\bin\Debug\netcoreapp2.0\Line_Numbers.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\bin\Debug\netcoreapp2.0\Line_Numbers.dll
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\bin\Debug\netcoreapp2.0\Line_Numbers.pdb
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.dll
+C:\SoftUni\C#_Advanced\03_Streams\Line_Numbers\obj\Debug\netcoreapp2.0\Line_Numbers.pdb

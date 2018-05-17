@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd_Lines", "Odd_Lines\Odd_Lines.csproj", "{00264CB0-1A2F-42E6-B0A3-54029CEF2A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line_Numbers", "Line_Numbers\Line_Numbers.csproj", "{1E931147-F5A0-4CE1-BC8F-F394816AD57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word_Count", "Word_Count\Word_Count.csproj", "{14E25F6F-B5BA-42CC-A0D3-75D633F123F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy_Binary_File", "Copy_Binary_File\Copy_Binary_File.csproj", "{F7FA19BE-6407-4B54-A5DB-1A1925220B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slicing_File", "Slicing_File\Slicing_File.csproj", "{AA5D4284-5980-4FCC-932C-457FD9AA0AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipping_Sliced_Files", "Zipping_Sliced_Files\Zipping_Sliced_Files.csproj", "{CE0032AD-6514-43DE-8144-ABD4A68EA30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory_Traversal", "Directory_Traversal\Directory_Traversal.csproj", "{79574137-FF81-43E8-A84B-AD9BFDA5D3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00264CB0-1A2F-42E6-B0A3-54029CEF2A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00264CB0-1A2F-42E6-B0A3-54029CEF2A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00264CB0-1A2F-42E6-B0A3-54029CEF2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00264CB0-1A2F-42E6-B0A3-54029CEF2A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E931147-F5A0-4CE1-BC8F-F394816AD57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E931147-F5A0-4CE1-BC8F-F394816AD57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E931147-F5A0-4CE1-BC8F-F394816AD57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E931147-F5A0-4CE1-BC8F-F394816AD57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E25F6F-B5BA-42CC-A0D3-75D633F123F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E25F6F-B5BA-42CC-A0D3-75D633F123F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E25F6F-B5BA-42CC-A0D3-75D633F123F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E25F6F-B5BA-42CC-A0D3-75D633F123F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FA19BE-6407-4B54-A5DB-1A1925220B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FA19BE-6407-4B54-A5DB-1A1925220B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FA19BE-6407-4B54-A5DB-1A1925220B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FA19BE-6407-4B54-A5DB-1A1925220B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5D4284-5980-4FCC-932C-457FD9AA0AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5D4284-5980-4FCC-932C-457FD9AA0AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5D4284-5980-4FCC-932C-457FD9AA0AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5D4284-5980-4FCC-932C-457FD9AA0AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0032AD-6514-43DE-8144-ABD4A68EA30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0032AD-6514-43DE-8144-ABD4A68EA30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0032AD-6514-43DE-8144-ABD4A68EA30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0032AD-6514-43DE-8144-ABD4A68EA30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79574137-FF81-43E8-A84B-AD9BFDA5D3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79574137-FF81-43E8-A84B-AD9BFDA5D3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79574137-FF81-43E8-A84B-AD9BFDA5D3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79574137-FF81-43E8-A84B-AD9BFDA5D3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A8D3F0-373E-4243-B5E6-583E174BC214}
+	EndGlobalSection
+EndGlobal

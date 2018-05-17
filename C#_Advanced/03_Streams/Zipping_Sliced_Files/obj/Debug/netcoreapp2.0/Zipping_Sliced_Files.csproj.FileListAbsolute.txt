@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\bin\Debug\netcoreapp2.0\Zipping_Sliced_Files.deps.json
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\bin\Debug\netcoreapp2.0\Zipping_Sliced_Files.runtimeconfig.json
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\bin\Debug\netcoreapp2.0\Zipping_Sliced_Files.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\bin\Debug\netcoreapp2.0\Zipping_Sliced_Files.dll
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\bin\Debug\netcoreapp2.0\Zipping_Sliced_Files.pdb
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.dll
+C:\SoftUni\C#_Advanced\03_Streams\Zipping_Sliced_Files\obj\Debug\netcoreapp2.0\Zipping_Sliced_Files.pdb

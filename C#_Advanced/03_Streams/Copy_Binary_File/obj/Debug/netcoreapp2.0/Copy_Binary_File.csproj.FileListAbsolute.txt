@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\bin\Debug\netcoreapp2.0\Copy_Binary_File.deps.json
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\bin\Debug\netcoreapp2.0\Copy_Binary_File.runtimeconfig.json
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\bin\Debug\netcoreapp2.0\Copy_Binary_File.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\bin\Debug\netcoreapp2.0\Copy_Binary_File.dll
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\bin\Debug\netcoreapp2.0\Copy_Binary_File.pdb
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.dll
+C:\SoftUni\C#_Advanced\03_Streams\Copy_Binary_File\obj\Debug\netcoreapp2.0\Copy_Binary_File.pdb
