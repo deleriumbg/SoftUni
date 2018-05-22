@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\Factorial_Trailing_Zeroes.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\Factorial_Trailing_Zeroes.csproj",
       "projectName": "Factorial_Trailing_Zeroes",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\Factorial_Trailing_Zeroes.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\Factorial_Trailing_Zeroes.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Factorial_Trailing_Zeroes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

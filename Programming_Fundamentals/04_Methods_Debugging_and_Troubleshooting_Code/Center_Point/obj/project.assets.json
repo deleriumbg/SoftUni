@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\Center_Point.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\Center_Point.csproj",
       "projectName": "Center_Point",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\Center_Point.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\Center_Point.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Center_Point\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

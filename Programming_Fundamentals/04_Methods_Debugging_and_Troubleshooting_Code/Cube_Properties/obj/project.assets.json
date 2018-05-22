@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\Cube_Properties.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\Cube_Properties.csproj",
       "projectName": "Cube_Properties",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\Cube_Properties.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\Cube_Properties.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\04_Methods_Debugging_and_Troubleshooting_Code\\Cube_Properties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
