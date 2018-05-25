@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\bin\Debug\netcoreapp2.0\Person_Class.deps.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\bin\Debug\netcoreapp2.0\Person_Class.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\bin\Debug\netcoreapp2.0\Person_Class.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\bin\Debug\netcoreapp2.0\Person_Class.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\bin\Debug\netcoreapp2.0\Person_Class.pdb
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Person_Class\obj\Debug\netcoreapp2.0\Person_Class.pdb

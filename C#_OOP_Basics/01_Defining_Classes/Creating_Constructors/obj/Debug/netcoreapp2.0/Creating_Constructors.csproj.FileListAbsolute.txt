@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\bin\Debug\netcoreapp2.0\Creating_Constructors.deps.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\bin\Debug\netcoreapp2.0\Creating_Constructors.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\bin\Debug\netcoreapp2.0\Creating_Constructors.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\bin\Debug\netcoreapp2.0\Creating_Constructors.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\bin\Debug\netcoreapp2.0\Creating_Constructors.pdb
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Creating_Constructors\obj\Debug\netcoreapp2.0\Creating_Constructors.pdb

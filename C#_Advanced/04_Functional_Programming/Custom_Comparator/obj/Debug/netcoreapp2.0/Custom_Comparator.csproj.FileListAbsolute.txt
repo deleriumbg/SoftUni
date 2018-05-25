@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\bin\Debug\netcoreapp2.0\Custom_Comparator.deps.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\bin\Debug\netcoreapp2.0\Custom_Comparator.runtimeconfig.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\bin\Debug\netcoreapp2.0\Custom_Comparator.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\bin\Debug\netcoreapp2.0\Custom_Comparator.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\bin\Debug\netcoreapp2.0\Custom_Comparator.pdb
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Custom_Comparator\obj\Debug\netcoreapp2.0\Custom_Comparator.pdb

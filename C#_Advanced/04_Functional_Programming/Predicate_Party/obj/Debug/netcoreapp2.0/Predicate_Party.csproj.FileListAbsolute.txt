@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\bin\Debug\netcoreapp2.0\Predicate_Party.deps.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\bin\Debug\netcoreapp2.0\Predicate_Party.runtimeconfig.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\bin\Debug\netcoreapp2.0\Predicate_Party.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\bin\Debug\netcoreapp2.0\Predicate_Party.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\bin\Debug\netcoreapp2.0\Predicate_Party.pdb
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Predicate_Party\obj\Debug\netcoreapp2.0\Predicate_Party.pdb
