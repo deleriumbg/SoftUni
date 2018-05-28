@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\bin\Debug\netcoreapp2.0\Inferno_III.deps.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\bin\Debug\netcoreapp2.0\Inferno_III.runtimeconfig.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\bin\Debug\netcoreapp2.0\Inferno_III.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\bin\Debug\netcoreapp2.0\Inferno_III.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\bin\Debug\netcoreapp2.0\Inferno_III.pdb
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.csprojResolveAssemblyReference.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.dll
+C:\SoftUni\C#_Advanced\04_Functional_Programming\Inferno_III\obj\Debug\netcoreapp2.0\Inferno_III.pdb

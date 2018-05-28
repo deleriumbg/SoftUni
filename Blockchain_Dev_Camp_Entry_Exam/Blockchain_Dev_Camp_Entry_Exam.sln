@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jessys_Friend", "Jessys_Friend\Jessys_Friend.csproj", "{FBDFAB8D-F24A-4C6D-B5C3-EC87DC6F9BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jessys_Friend", "Jessys_Friend\Jessys_Friend.csproj", "{FBDFAB8D-F24A-4C6D-B5C3-EC87DC6F9BF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Wall", "The_Wall\The_Wall.csproj", "{EC5AEEC8-911F-4675-965B-0830A259BD04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The_Wall", "The_Wall\The_Wall.csproj", "{EC5AEEC8-911F-4675-965B-0830A259BD04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handball_Statistics", "Handball_Statistics\Handball_Statistics.csproj", "{785FC1D4-2267-4FD7-9357-181D8D9E4315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Handball_Statistics", "Handball_Statistics\Handball_Statistics.csproj", "{785FC1D4-2267-4FD7-9357-181D8D9E4315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
