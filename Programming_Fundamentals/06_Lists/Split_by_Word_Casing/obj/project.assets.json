@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\Split_by_Word_Casing.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\Split_by_Word_Casing.csproj",
       "projectName": "Split_by_Word_Casing",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\Split_by_Word_Casing.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\Split_by_Word_Casing.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Split_by_Word_Casing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

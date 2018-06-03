@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\bin\Debug\netcoreapp2.0\Logs_Aggregator.deps.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\bin\Debug\netcoreapp2.0\Logs_Aggregator.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\bin\Debug\netcoreapp2.0\Logs_Aggregator.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\bin\Debug\netcoreapp2.0\Logs_Aggregator.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\bin\Debug\netcoreapp2.0\Logs_Aggregator.pdb
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Logs_Aggregator\obj\Debug\netcoreapp2.0\Logs_Aggregator.pdb

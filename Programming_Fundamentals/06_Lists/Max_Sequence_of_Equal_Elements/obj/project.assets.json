@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\Max_Sequence_of_Equal_Elements.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\Max_Sequence_of_Equal_Elements.csproj",
       "projectName": "Max_Sequence_of_Equal_Elements",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\Max_Sequence_of_Equal_Elements.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\Max_Sequence_of_Equal_Elements.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Max_Sequence_of_Equal_Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

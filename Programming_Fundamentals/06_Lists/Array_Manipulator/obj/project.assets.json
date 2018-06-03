@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\Array_Manipulator.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\Array_Manipulator.csproj",
       "projectName": "Array_Manipulator",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\Array_Manipulator.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\Array_Manipulator.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\06_Lists\\Array_Manipulator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -29,6 +29,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_Logs", "User_Logs\User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Legendary_Farming", "Legendary_Farming\Legendary_Farming.csproj", "{98786718-FCAD-48F2-8965-37AE84A931CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Population_Counter", "Population_Counter\Population_Counter.csproj", "{693BD2D5-4334-4EBE-A6BC-40A944B75230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logs_Aggregator", "Logs_Aggregator\Logs_Aggregator.csproj", "{16899746-B052-42BE-BCCF-7B9922974DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{98786718-FCAD-48F2-8965-37AE84A931CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98786718-FCAD-48F2-8965-37AE84A931CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98786718-FCAD-48F2-8965-37AE84A931CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693BD2D5-4334-4EBE-A6BC-40A944B75230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693BD2D5-4334-4EBE-A6BC-40A944B75230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693BD2D5-4334-4EBE-A6BC-40A944B75230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693BD2D5-4334-4EBE-A6BC-40A944B75230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16899746-B052-42BE-BCCF-7B9922974DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16899746-B052-42BE-BCCF-7B9922974DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16899746-B052-42BE-BCCF-7B9922974DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16899746-B052-42BE-BCCF-7B9922974DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
