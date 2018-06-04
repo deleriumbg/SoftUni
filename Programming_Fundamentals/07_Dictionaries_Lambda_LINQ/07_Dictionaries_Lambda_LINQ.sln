@@ -29,9 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User_Logs", "User_Logs\User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Legendary_Farming", "Legendary_Farming\Legendary_Farming.csproj", "{98786718-FCAD-48F2-8965-37AE84A931CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Population_Counter", "Population_Counter\Population_Counter.csproj", "{693BD2D5-4334-4EBE-A6BC-40A944B75230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Population_Counter", "Population_Counter\Population_Counter.csproj", "{693BD2D5-4334-4EBE-A6BC-40A944B75230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logs_Aggregator", "Logs_Aggregator\Logs_Aggregator.csproj", "{16899746-B052-42BE-BCCF-7B9922974DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logs_Aggregator", "Logs_Aggregator\Logs_Aggregator.csproj", "{16899746-B052-42BE-BCCF-7B9922974DF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Srubsko_Unleashed", "Srubsko_Unleashed\Srubsko_Unleashed.csproj", "{9F105BC6-70B7-43B4-AE2B-EE6DC4E0B75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon_Army", "Dragon_Army\Dragon_Army.csproj", "{82BC1979-432E-4F30-9517-F505DCBE3DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{16899746-B052-42BE-BCCF-7B9922974DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16899746-B052-42BE-BCCF-7B9922974DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16899746-B052-42BE-BCCF-7B9922974DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F105BC6-70B7-43B4-AE2B-EE6DC4E0B75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F105BC6-70B7-43B4-AE2B-EE6DC4E0B75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F105BC6-70B7-43B4-AE2B-EE6DC4E0B75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F105BC6-70B7-43B4-AE2B-EE6DC4E0B75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BC1979-432E-4F30-9517-F505DCBE3DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BC1979-432E-4F30-9517-F505DCBE3DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BC1979-432E-4F30-9517-F505DCBE3DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BC1979-432E-4F30-9517-F505DCBE3DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

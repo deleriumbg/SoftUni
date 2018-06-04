@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\bin\Debug\netcoreapp2.0\Srubsko_Unleashed.deps.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\bin\Debug\netcoreapp2.0\Srubsko_Unleashed.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\bin\Debug\netcoreapp2.0\Srubsko_Unleashed.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\bin\Debug\netcoreapp2.0\Srubsko_Unleashed.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\bin\Debug\netcoreapp2.0\Srubsko_Unleashed.pdb
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.dll
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.pdb
+C:\SoftUni\Programming_Fundamentals\07_Dictionaries_Lambda_LINQ\Srubsko_Unleashed\obj\Debug\netcoreapp2.0\Srubsko_Unleashed.csprojResolveAssemblyReference.cache
