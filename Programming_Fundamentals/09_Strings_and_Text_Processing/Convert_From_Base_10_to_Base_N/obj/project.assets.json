@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\Convert_From_Base_10_to_Base_N.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\Convert_From_Base_10_to_Base_N.csproj",
       "projectName": "Convert_From_Base_10_to_Base_N",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\Convert_From_Base_10_to_Base_N.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\Convert_From_Base_10_to_Base_N.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Convert_From_Base_10_to_Base_N\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

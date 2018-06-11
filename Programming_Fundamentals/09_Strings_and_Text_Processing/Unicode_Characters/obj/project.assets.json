@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\Unicode_Characters.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\Unicode_Characters.csproj",
       "projectName": "Unicode_Characters",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\Unicode_Characters.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\Unicode_Characters.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\09_Strings_and_Text_Processing\\Unicode_Characters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

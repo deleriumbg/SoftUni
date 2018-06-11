@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\bin\Debug\netcoreapp2.0\Melrah_Shake.deps.json
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\bin\Debug\netcoreapp2.0\Melrah_Shake.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\bin\Debug\netcoreapp2.0\Melrah_Shake.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\bin\Debug\netcoreapp2.0\Melrah_Shake.dll
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\bin\Debug\netcoreapp2.0\Melrah_Shake.pdb
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.dll
+C:\SoftUni\Programming_Fundamentals\09_Strings_and_Text_Processing\Melrah_Shake\obj\Debug\netcoreapp2.0\Melrah_Shake.pdb

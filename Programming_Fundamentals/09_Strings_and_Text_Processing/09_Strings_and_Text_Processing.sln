@@ -17,13 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert_From_Base_N_to_Base
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unicode_Characters", "Unicode_Characters\Unicode_Characters.csproj", "{84F02579-8762-44A7-8B76-28D006A1EAD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character_Multiplier", "Character_Multiplier\Character_Multiplier.csproj", "{A5247373-3AA3-4E56-81CA-BBA3B5DEEE37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Character_Multiplier", "Character_Multiplier\Character_Multiplier.csproj", "{A5247373-3AA3-4E56-81CA-BBA3B5DEEE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic_Exchangeable_Words", "Magic_Exchangeable_Words\Magic_Exchangeable_Words.csproj", "{3C984F23-9EE9-4BFF-B7DD-C29F4187211D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magic_Exchangeable_Words", "Magic_Exchangeable_Words\Magic_Exchangeable_Words.csproj", "{3C984F23-9EE9-4BFF-B7DD-C29F4187211D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_Big_Numbers", "Sum_Big_Numbers\Sum_Big_Numbers.csproj", "{E4EA0F9B-8633-427A-AAEC-4D0A0241D8D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_Big_Numbers", "Sum_Big_Numbers\Sum_Big_Numbers.csproj", "{E4EA0F9B-8633-427A-AAEC-4D0A0241D8D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply_Big_Number", "Multiply_Big_Number\Multiply_Big_Number.csproj", "{D2C31F04-D20F-483D-8F86-B594B47EDA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply_Big_Number", "Multiply_Big_Number\Multiply_Big_Number.csproj", "{D2C31F04-D20F-483D-8F86-B594B47EDA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters_Change_Numbers", "Letters_Change_Numbers\Letters_Change_Numbers.csproj", "{2BF3E0D7-CBDE-4B09-B9D4-50C50350CC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melrah_Shake", "Melrah_Shake\Melrah_Shake.csproj", "{D899FE8A-29E5-478D-839C-1C719E20D6B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{D2C31F04-D20F-483D-8F86-B594B47EDA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C31F04-D20F-483D-8F86-B594B47EDA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C31F04-D20F-483D-8F86-B594B47EDA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF3E0D7-CBDE-4B09-B9D4-50C50350CC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF3E0D7-CBDE-4B09-B9D4-50C50350CC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF3E0D7-CBDE-4B09-B9D4-50C50350CC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF3E0D7-CBDE-4B09-B9D4-50C50350CC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D899FE8A-29E5-478D-839C-1C719E20D6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D899FE8A-29E5-478D-839C-1C719E20D6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D899FE8A-29E5-478D-839C-1C719E20D6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D899FE8A-29E5-478D-839C-1C719E20D6B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
