@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\bin\Debug\netcoreapp2.0\Rocket.deps.json
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\bin\Debug\netcoreapp2.0\Rocket.runtimeconfig.json
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\bin\Debug\netcoreapp2.0\Rocket.runtimeconfig.dev.json
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\bin\Debug\netcoreapp2.0\Rocket.dll
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\bin\Debug\netcoreapp2.0\Rocket.pdb
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.AssemblyInfo.cs
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.dll
+C:\SoftUni\Programming_Basics\06_Drawing_With_Loops\Rocket\obj\Debug\netcoreapp2.0\Rocket.pdb

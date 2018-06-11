@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\Day_of_Week.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\Day_of_Week.csproj",
       "projectName": "Day_of_Week",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\Day_of_Week.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\Day_of_Week.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Day_of_Week\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

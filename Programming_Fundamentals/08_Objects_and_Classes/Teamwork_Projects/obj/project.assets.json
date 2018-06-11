@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\Teamwork_Projects.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\Teamwork_Projects.csproj",
       "projectName": "Teamwork_Projects",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\Teamwork_Projects.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\Teamwork_Projects.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Teamwork_Projects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

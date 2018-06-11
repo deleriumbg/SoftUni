@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\Closest_Two_Points.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\Closest_Two_Points.csproj",
       "projectName": "Closest_Two_Points",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\Closest_Two_Points.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\Closest_Two_Points.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\08_Objects_and_Classes\\Closest_Two_Points\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

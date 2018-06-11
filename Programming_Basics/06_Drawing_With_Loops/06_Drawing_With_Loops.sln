@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle_10x10_Stars", "Rectangle_10x10_Stars\Rectangle_10x10_Stars.csproj", "{D929A65B-6022-48FC-BCF3-A79569C44060}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{5E98F5BF-86F9-43A5-97F0-F8D8B0A23FD2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortress", "Fortress\Fortress.csproj", "{0872AEAC-6FFD-4723-BB21-EB76E53EEB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket", "Rocket\Rocket.csproj", "{4F8A9E73-DE89-4A89-84C6-C041248F393F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{0872AEAC-6FFD-4723-BB21-EB76E53EEB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0872AEAC-6FFD-4723-BB21-EB76E53EEB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0872AEAC-6FFD-4723-BB21-EB76E53EEB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8A9E73-DE89-4A89-84C6-C041248F393F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8A9E73-DE89-4A89-84C6-C041248F393F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8A9E73-DE89-4A89-84C6-C041248F393F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8A9E73-DE89-4A89-84C6-C041248F393F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\bin\Debug\netcoreapp2.0\Mentor_Group.deps.json
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\bin\Debug\netcoreapp2.0\Mentor_Group.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\bin\Debug\netcoreapp2.0\Mentor_Group.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\bin\Debug\netcoreapp2.0\Mentor_Group.dll
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\bin\Debug\netcoreapp2.0\Mentor_Group.pdb
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.dll
+C:\SoftUni\Programming_Fundamentals\08_Objects_and_Classes\Mentor_Group\obj\Debug\netcoreapp2.0\Mentor_Group.pdb
