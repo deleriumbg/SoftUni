@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\Key_Replacer.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\Key_Replacer.csproj",
       "projectName": "Key_Replacer",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\Key_Replacer.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\Key_Replacer.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Key_Replacer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

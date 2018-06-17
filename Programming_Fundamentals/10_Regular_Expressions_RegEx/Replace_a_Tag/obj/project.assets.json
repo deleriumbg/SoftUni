@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\Replace_a_Tag.csproj",
+      "projectUniqueName": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\Replace_a_Tag.csproj",
       "projectName": "Replace_a_Tag",
-      "projectPath": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\Replace_a_Tag.csproj",
+      "projectPath": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\Replace_a_Tag.csproj",
       "packagesPath": "C:\\Users\\deler\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\obj\\",
+      "outputPath": "C:\\SoftUni\\Programming_Fundamentals\\10_Regular_Expressions_RegEx\\Replace_a_Tag\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

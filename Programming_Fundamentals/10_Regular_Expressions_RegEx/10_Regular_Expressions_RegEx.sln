@@ -15,17 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Match_Numbers", "Match_Numb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Replace_a_Tag", "Replace_a_Tag\Replace_a_Tag.csproj", "{933D47DF-07D2-48A8-85BD-C9F268136B83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract_Emails", "Extract_Emails\Extract_Emails.csproj", "{0A994EB0-9757-4D69-9F31-8D4207BEF4CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Emails", "Extract_Emails\Extract_Emails.csproj", "{0A994EB0-9757-4D69-9F31-8D4207BEF4CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract_Sentences_by_Keyword", "Extract_Sentences_by_Keyword\Extract_Sentences_by_Keyword.csproj", "{5B49C218-D0B2-4F52-8314-20F3A6BEDB94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Sentences_by_Keyword", "Extract_Sentences_by_Keyword\Extract_Sentences_by_Keyword.csproj", "{5B49C218-D0B2-4F52-8314-20F3A6BEDB94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camera_View", "Camera_View\Camera_View.csproj", "{6FAC3F30-6AB4-4920-8216-5EC3B6805687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Camera_View", "Camera_View\Camera_View.csproj", "{6FAC3F30-6AB4-4920-8216-5EC3B6805687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{B159485D-5D2A-4C4D-A90D-E03F0D2CDFD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather", "Weather\Weather.csproj", "{B159485D-5D2A-4C4D-A90D-E03F0D2CDFD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Key_Replacer", "Key_Replacer\Key_Replacer.csproj", "{CEDBFB70-B0FC-4D59-83DF-6FC69C50C6FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Key_Replacer", "Key_Replacer\Key_Replacer.csproj", "{CEDBFB70-B0FC-4D59-83DF-6FC69C50C6FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid_Usernames", "Valid_Usernames\Valid_Usernames.csproj", "{E4A21265-A632-4932-B2ED-B8165E16A5A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid_Usernames", "Valid_Usernames\Valid_Usernames.csproj", "{E4A21265-A632-4932-B2ED-B8165E16A5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query_Mess", "Query_Mess\Query_Mess.csproj", "{5473DECB-6144-4A6B-8F99-1D76CFFFB937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use_Your_Chains_Buddy", "Use_Your_Chains_Buddy\Use_Your_Chains_Buddy.csproj", "{1CE60293-8E61-48FC-8602-F9B002E642FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{E4A21265-A632-4932-B2ED-B8165E16A5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A21265-A632-4932-B2ED-B8165E16A5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A21265-A632-4932-B2ED-B8165E16A5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5473DECB-6144-4A6B-8F99-1D76CFFFB937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5473DECB-6144-4A6B-8F99-1D76CFFFB937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5473DECB-6144-4A6B-8F99-1D76CFFFB937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5473DECB-6144-4A6B-8F99-1D76CFFFB937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE60293-8E61-48FC-8602-F9B002E642FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE60293-8E61-48FC-8602-F9B002E642FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE60293-8E61-48FC-8602-F9B002E642FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE60293-8E61-48FC-8602-F9B002E642FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
