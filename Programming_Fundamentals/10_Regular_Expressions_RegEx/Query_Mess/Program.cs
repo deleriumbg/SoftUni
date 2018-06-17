@@ -13,7 +13,7 @@ namespace Query_Mess
 
             while (input != "END")
             {
-                var result = new Dictionary<string, List<string>>();
+                Dictionary<string, List<string>> result = new Dictionary<string, List<string>>();
                 MatchCollection matches = Regex.Matches(input, pattern);
 
                 foreach (Match match in matches)
