@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\bin\Debug\netcoreapp2.0\Memory_View.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\bin\Debug\netcoreapp2.0\Memory_View.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\bin\Debug\netcoreapp2.0\Memory_View.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\bin\Debug\netcoreapp2.0\Memory_View.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\bin\Debug\netcoreapp2.0\Memory_View.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Memory_View\obj\Debug\netcoreapp2.0\Memory_View.csprojResolveAssemblyReference.cache

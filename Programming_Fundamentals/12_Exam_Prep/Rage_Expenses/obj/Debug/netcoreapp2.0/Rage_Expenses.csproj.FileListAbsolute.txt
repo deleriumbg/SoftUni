@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\bin\Debug\netcoreapp2.0\Rage_Expenses.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\bin\Debug\netcoreapp2.0\Rage_Expenses.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\bin\Debug\netcoreapp2.0\Rage_Expenses.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\bin\Debug\netcoreapp2.0\Rage_Expenses.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\bin\Debug\netcoreapp2.0\Rage_Expenses.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Rage_Expenses\obj\Debug\netcoreapp2.0\Rage_Expenses.pdb

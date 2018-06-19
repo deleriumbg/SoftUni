@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\bin\Debug\netcoreapp2.0\MOBA_Challenger.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\bin\Debug\netcoreapp2.0\MOBA_Challenger.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\bin\Debug\netcoreapp2.0\MOBA_Challenger.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\bin\Debug\netcoreapp2.0\MOBA_Challenger.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\bin\Debug\netcoreapp2.0\MOBA_Challenger.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\MOBA_Challenger\obj\Debug\netcoreapp2.0\MOBA_Challenger.pdb
