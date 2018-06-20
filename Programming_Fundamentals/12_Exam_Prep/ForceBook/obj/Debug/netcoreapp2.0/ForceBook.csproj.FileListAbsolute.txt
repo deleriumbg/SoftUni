@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.csprojResolveAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.pdb

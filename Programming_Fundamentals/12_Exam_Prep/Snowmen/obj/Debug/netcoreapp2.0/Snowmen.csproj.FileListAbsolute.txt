@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csprojResolveAssemblyReference.cache

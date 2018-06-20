@@ -15,7 +15,7 @@ namespace MOBA_Challenger
             {
                 if (!input.Contains("vs"))
                 {
-                    string[] playerInfo = input.Split(new string[] { " -> " }, StringSplitOptions.RemoveEmptyEntries);
+                    string[] playerInfo = input.Split(new string[] { " -> " }, StringSplitOptions.None);
                     string player = playerInfo[0];
                     string position = playerInfo[1];
                     int skill = int.Parse(playerInfo[2]);

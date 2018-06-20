@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\bin\Debug\netcoreapp2.0\Kamino_Factory.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\bin\Debug\netcoreapp2.0\Kamino_Factory.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\bin\Debug\netcoreapp2.0\Kamino_Factory.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\bin\Debug\netcoreapp2.0\Kamino_Factory.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\bin\Debug\netcoreapp2.0\Kamino_Factory.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Kamino_Factory\obj\Debug\netcoreapp2.0\Kamino_Factory.csprojResolveAssemblyReference.cache
