@@ -28,7 +28,7 @@ namespace Snowwhite
 
             while (input != "Once upon a time")
             {
-                string[] dwarfInfo = input.Split(new string[] { " <:> " }, StringSplitOptions.RemoveEmptyEntries);
+                string[] dwarfInfo = input.Split(new[] { " <:> " }, StringSplitOptions.RemoveEmptyEntries);
                 string dwarfName = dwarfInfo[0].Trim();
                 string dwarfHatColor = dwarfInfo[1].Trim();
                 int dwarfPhysics = int.Parse(dwarfInfo[2].Trim());

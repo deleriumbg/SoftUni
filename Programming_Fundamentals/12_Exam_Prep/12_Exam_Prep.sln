@@ -13,19 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MOBA_Challenger", "MOBA_Cha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Padawan_Equipment", "Padawan_Equipment\Padawan_Equipment.csproj", "{54B10551-552E-4EE5-8559-189B566218B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamino_Factory", "Kamino_Factory\Kamino_Factory.csproj", "{180FF571-0BB2-4D2F-8EA2-48D3DB05F4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Star_Enigma", "Star_Enigma\Star_Enigma.csproj", "{D43280CE-8627-4166-BB80-134D52AF3B70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star_Enigma", "Star_Enigma\Star_Enigma.csproj", "{D43280CE-8627-4166-BB80-134D52AF3B70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForceBook", "ForceBook\ForceBook.csproj", "{B59FC612-C382-49BD-9E13-5B73CE0C5BA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceBook", "ForceBook\ForceBook.csproj", "{B59FC612-C382-49BD-9E13-5B73CE0C5BA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowballs", "Snowballs\Snowballs.csproj", "{62365162-B6C0-4554-8E3D-B20057E63D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowballs", "Snowballs\Snowballs.csproj", "{62365162-B6C0-4554-8E3D-B20057E63D16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowmen", "Snowmen\Snowmen.csproj", "{408A4CCC-C40E-4F0C-8A4D-DF686497E652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowmen", "Snowmen\Snowmen.csproj", "{408A4CCC-C40E-4F0C-8A4D-DF686497E652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowflake", "Snowflake\Snowflake.csproj", "{4246FFBD-7FD0-4CAB-9163-F509B50632B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowflake", "Snowflake\Snowflake.csproj", "{4246FFBD-7FD0-4CAB-9163-F509B50632B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snowwhite", "Snowwhite\Snowwhite.csproj", "{4EB0D8C8-D547-4DDE-AF6D-F21067D2B276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowwhite", "Snowwhite\Snowwhite.csproj", "{4EB0D8C8-D547-4DDE-AF6D-F21067D2B276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous_Downsite", "Anonymous_Downsite\Anonymous_Downsite.csproj", "{E6BE3655-A71C-4412-AA37-C1BB6E63F3B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,6 @@ Global
 		{54B10551-552E-4EE5-8559-189B566218B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54B10551-552E-4EE5-8559-189B566218B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54B10551-552E-4EE5-8559-189B566218B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{180FF571-0BB2-4D2F-8EA2-48D3DB05F4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{180FF571-0BB2-4D2F-8EA2-48D3DB05F4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{180FF571-0BB2-4D2F-8EA2-48D3DB05F4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{180FF571-0BB2-4D2F-8EA2-48D3DB05F4D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D43280CE-8627-4166-BB80-134D52AF3B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D43280CE-8627-4166-BB80-134D52AF3B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43280CE-8627-4166-BB80-134D52AF3B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,6 +77,10 @@ Global
 		{4EB0D8C8-D547-4DDE-AF6D-F21067D2B276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB0D8C8-D547-4DDE-AF6D-F21067D2B276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB0D8C8-D547-4DDE-AF6D-F21067D2B276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6BE3655-A71C-4412-AA37-C1BB6E63F3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BE3655-A71C-4412-AA37-C1BB6E63F3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BE3655-A71C-4412-AA37-C1BB6E63F3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BE3655-A71C-4412-AA37-C1BB6E63F3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

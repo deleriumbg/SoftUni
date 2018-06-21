@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\bin\Debug\netcoreapp2.0\Anonymous_Downsite.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\bin\Debug\netcoreapp2.0\Anonymous_Downsite.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\bin\Debug\netcoreapp2.0\Anonymous_Downsite.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\bin\Debug\netcoreapp2.0\Anonymous_Downsite.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\bin\Debug\netcoreapp2.0\Anonymous_Downsite.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Downsite\obj\Debug\netcoreapp2.0\Anonymous_Downsite.csprojAssemblyReference.cache

@@ -44,8 +44,6 @@ namespace Tseam_Account
                             games.Insert(indexOfGame + 1, $"{expandedGame}:{expansion}");
                         }
                         break;
-                    default:
-                        break;
                 }
                 input = Console.ReadLine();
             }

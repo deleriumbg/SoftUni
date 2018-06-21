@@ -17,20 +17,12 @@ namespace Star_Enigma
             for (int currentMessage = 0; currentMessage < messagesCount; currentMessage++)
             {
                 string input = Console.ReadLine();
-                int count = 0;
-                for (int i = 0; i < input.Length; i++)
-                {
-                    if (input[i] == 's' || input[i] == 'S' || input[i] == 't' || input[i] == 'T' || 
-                        input[i] == 'a' || input[i] == 'A' || input[i] == 'r' || input[i] == 'R')
-                    {
-                        count++;
-                    }
-                }
+                int count = input.Count(t => t == 's' || t == 'S' || t == 't' || t == 'T' || t == 'a' || t == 'A' || t == 'r' || t == 'R');
 
                 StringBuilder decryptedMessage = new StringBuilder();
-                for (int i = 0; i < input.Length; i++)
+                foreach (var symbol in input)
                 {
-                    int charAscii = input[i] - count;
+                    int charAscii = symbol - count;
                     decryptedMessage.Append((char)charAscii);
                 }
                 string decryptedString = decryptedMessage.ToString();
