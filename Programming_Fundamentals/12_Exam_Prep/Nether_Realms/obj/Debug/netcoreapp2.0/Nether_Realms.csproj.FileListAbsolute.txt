@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\bin\Debug\netcoreapp2.0\Nether_Realms.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\bin\Debug\netcoreapp2.0\Nether_Realms.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\bin\Debug\netcoreapp2.0\Nether_Realms.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\bin\Debug\netcoreapp2.0\Nether_Realms.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\bin\Debug\netcoreapp2.0\Nether_Realms.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Nether_Realms\obj\Debug\netcoreapp2.0\Nether_Realms.pdb

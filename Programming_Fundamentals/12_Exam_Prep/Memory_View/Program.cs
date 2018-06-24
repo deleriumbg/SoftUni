@@ -16,7 +16,7 @@ namespace Memory_View
                 input = Console.ReadLine();
             }
 
-            int[] numbers = entireText.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            int[] numbers = entireText.Split(new [] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
             for (int currentIndex = 0; currentIndex < numbers.Length - 5; currentIndex++)
             {

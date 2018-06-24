@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\bin\Debug\netcoreapp2.0\Anonymous_Threat.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\bin\Debug\netcoreapp2.0\Anonymous_Threat.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\bin\Debug\netcoreapp2.0\Anonymous_Threat.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\bin\Debug\netcoreapp2.0\Anonymous_Threat.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\bin\Debug\netcoreapp2.0\Anonymous_Threat.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Threat\obj\Debug\netcoreapp2.0\Anonymous_Threat.pdb

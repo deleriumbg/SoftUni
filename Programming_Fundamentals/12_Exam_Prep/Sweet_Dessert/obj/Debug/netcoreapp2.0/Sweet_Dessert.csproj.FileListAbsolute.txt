@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\bin\Debug\netcoreapp2.0\Sweet_Dessert.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\bin\Debug\netcoreapp2.0\Sweet_Dessert.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\bin\Debug\netcoreapp2.0\Sweet_Dessert.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\bin\Debug\netcoreapp2.0\Sweet_Dessert.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\bin\Debug\netcoreapp2.0\Sweet_Dessert.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Sweet_Dessert\obj\Debug\netcoreapp2.0\Sweet_Dessert.pdb

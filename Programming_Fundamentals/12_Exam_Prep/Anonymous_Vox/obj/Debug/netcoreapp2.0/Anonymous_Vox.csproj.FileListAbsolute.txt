@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\bin\Debug\netcoreapp2.0\Anonymous_Vox.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\bin\Debug\netcoreapp2.0\Anonymous_Vox.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\bin\Debug\netcoreapp2.0\Anonymous_Vox.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\bin\Debug\netcoreapp2.0\Anonymous_Vox.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\bin\Debug\netcoreapp2.0\Anonymous_Vox.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Anonymous_Vox\obj\Debug\netcoreapp2.0\Anonymous_Vox.pdb

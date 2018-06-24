@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\bin\Debug\netcoreapp2.0\Roli_The_Coder.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\bin\Debug\netcoreapp2.0\Roli_The_Coder.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\bin\Debug\netcoreapp2.0\Roli_The_Coder.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\bin\Debug\netcoreapp2.0\Roli_The_Coder.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\bin\Debug\netcoreapp2.0\Roli_The_Coder.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Roli_The_Coder\obj\Debug\netcoreapp2.0\Roli_The_Coder.pdb
