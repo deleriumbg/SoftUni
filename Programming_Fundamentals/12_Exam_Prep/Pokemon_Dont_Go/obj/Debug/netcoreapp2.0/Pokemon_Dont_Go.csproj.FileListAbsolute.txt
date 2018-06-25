@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\bin\Debug\netcoreapp2.0\Pokemon_Dont_Go.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\bin\Debug\netcoreapp2.0\Pokemon_Dont_Go.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\bin\Debug\netcoreapp2.0\Pokemon_Dont_Go.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\bin\Debug\netcoreapp2.0\Pokemon_Dont_Go.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\bin\Debug\netcoreapp2.0\Pokemon_Dont_Go.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Pokemon_Dont_Go\obj\Debug\netcoreapp2.0\Pokemon_Dont_Go.pdb

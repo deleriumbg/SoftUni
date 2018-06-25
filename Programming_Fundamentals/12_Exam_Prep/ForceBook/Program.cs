@@ -54,6 +54,7 @@ namespace ForceBook
                     }
                     Console.WriteLine($"{forceUser} joins the {forceSide} side!");
                 }
+
                 input = Console.ReadLine();
             }
 

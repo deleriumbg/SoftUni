@@ -36,7 +36,6 @@ namespace MOBA_Challenger
                         }
                     }
                 }
-
                 else
                 {
                     string[] duelInfo = input.Split(new string[] { " vs " }, StringSplitOptions.None);

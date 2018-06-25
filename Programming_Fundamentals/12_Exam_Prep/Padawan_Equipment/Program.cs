@@ -24,14 +24,9 @@ namespace Padawan_Equipment
             double totalBeltsPrice = beltPrice * (students - (students / 6));
             double totalSpent = totalLightsabersPrice + totalRobesPrice + totalBeltsPrice;
 
-            if (money >= totalSpent)
-            {
-                Console.WriteLine($"The money is enough - it would cost {totalSpent:f2}lv.");
-            }
-            else
-            {
-                Console.WriteLine($"Ivan Cho will need {totalSpent - money:f2}lv more.");
-            }
+            Console.WriteLine(money >= totalSpent
+                ? $"The money is enough - it would cost {totalSpent:f2}lv."
+                : $"Ivan Cho will need {totalSpent - money:f2}lv more.");
         }
     }
 }

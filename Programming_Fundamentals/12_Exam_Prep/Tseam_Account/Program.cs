@@ -16,6 +16,7 @@ namespace Tseam_Account
                 string[] commands = input.Split(' ');
                 string command = commands[0];
                 string game = commands[1];
+
                 switch (command)
                 {
                     case "Install":

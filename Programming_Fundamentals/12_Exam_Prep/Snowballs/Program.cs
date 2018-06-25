@@ -19,13 +19,11 @@ namespace Snowballs
                 int snowballTime = int.Parse(Console.ReadLine());
                 int snowballQuality = int.Parse(Console.ReadLine());
                 BigInteger snowballValue = BigInteger.Pow(snowballSnow / snowballTime, snowballQuality);
-                if (snowballValue > maxSnowballValue)
-                {
-                    maxSnowballValue = snowballValue;
-                    maxSnow = snowballSnow;
-                    maxTime = snowballTime;
-                    maxQuality = snowballQuality;
-                }
+                if (snowballValue <= maxSnowballValue) continue;
+                maxSnowballValue = snowballValue;
+                maxSnow = snowballSnow;
+                maxTime = snowballTime;
+                maxQuality = snowballQuality;
             }
             Console.WriteLine($"{maxSnow} : {maxTime} = {maxSnowballValue} ({maxQuality})");
         }

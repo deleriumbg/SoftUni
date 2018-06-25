@@ -21,6 +21,7 @@ namespace Anonymous_Downsite
                 totalLoss += siteLoss;
                 Console.WriteLine($"{siteName}");
             }
+
             Console.WriteLine($"Total Loss: {totalLoss:f20}");
             Console.WriteLine($"Security Token: {BigInteger.Pow(securityKey, affectedWebsites)}");
         }
