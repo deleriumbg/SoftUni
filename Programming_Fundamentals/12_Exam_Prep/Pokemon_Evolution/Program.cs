@@ -11,6 +11,7 @@ namespace Pokemon_Evolution
         // Using Tuple instead of Dictionary, because a single pokemon may have many evolutions with the same type and the same index.
         public List<Tuple<string, int>> EvolutionTypeAndIndex { get; set; }
     }
+
     class Program
     {
         static void Main(string[] args)
