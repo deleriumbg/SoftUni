@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\bin\Debug\netcoreapp2.0\Regexmon.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Regexmon\obj\Debug\netcoreapp2.0\Regexmon.pdb

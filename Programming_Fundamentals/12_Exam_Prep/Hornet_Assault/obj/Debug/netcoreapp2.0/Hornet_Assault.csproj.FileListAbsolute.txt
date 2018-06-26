@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\bin\Debug\netcoreapp2.0\Hornet_Assault.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\bin\Debug\netcoreapp2.0\Hornet_Assault.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\bin\Debug\netcoreapp2.0\Hornet_Assault.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\bin\Debug\netcoreapp2.0\Hornet_Assault.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\bin\Debug\netcoreapp2.0\Hornet_Assault.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Hornet_Assault\obj\Debug\netcoreapp2.0\Hornet_Assault.pdb
