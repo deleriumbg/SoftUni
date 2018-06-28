@@ -63,15 +63,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon_Dont_Go", "Pokemon_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regexmon", "Regexmon\Regexmon.csproj", "{B2517BB2-A529-4ECB-BC35-834CD5C247B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon_Evolution", "Pokemon_Evolution\Pokemon_Evolution.csproj", "{A2147E69-E927-45A9-B392-587077C98D0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon_Evolution", "Pokemon_Evolution\Pokemon_Evolution.csproj", "{A2147E69-E927-45A9-B392-587077C98D0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet_Wings", "Hornet_Wings\Hornet_Wings.csproj", "{0B788607-3422-4B43-B59A-20C67DAB3182}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hornet_Wings", "Hornet_Wings\Hornet_Wings.csproj", "{0B788607-3422-4B43-B59A-20C67DAB3182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet_Comm", "Hornet_Comm\Hornet_Comm.csproj", "{31A3A861-0E9F-4927-942C-C08687A73F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hornet_Comm", "Hornet_Comm\Hornet_Comm.csproj", "{31A3A861-0E9F-4927-942C-C08687A73F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet_Assault", "Hornet_Assault\Hornet_Assault.csproj", "{C0E04093-2D31-407C-8C7D-AD8BBA830E3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hornet_Assault", "Hornet_Assault\Hornet_Assault.csproj", "{C0E04093-2D31-407C-8C7D-AD8BBA830E3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet_Armada", "Hornet_Armada\Hornet_Armada.csproj", "{B857EEB9-4D72-4272-BDA9-FF010C9F40BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hornet_Armada", "Hornet_Armada\Hornet_Armada.csproj", "{B857EEB9-4D72-4272-BDA9-FF010C9F40BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sino_The_Walker", "Sino_The_Walker\Sino_The_Walker.csproj", "{701FCE0D-9BB3-458A-A28F-60A9F1A5080B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni_Karaoke", "SoftUni_Karaoke\SoftUni_Karaoke.csproj", "{8138207E-040C-4E9A-8CE3-7D80969C3E7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endurance_Rally", "Endurance_Rally\Endurance_Rally.csproj", "{A894FB4F-EB31-4EE4-9A8E-0DD2C3AE2806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winning_Ticket", "Winning_Ticket\Winning_Ticket.csproj", "{9D35FF26-DA19-4CB6-9000-263526774BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trophon_the_Grumpy_Cat", "Trophon_the_Grumpy_Cat\Trophon_the_Grumpy_Cat.csproj", "{727A971B-600B-4B26-A6AA-03B5994615FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +229,26 @@ Global
 		{B857EEB9-4D72-4272-BDA9-FF010C9F40BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B857EEB9-4D72-4272-BDA9-FF010C9F40BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B857EEB9-4D72-4272-BDA9-FF010C9F40BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701FCE0D-9BB3-458A-A28F-60A9F1A5080B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701FCE0D-9BB3-458A-A28F-60A9F1A5080B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701FCE0D-9BB3-458A-A28F-60A9F1A5080B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701FCE0D-9BB3-458A-A28F-60A9F1A5080B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8138207E-040C-4E9A-8CE3-7D80969C3E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8138207E-040C-4E9A-8CE3-7D80969C3E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8138207E-040C-4E9A-8CE3-7D80969C3E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8138207E-040C-4E9A-8CE3-7D80969C3E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A894FB4F-EB31-4EE4-9A8E-0DD2C3AE2806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A894FB4F-EB31-4EE4-9A8E-0DD2C3AE2806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A894FB4F-EB31-4EE4-9A8E-0DD2C3AE2806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A894FB4F-EB31-4EE4-9A8E-0DD2C3AE2806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D35FF26-DA19-4CB6-9000-263526774BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D35FF26-DA19-4CB6-9000-263526774BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D35FF26-DA19-4CB6-9000-263526774BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D35FF26-DA19-4CB6-9000-263526774BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727A971B-600B-4B26-A6AA-03B5994615FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727A971B-600B-4B26-A6AA-03B5994615FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727A971B-600B-4B26-A6AA-03B5994615FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727A971B-600B-4B26-A6AA-03B5994615FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

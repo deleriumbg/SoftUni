@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\bin\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\bin\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\bin\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\bin\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\bin\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Trophon_the_Grumpy_Cat\obj\Debug\netcoreapp2.0\Trophon_the_Grumpy_Cat.pdb

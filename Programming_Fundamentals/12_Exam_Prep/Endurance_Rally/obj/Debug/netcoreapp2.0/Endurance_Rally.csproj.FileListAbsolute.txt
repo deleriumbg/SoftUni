@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\bin\Debug\netcoreapp2.0\Endurance_Rally.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\bin\Debug\netcoreapp2.0\Endurance_Rally.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\bin\Debug\netcoreapp2.0\Endurance_Rally.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\bin\Debug\netcoreapp2.0\Endurance_Rally.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\bin\Debug\netcoreapp2.0\Endurance_Rally.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\Endurance_Rally\obj\Debug\netcoreapp2.0\Endurance_Rally.pdb
