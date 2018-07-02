@@ -1,0 +1,11 @@
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\bin\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.deps.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\bin\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.runtimeconfig.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\bin\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.runtimeconfig.dev.json
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\bin\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\bin\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.pdb
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.csprojAssemblyReference.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.csproj.CoreCompileInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.AssemblyInfoInputs.cache
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.AssemblyInfo.cs
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.dll
+C:\SoftUni\Programming_Fundamentals\12_Exam_Prep\SoftUni_Coffee_Supplies\obj\Debug\netcoreapp2.0\SoftUni_Coffee_Supplies.pdb
