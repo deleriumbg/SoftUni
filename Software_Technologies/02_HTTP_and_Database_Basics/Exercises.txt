@@ -1,0 +1,124 @@
+01. GitHub Repos
+https://api.github.com/users/Tech-Module-Jan-2018/repos
+
+
+02. GitHub Issue by Id
+GET /repos/SoftUni-Tech-Module/TestRepository/issues/1 HTTP/1.1
+Host: api.github.com
+Cache-Control: no-cache
+Postman-Token: e3d1b6a1-4d8e-4aaa-8016-a62d4c667cd5
+
+
+03. GitHub Issue
+{
+    "url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599",
+    "repository_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo",
+    "labels_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/labels{/name}",
+    "comments_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/comments",
+    "events_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/events",
+    "html_url": "https://github.com/Tech-Module-Jan-2018/test-repo/issues/599",
+    "id": 312247609,
+    "number": 599,
+    "title": "Cooler Buttons",
+    "user": {
+        "login": "deleriumbg",
+        "id": 37003652,
+        "avatar_url": "https://avatars1.githubusercontent.com/u/37003652?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/deleriumbg",
+        "html_url": "https://github.com/deleriumbg",
+        "followers_url": "https://api.github.com/users/deleriumbg/followers",
+        "following_url": "https://api.github.com/users/deleriumbg/following{/other_user}",
+        "gists_url": "https://api.github.com/users/deleriumbg/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/deleriumbg/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/deleriumbg/subscriptions",
+        "organizations_url": "https://api.github.com/users/deleriumbg/orgs",
+        "repos_url": "https://api.github.com/users/deleriumbg/repos",
+        "events_url": "https://api.github.com/users/deleriumbg/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/deleriumbg/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2018-04-07T22:11:03Z",
+    "updated_at": "2018-04-07T22:11:03Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "body": "Pesho wants cooler buttons!",
+    "closed_by": null
+}
+
+
+04. Patch Issue
+{
+    "url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599",
+    "repository_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo",
+    "labels_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/labels{/name}",
+    "comments_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/comments",
+    "events_url": "https://api.github.com/repos/Tech-Module-Jan-2018/test-repo/issues/599/events",
+    "html_url": "https://github.com/Tech-Module-Jan-2018/test-repo/issues/599",
+    "id": 312247609,
+    "number": 599,
+    "title": "Ugly Buttons",
+    "user": {
+        "login": "deleriumbg",
+        "id": 37003652,
+        "avatar_url": "https://avatars1.githubusercontent.com/u/37003652?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/deleriumbg",
+        "html_url": "https://github.com/deleriumbg",
+        "followers_url": "https://api.github.com/users/deleriumbg/followers",
+        "following_url": "https://api.github.com/users/deleriumbg/following{/other_user}",
+        "gists_url": "https://api.github.com/users/deleriumbg/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/deleriumbg/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/deleriumbg/subscriptions",
+        "organizations_url": "https://api.github.com/users/deleriumbg/orgs",
+        "repos_url": "https://api.github.com/users/deleriumbg/repos",
+        "events_url": "https://api.github.com/users/deleriumbg/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/deleriumbg/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2018-04-07T22:11:03Z",
+    "updated_at": "2018-04-07T22:17:04Z",
+    "closed_at": null,
+    "author_association": "NONE",
+    "body": "Pesho wants cooler buttons!",
+    "closed_by": null
+}
+
+
+05. Create Database
+CREATE DATABASE `softuni` /*!40100 COLLATE 'latin1_swedish_ci' */;
+
+
+06. Create table students
+CREATE TABLE `students` (
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`Age` INT(11) NOT NULL DEFAULT '0',
+	`Name` VARCHAR(50) NOT NULL DEFAULT '0',
+	PRIMARY KEY (`id`)
+)
+ENGINE=InnoDB
+;
+
+
+07. Drop Table
+DROP TABLE `students`;
+
+
+08. Drop Database
+DROP DATABASE `softuni`;
