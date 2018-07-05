@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.deps.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.pdb
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.pdb

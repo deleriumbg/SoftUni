@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.deps.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.pdb
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.pdb

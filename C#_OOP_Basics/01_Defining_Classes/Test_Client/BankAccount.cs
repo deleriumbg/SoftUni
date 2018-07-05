@@ -1,10 +1,8 @@
 ﻿public class BankAccount
 {
-    private int id;
-    private decimal balance;
+    public int Id { get; set; }
 
-    public int Id { get => id; set => id = value; }
-    public decimal Balance { get => balance; set => balance = value; }
+    public decimal Balance { get; set; }
 
     public override string ToString()
     {
