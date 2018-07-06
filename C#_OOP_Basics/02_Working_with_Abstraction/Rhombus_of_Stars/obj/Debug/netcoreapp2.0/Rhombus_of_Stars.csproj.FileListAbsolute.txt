@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\bin\Debug\netcoreapp2.0\Rhombus_of_Stars.deps.json
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\bin\Debug\netcoreapp2.0\Rhombus_of_Stars.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\bin\Debug\netcoreapp2.0\Rhombus_of_Stars.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\bin\Debug\netcoreapp2.0\Rhombus_of_Stars.dll
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\bin\Debug\netcoreapp2.0\Rhombus_of_Stars.pdb
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.dll
+C:\SoftUni\C#_OOP_Basics\02_Working_with_Abstraction\Rhombus_of_Stars\obj\Debug\netcoreapp2.0\Rhombus_of_Stars.pdb
