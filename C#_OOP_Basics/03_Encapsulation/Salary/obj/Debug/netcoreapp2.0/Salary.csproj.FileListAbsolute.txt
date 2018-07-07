@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\bin\Debug\netcoreapp2.0\Salary.deps.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\bin\Debug\netcoreapp2.0\Salary.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\bin\Debug\netcoreapp2.0\Salary.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\bin\Debug\netcoreapp2.0\Salary.pdb
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\obj\Debug\netcoreapp2.0\Salary.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\obj\Debug\netcoreapp2.0\Salary.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\obj\Debug\netcoreapp2.0\Salary.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Salary\obj\Debug\netcoreapp2.0\Salary.pdb

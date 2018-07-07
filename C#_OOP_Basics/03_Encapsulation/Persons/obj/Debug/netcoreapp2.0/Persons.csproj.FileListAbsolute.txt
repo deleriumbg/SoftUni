@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\bin\Debug\netcoreapp2.0\Persons.deps.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\bin\Debug\netcoreapp2.0\Persons.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\bin\Debug\netcoreapp2.0\Persons.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\bin\Debug\netcoreapp2.0\Persons.pdb
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Persons\obj\Debug\netcoreapp2.0\Persons.pdb
