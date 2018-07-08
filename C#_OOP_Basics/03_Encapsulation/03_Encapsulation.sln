@@ -3,13 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persons", "Persons\Persons.csproj", "{E45A7CAD-4370-4F44-B8B4-8FE3D79EDDBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persons", "Persons\Persons.csproj", "{E45A7CAD-4370-4F44-B8B4-8FE3D79EDDBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{8216E59E-4B5A-428D-8D2D-39756D58D096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salary", "Salary\Salary.csproj", "{8216E59E-4B5A-428D-8D2D-39756D58D096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{DC201127-C58C-418B-A14A-8CAB6FCD8C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validation", "Validation\Validation.csproj", "{DC201127-C58C-418B-A14A-8CAB6FCD8C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "Team\Team.csproj", "{801C6B35-BB52-4B0C-B711-E2A8A7ED0639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team", "Team\Team.csproj", "{801C6B35-BB52-4B0C-B711-E2A8A7ED0639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Box", "Class_Box\Class_Box.csproj", "{7C0867F4-1DF2-447E-A87E-E78EA3715F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Box_Data_Validation", "Class_Box_Data_Validation\Class_Box_Data_Validation.csproj", "{97DDD43F-E377-43B7-8DB9-217419AF088F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal_Farm", "Animal_Farm\Animal_Farm.csproj", "{8816174B-6DFB-453C-BB76-484E413C5059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping_Spree", "Shopping_Spree\Shopping_Spree.csproj", "{49ECEBF6-ED7C-459F-9282-C02C7E596425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizza_Calories", "Pizza_Calories\Pizza_Calories.csproj", "{5C4C0A0C-2290-42AF-96D7-B93E8DC4C5D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{801C6B35-BB52-4B0C-B711-E2A8A7ED0639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{801C6B35-BB52-4B0C-B711-E2A8A7ED0639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{801C6B35-BB52-4B0C-B711-E2A8A7ED0639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0867F4-1DF2-447E-A87E-E78EA3715F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0867F4-1DF2-447E-A87E-E78EA3715F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0867F4-1DF2-447E-A87E-E78EA3715F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0867F4-1DF2-447E-A87E-E78EA3715F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DDD43F-E377-43B7-8DB9-217419AF088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DDD43F-E377-43B7-8DB9-217419AF088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DDD43F-E377-43B7-8DB9-217419AF088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DDD43F-E377-43B7-8DB9-217419AF088F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8816174B-6DFB-453C-BB76-484E413C5059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8816174B-6DFB-453C-BB76-484E413C5059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8816174B-6DFB-453C-BB76-484E413C5059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8816174B-6DFB-453C-BB76-484E413C5059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49ECEBF6-ED7C-459F-9282-C02C7E596425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49ECEBF6-ED7C-459F-9282-C02C7E596425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49ECEBF6-ED7C-459F-9282-C02C7E596425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49ECEBF6-ED7C-459F-9282-C02C7E596425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4C0A0C-2290-42AF-96D7-B93E8DC4C5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4C0A0C-2290-42AF-96D7-B93E8DC4C5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4C0A0C-2290-42AF-96D7-B93E8DC4C5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4C0A0C-2290-42AF-96D7-B93E8DC4C5D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

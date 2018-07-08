@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\bin\Debug\netcoreapp2.0\Class_Box.deps.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\bin\Debug\netcoreapp2.0\Class_Box.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\bin\Debug\netcoreapp2.0\Class_Box.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\bin\Debug\netcoreapp2.0\Class_Box.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\bin\Debug\netcoreapp2.0\Class_Box.pdb
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.pdb
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box\obj\Debug\netcoreapp2.0\Class_Box.csprojAssemblyReference.cache

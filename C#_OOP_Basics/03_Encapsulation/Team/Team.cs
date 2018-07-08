@@ -17,6 +17,7 @@ public class Team
     {
         get { return this.firstTeam; }
     }
+
     public IReadOnlyCollection<Person> ReserveTeam
     {
         get { return this.reserveTeam; }

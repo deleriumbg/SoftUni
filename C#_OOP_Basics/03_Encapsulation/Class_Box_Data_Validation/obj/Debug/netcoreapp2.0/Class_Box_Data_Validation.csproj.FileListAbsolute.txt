@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\Class_Box_Data_Validation.deps.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\Class_Box_Data_Validation.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\Class_Box_Data_Validation.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\Class_Box_Data_Validation.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\bin\Debug\netcoreapp2.0\Class_Box_Data_Validation.pdb
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\Class_Box_Data_Validation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\Class_Box_Data_Validation.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\Class_Box_Data_Validation.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\Class_Box_Data_Validation.dll
+C:\SoftUni\C#_OOP_Basics\03_Encapsulation\Class_Box_Data_Validation\obj\Debug\netcoreapp2.0\Class_Box_Data_Validation.pdb
