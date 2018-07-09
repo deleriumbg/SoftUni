@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\bin\Debug\netcoreapp2.0\Single_Inheritance.deps.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\bin\Debug\netcoreapp2.0\Single_Inheritance.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\bin\Debug\netcoreapp2.0\Single_Inheritance.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\bin\Debug\netcoreapp2.0\Single_Inheritance.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\bin\Debug\netcoreapp2.0\Single_Inheritance.pdb
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Single_Inheritance\obj\Debug\netcoreapp2.0\Single_Inheritance.pdb
