@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\bin\Debug\netcoreapp2.0\Cars.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\bin\Debug\netcoreapp2.0\Cars.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\bin\Debug\netcoreapp2.0\Cars.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\obj\Debug\netcoreapp2.0\Cars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\obj\Debug\netcoreapp2.0\Cars.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Cars\obj\Debug\netcoreapp2.0\Cars.pdb
