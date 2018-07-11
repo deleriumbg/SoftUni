@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\bin\Debug\netcoreapp2.0\Online_Radio_Database.deps.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\bin\Debug\netcoreapp2.0\Online_Radio_Database.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\bin\Debug\netcoreapp2.0\Online_Radio_Database.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\bin\Debug\netcoreapp2.0\Online_Radio_Database.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\bin\Debug\netcoreapp2.0\Online_Radio_Database.pdb
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Online_Radio_Database\obj\Debug\netcoreapp2.0\Online_Radio_Database.pdb

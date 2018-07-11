@@ -3,15 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_Inheritance", "Single_Inheritance\Single_Inheritance.csproj", "{1C9D23DB-61E8-48B4-8ABF-1F37B62B4F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Inheritance", "Single_Inheritance\Single_Inheritance.csproj", "{1C9D23DB-61E8-48B4-8ABF-1F37B62B4F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple_Inheritance", "Multiple_Inheritance\Multiple_Inheritance.csproj", "{00806D95-48F6-438F-BD23-714D89050860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiple_Inheritance", "Multiple_Inheritance\Multiple_Inheritance.csproj", "{00806D95-48F6-438F-BD23-714D89050860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hierarchical_Inheritance", "Hierarchical_Inheritance\Hierarchical_Inheritance.csproj", "{6F8CA105-3769-43B0-86D3-4B9D548F271B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hierarchical_Inheritance", "Hierarchical_Inheritance\Hierarchical_Inheritance.csproj", "{6F8CA105-3769-43B0-86D3-4B9D548F271B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_List", "Random_List\Random_List.csproj", "{C81A550C-E988-4C18-91BC-B617E37BEC55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random_List", "Random_List\Random_List.csproj", "{C81A550C-E988-4C18-91BC-B617E37BEC55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_of_Strings", "Stack_of_Strings\Stack_of_Strings.csproj", "{C58549A8-5F20-4329-82CC-E4048D8D517F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_of_Strings", "Stack_of_Strings\Stack_of_Strings.csproj", "{C58549A8-5F20-4329-82CC-E4048D8D517F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{F5032050-4174-4E96-81C7-59C024F65AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_Shop", "Book_Shop\Book_Shop.csproj", "{B6E48D29-F949-40A8-A134-2B14A9B08C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mankind", "Mankind\Mankind.csproj", "{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online_Radio_Database", "Online_Radio_Database\Online_Radio_Database.csproj", "{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{C58549A8-5F20-4329-82CC-E4048D8D517F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C58549A8-5F20-4329-82CC-E4048D8D517F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C58549A8-5F20-4329-82CC-E4048D8D517F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5032050-4174-4E96-81C7-59C024F65AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5032050-4174-4E96-81C7-59C024F65AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5032050-4174-4E96-81C7-59C024F65AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5032050-4174-4E96-81C7-59C024F65AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E48D29-F949-40A8-A134-2B14A9B08C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E48D29-F949-40A8-A134-2B14A9B08C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E48D29-F949-40A8-A134-2B14A9B08C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E48D29-F949-40A8-A134-2B14A9B08C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
