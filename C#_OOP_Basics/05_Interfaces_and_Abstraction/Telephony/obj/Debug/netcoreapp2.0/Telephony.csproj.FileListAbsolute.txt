@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\bin\Debug\netcoreapp2.0\Telephony.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\bin\Debug\netcoreapp2.0\Telephony.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\bin\Debug\netcoreapp2.0\Telephony.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Telephony\obj\Debug\netcoreapp2.0\Telephony.pdb

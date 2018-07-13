@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\bin\Debug\netcoreapp2.0\Define_an_Interface_IPerson.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\bin\Debug\netcoreapp2.0\Define_an_Interface_IPerson.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\bin\Debug\netcoreapp2.0\Define_an_Interface_IPerson.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\bin\Debug\netcoreapp2.0\Define_an_Interface_IPerson.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\bin\Debug\netcoreapp2.0\Define_an_Interface_IPerson.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Define_an_Interface_IPerson\obj\Debug\netcoreapp2.0\Define_an_Interface_IPerson.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\bin\Debug\netcoreapp2.0\Multiple_Implementation.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\bin\Debug\netcoreapp2.0\Multiple_Implementation.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\bin\Debug\netcoreapp2.0\Multiple_Implementation.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\bin\Debug\netcoreapp2.0\Multiple_Implementation.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\bin\Debug\netcoreapp2.0\Multiple_Implementation.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Multiple_Implementation\obj\Debug\netcoreapp2.0\Multiple_Implementation.pdb

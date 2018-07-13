@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\bin\Debug\netcoreapp2.0\Border_Control.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\bin\Debug\netcoreapp2.0\Border_Control.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\bin\Debug\netcoreapp2.0\Border_Control.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\bin\Debug\netcoreapp2.0\Border_Control.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\bin\Debug\netcoreapp2.0\Border_Control.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Border_Control\obj\Debug\netcoreapp2.0\Border_Control.pdb
