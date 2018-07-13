@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Operations", "Math_Operations\Math_Operations.csproj", "{2C282175-59B8-4380-B5EF-23FA677D7B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{BBB7FEEF-E596-4A81-9C0F-43E0E5FD3EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{07CB5385-7D7C-4168-AE54-FDBB74F0A53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C282175-59B8-4380-B5EF-23FA677D7B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C282175-59B8-4380-B5EF-23FA677D7B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C282175-59B8-4380-B5EF-23FA677D7B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C282175-59B8-4380-B5EF-23FA677D7B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB7FEEF-E596-4A81-9C0F-43E0E5FD3EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB7FEEF-E596-4A81-9C0F-43E0E5FD3EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB7FEEF-E596-4A81-9C0F-43E0E5FD3EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB7FEEF-E596-4A81-9C0F-43E0E5FD3EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CB5385-7D7C-4168-AE54-FDBB74F0A53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CB5385-7D7C-4168-AE54-FDBB74F0A53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CB5385-7D7C-4168-AE54-FDBB74F0A53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CB5385-7D7C-4168-AE54-FDBB74F0A53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCCD0C57-D0C7-4531-A2AB-3D4959B63EEB}
+	EndGlobalSection
+EndGlobal
