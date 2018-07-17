@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\bin\Debug\netcoreapp2.0\Array_Creator.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\bin\Debug\netcoreapp2.0\Array_Creator.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\bin\Debug\netcoreapp2.0\Array_Creator.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\bin\Debug\netcoreapp2.0\Array_Creator.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\bin\Debug\netcoreapp2.0\Array_Creator.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\obj\Debug\netcoreapp2.0\Array_Creator.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\obj\Debug\netcoreapp2.0\Array_Creator.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\obj\Debug\netcoreapp2.0\Array_Creator.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\obj\Debug\netcoreapp2.0\Array_Creator.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Array_Creator\obj\Debug\netcoreapp2.0\Array_Creator.pdb

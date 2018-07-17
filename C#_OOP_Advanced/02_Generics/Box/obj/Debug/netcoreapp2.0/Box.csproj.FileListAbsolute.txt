@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\bin\Debug\netcoreapp2.0\Box.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\bin\Debug\netcoreapp2.0\Box.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\bin\Debug\netcoreapp2.0\Box.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\bin\Debug\netcoreapp2.0\Box.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\bin\Debug\netcoreapp2.0\Box.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Box\obj\Debug\netcoreapp2.0\Box.pdb

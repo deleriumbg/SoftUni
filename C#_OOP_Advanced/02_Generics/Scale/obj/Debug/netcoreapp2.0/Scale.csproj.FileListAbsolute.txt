@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\bin\Debug\netcoreapp2.0\Scale.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\bin\Debug\netcoreapp2.0\Scale.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\bin\Debug\netcoreapp2.0\Scale.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\bin\Debug\netcoreapp2.0\Scale.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\bin\Debug\netcoreapp2.0\Scale.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Scale\obj\Debug\netcoreapp2.0\Scale.pdb
