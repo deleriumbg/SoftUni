@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\bin\Debug\netcoreapp2.0\Tuple.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\bin\Debug\netcoreapp2.0\Tuple.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\bin\Debug\netcoreapp2.0\Tuple.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\bin\Debug\netcoreapp2.0\Tuple.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\bin\Debug\netcoreapp2.0\Tuple.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\obj\Debug\netcoreapp2.0\Tuple.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\obj\Debug\netcoreapp2.0\Tuple.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\obj\Debug\netcoreapp2.0\Tuple.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\obj\Debug\netcoreapp2.0\Tuple.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Tuple\obj\Debug\netcoreapp2.0\Tuple.pdb

@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.0\Generic_Swap_Method_Integer.pdb

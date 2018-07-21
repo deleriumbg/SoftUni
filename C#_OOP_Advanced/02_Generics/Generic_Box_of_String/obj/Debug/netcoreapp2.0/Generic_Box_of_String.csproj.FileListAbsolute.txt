@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\bin\Debug\netcoreapp2.0\Generic_Box_of_String.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\bin\Debug\netcoreapp2.0\Generic_Box_of_String.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\bin\Debug\netcoreapp2.0\Generic_Box_of_String.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\bin\Debug\netcoreapp2.0\Generic_Box_of_String.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\bin\Debug\netcoreapp2.0\Generic_Box_of_String.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_String\obj\Debug\netcoreapp2.0\Generic_Box_of_String.pdb

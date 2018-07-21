@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\Generic_Count_Method_Double.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\Generic_Count_Method_Double.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\Generic_Count_Method_Double.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\Generic_Count_Method_Double.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\bin\Debug\netcoreapp2.0\Generic_Count_Method_Double.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\Generic_Count_Method_Double.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\Generic_Count_Method_Double.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\Generic_Count_Method_Double.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\Generic_Count_Method_Double.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Count_Method_Double\obj\Debug\netcoreapp2.0\Generic_Count_Method_Double.pdb

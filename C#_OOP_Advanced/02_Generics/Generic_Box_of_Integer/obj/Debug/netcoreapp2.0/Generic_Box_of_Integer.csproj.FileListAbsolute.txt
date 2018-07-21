@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\Generic_Box_of_Integer.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\Generic_Box_of_Integer.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\Generic_Box_of_Integer.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\Generic_Box_of_Integer.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\Generic_Box_of_Integer.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\Generic_Box_of_Integer.pdb

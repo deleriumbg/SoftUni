@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\bin\Debug\netcoreapp2.0\Custom_List_Sorter.deps.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\bin\Debug\netcoreapp2.0\Custom_List_Sorter.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\bin\Debug\netcoreapp2.0\Custom_List_Sorter.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\bin\Debug\netcoreapp2.0\Custom_List_Sorter.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\bin\Debug\netcoreapp2.0\Custom_List_Sorter.pdb
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\obj\Debug\netcoreapp2.0\Custom_List_Sorter.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\obj\Debug\netcoreapp2.0\Custom_List_Sorter.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\obj\Debug\netcoreapp2.0\Custom_List_Sorter.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\obj\Debug\netcoreapp2.0\Custom_List_Sorter.dll
+C:\SoftUni\C#_OOP_Advanced\02_Generics\Custom_List_Sorter\obj\Debug\netcoreapp2.0\Custom_List_Sorter.pdb
