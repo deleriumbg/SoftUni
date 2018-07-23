@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.deps.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.dll
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\bin\Debug\netcoreapp2.0\Equality_Logic.pdb
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.dll
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Equality_Logic\obj\Debug\netcoreapp2.0\Equality_Logic.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.deps.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.dll
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\bin\Debug\netcoreapp2.0\Comparing_Objects.pdb
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.dll
+C:\SoftUni\C#_OOP_Advanced\03_Iterators_and_Comparators\Comparing_Objects\obj\Debug\netcoreapp2.0\Comparing_Objects.pdb
