@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\bin\Debug\netcoreapp2.0\High_Quality_Mistakes.deps.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\bin\Debug\netcoreapp2.0\High_Quality_Mistakes.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\bin\Debug\netcoreapp2.0\High_Quality_Mistakes.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\bin\Debug\netcoreapp2.0\High_Quality_Mistakes.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\bin\Debug\netcoreapp2.0\High_Quality_Mistakes.pdb
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\obj\Debug\netcoreapp2.0\High_Quality_Mistakes.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\obj\Debug\netcoreapp2.0\High_Quality_Mistakes.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\obj\Debug\netcoreapp2.0\High_Quality_Mistakes.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\obj\Debug\netcoreapp2.0\High_Quality_Mistakes.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\High_Quality_Mistakes\obj\Debug\netcoreapp2.0\High_Quality_Mistakes.pdb

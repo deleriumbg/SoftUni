@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\bin\Debug\netcoreapp2.0\Create_Attribute.deps.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\bin\Debug\netcoreapp2.0\Create_Attribute.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\bin\Debug\netcoreapp2.0\Create_Attribute.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\bin\Debug\netcoreapp2.0\Create_Attribute.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\bin\Debug\netcoreapp2.0\Create_Attribute.pdb
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\obj\Debug\netcoreapp2.0\Create_Attribute.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\obj\Debug\netcoreapp2.0\Create_Attribute.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\obj\Debug\netcoreapp2.0\Create_Attribute.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\obj\Debug\netcoreapp2.0\Create_Attribute.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Create_Attribute\obj\Debug\netcoreapp2.0\Create_Attribute.pdb
