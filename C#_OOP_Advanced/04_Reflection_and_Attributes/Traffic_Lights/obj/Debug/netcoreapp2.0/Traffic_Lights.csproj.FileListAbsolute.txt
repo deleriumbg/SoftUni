@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\bin\Debug\netcoreapp2.0\Traffic_Lights.deps.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\bin\Debug\netcoreapp2.0\Traffic_Lights.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\bin\Debug\netcoreapp2.0\Traffic_Lights.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\bin\Debug\netcoreapp2.0\Traffic_Lights.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\bin\Debug\netcoreapp2.0\Traffic_Lights.pdb
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Traffic_Lights\obj\Debug\netcoreapp2.0\Traffic_Lights.pdb

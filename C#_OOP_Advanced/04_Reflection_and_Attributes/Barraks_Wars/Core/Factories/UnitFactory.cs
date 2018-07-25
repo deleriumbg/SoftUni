@@ -7,8 +7,9 @@
     {
         public IUnit CreateUnit(string unitType)
         {
-            //TODO: implement for Problem 3
-            throw new NotImplementedException();
+            Type unitTypeName = Type.GetType("_03BarracksFactory.Models.Units." + unitType);
+            IUnit unit = (IUnit) Activator.CreateInstance(unitTypeName);
+            return unit;
         }
     }
 }

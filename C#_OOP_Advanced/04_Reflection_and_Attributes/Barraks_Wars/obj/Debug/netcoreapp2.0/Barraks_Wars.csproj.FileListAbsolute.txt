@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\bin\Debug\netcoreapp2.0\Barraks_Wars.deps.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\bin\Debug\netcoreapp2.0\Barraks_Wars.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\bin\Debug\netcoreapp2.0\Barraks_Wars.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\bin\Debug\netcoreapp2.0\Barraks_Wars.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\bin\Debug\netcoreapp2.0\Barraks_Wars.pdb
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.dll
+C:\SoftUni\C#_OOP_Advanced\04_Reflection_and_Attributes\Barraks_Wars\obj\Debug\netcoreapp2.0\Barraks_Wars.pdb

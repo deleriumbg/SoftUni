@@ -1,4 +1,6 @@
-﻿namespace _03BarracksFactory
+﻿using Barraks_Wars.Core.Commands;
+
+namespace _03BarracksFactory
 {
     using Contracts;
     using Core;
@@ -11,7 +13,8 @@
         {
             IRepository repository = new UnitRepository();
             IUnitFactory unitFactory = new UnitFactory();
-            IRunnable engine = new Engine(repository, unitFactory);
+            ICommandInterpreter commandInterpreter = new CommandInterpreter(repository, unitFactory);
+            IRunnable engine = new Engine(commandInterpreter);
             engine.Run();
         }
     }
