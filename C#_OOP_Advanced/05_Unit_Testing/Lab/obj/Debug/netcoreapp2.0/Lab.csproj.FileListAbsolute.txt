@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\bin\Debug\netcoreapp2.0\Lab.deps.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\bin\Debug\netcoreapp2.0\Lab.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\bin\Debug\netcoreapp2.0\Lab.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\bin\Debug\netcoreapp2.0\Lab.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\Lab\obj\Debug\netcoreapp2.0\Lab.pdb
