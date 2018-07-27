@@ -1,4 +1,4 @@
-/* 1. Create a Database*/
+/*1. Create a Database*/
 CREATE DATABASE Bank COLLATE Cyrillic_General_100_CI_AS;
 USE Bank;
 
@@ -129,6 +129,7 @@ GO
 
 p_Withdraw 2, 200.00
 GO
+
 p_Deposit 4, 180.00
 GO
 
