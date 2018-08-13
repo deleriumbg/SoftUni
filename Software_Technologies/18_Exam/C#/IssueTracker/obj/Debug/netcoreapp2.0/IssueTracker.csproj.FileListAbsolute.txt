@@ -1,0 +1,11 @@
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\SoftUni\Software_Technologies\18_Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
