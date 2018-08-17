@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\bin\Debug\netcoreapp2.0\Villain_Names.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\bin\Debug\netcoreapp2.0\Villain_Names.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\bin\Debug\netcoreapp2.0\Villain_Names.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\bin\Debug\netcoreapp2.0\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\bin\Debug\netcoreapp2.0\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Villain_Names\obj\Debug\netcoreapp2.0\Villain_Names.pdb

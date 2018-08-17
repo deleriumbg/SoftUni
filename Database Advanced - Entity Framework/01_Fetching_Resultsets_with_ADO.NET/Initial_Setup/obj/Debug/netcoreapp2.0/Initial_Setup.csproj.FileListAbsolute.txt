@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\bin\Debug\netcoreapp2.0\Initial_Setup.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\bin\Debug\netcoreapp2.0\Initial_Setup.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\bin\Debug\netcoreapp2.0\Initial_Setup.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\bin\Debug\netcoreapp2.0\Initial_Setup.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\bin\Debug\netcoreapp2.0\Initial_Setup.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Initial_Setup\obj\Debug\netcoreapp2.0\Initial_Setup.pdb

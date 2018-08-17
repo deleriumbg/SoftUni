@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Minion_Names.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Minion_Names.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Minion_Names.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Minion_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Minion_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\bin\Debug\netcoreapp2.0\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Minion_Names\obj\Debug\netcoreapp2.0\Minion_Names.pdb
