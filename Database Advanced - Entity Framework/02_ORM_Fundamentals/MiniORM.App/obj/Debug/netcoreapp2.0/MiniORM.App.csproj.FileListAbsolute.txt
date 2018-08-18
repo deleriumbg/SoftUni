@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\SoftUni\Database Advanced - Entity Framework\02_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
