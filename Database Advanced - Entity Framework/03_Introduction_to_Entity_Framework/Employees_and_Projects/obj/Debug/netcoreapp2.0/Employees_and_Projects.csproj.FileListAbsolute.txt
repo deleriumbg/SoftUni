@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Employees_and_Projects.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Employees_and_Projects.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Employees_and_Projects.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Employees_and_Projects.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Employees_and_Projects.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Database_First.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\bin\Debug\netcoreapp2.0\Database_First.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_and_Projects\obj\Debug\netcoreapp2.0\Employees_and_Projects.pdb

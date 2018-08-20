@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Employee_147.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Employee_147.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Employee_147.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Employee_147.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Employee_147.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Database_First.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\bin\Debug\netcoreapp2.0\Database_First.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employee_147\obj\Debug\netcoreapp2.0\Employee_147.pdb

@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Increase_Salaries.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Increase_Salaries.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Increase_Salaries.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Increase_Salaries.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Increase_Salaries.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Database_First.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\bin\Debug\netcoreapp2.0\Database_First.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Increase_Salaries\obj\Debug\netcoreapp2.0\Increase_Salaries.pdb

@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Addresses_by_Town.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Addresses_by_Town.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Addresses_by_Town.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Addresses_by_Town.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Addresses_by_Town.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Database_First.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\bin\Debug\netcoreapp2.0\Database_First.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Addresses_by_Town\obj\Debug\netcoreapp2.0\Addresses_by_Town.pdb

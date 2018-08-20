@@ -1,0 +1,293 @@
+Guy Gilbert R Production Technician 12500.00
+Kevin Brown F Marketing Assistant 13500.00
+Roberto Tamburello  Engineering Manager 43300.00
+Rob Walters  Senior Tool Designer 29800.00
+Thierry D'Hers B Tool Designer 25000.00
+David Bradley M Marketing Manager 37500.00
+JoLynn Dobney M Production Supervisor 25000.00
+Ruth Ellerbrock Ann Production Technician 13500.00
+Gail Erickson A Design Engineer 32700.00
+Barry Johnson K Production Technician 13500.00
+Jossef Goldberg H Design Engineer 32700.00
+Terri Duffy Lee Vice President of Engineering 63500.00
+Sidney Higa M Production Technician 13500.00
+Taylor Maxwell R Production Supervisor 25000.00
+Jeffrey Ford L Production Technician 13500.00
+Jo Brown A Production Supervisor 25000.00
+Doris Hartwig M Production Technician 13500.00
+John Campbell T Production Supervisor 25000.00
+Diane Glimp R Production Technician 13500.00
+Steven Selikoff T Production Technician 9500.00
+Peter Krebs J Production Control Manager 24500.00
+Stuart Munson V Production Technician 10000.00
+Greg Alderson F Production Technician 10000.00
+David Johnson  Production Technician 9500.00
+Zheng Mu W Production Supervisor 25000.00
+Ivo Salmre William Production Technician 14000.00
+Paul Komosinski B Production Technician 15000.00
+Ashvini Sharma R Network Administrator 32500.00
+Kendall Keil C Production Technician 11000.00
+Paula Barreto de Mattos M Human Resources Manager 27100.00
+Alejandro McGuel E Production Technician 15000.00
+Garrett Young R Production Technician 9500.00
+Jian Shuo Wang  Production Technician 9500.00
+Susan Eaton W Stocker 9000.00
+Vamsi Kuppa  Shipping and Receiving Clerk 9500.00
+Alice Ciccu O Production Technician 11000.00
+Simon Rapier D Production Technician 12500.00
+Jinghao Liu K Production Supervisor 25000.00
+Michael Hines T Production Technician 14000.00
+Yvonne McKay S Production Technician 10000.00
+Peng Wu J Quality Assurance Supervisor 21600.00
+Jean Trenary E Information Services Manager 50500.00
+Russell Hunter  Production Technician 11000.00
+A. Scott Wright  Master Scheduler 23600.00
+Fred Northup T Production Technician 15000.00
+Sariya Harnpadoungsataya E Marketing Specialist 14400.00
+Willis Johnson T Recruiter 18300.00
+Jun Cao T Production Technician 11000.00
+Christian Kleinerman E Maintenance Supervisor 20400.00
+Susan Metters A Production Technician 9500.00
+Reuben D'sa H Production Supervisor 25000.00
+Kirk Koenigsbauer J Production Technician 10000.00
+David Ortiz J Production Technician 12500.00
+Tengiz Kharatishvili  Control Specialist 16800.00
+Hanying Feng P Production Technician 14000.00
+Kevin Liu H Production Technician 15000.00
+Annik Stahl O Production Technician 12500.00
+Suroor Fatima R Production Technician 11000.00
+Deborah Poe E Accounts Receivable Specialist 19000.00
+Jim Scardelis H Production Technician 11000.00
+Carole Poland M Production Technician 9500.00
+George Li Z Production Technician 9500.00
+Gary Yukish W Production Technician 15000.00
+Cristian Petculescu K Production Supervisor 25000.00
+Raymond Sam K Production Technician 14000.00
+Janaina Bueno Barreiro Gambaro Application Specialist 27400.00
+Bob Hohman  Production Technician 11000.00
+Shammi Mohamed G Production Technician 15000.00
+Linda Moschell K Production Technician 11000.00
+Mindy Martin C Benefits Specialist 16600.00
+Wendy Kahn Beth Finance Manager 43300.00
+Kim Ralls T Stocker 9000.00
+Sandra Reategui Alayo  Production Technician 9500.00
+Kok-Ho Loh T Production Supervisor 25000.00
+Douglas Hite B Production Technician 10000.00
+James Kramer D Production Technician 12500.00
+Sean Alexander P Quality Assurance Technician 10600.00
+Nitin Mirchandani S Production Technician 14000.00
+Diane Margheim L Research and Development Engineer 40900.00
+Rebecca Laszlo A Production Technician 12500.00
+Rajesh Patel M Production Technician 15000.00
+Vidur Luthra X Recruiter 18300.00
+John Evans P Production Technician 11000.00
+Nancy Anderson A Production Technician 12500.00
+Pilar Ackerman G Shipping and Receiving Supervisor 19200.00
+David Yalovsky A Production Technician 9500.00
+David Hamilton P Production Supervisor 25000.00
+Laura Steele C Production Technician 10000.00
+Margie Shoop W Production Technician 12500.00
+Zainal Arifin T Document Control Manager 17800.00
+Lorraine Nay O Production Technician 15000.00
+Fadi Fakhouri K Production Technician 14000.00
+Ryan Cornelsen L Production Technician 15000.00
+Candy Spoon L Accounts Receivable Specialist 19000.00
+Nuan Yu  Production Technician 11000.00
+William Vong S Scheduling Assistant 16000.00
+Bjorn Rettig M Production Technician 9500.00
+Scott Gode R Production Technician 10000.00
+Michael Rothkugel L Production Technician 15000.00
+Lane Sacksteder M Production Technician 14000.00
+Pete Male C Production Technician 11000.00
+Dan Bacon K Application Specialist 27400.00
+David Barber M Assistant to the Chief Financial Officer 13500.00
+Lolan Song B Production Technician 11000.00
+Paula Nartker R Production Technician 15000.00
+Mary Gibson E Marketing Specialist 14400.00
+Mindaugas Krapauskas J Production Technician 11000.00
+Eric Gubbels  Production Supervisor 25000.00
+Ken Sanchez J Chief Executive Officer 125500.00
+Jason Watters M Production Technician 9500.00
+Mark Harrington L Quality Assurance Technician 10600.00
+Janeth Esteves M Production Technician 10000.00
+Marc Ingle J Production Technician 9500.00
+Gigi Matthew  Research and Development Engineer 40900.00
+Paul Singh R Production Technician 14000.00
+Frank Lee T Production Technician 15000.00
+Francois Ajenstat P Database Administrator 38500.00
+Diane Tibbott H Production Technician 11000.00
+Jill Williams A Marketing Specialist 14400.00
+Angela Barbariol W Production Technician 11000.00
+Matthias Berndt T Shipping and Receiving Clerk 9500.00
+Bryan Baker  Production Technician 12500.00
+Jeff Hay V Production Supervisor 25000.00
+Eugene Zabokritski R Production Technician 9500.00
+Barbara Decker S Production Technician 14000.00
+Chris Preston T Production Technician 10000.00
+Sean Chai  Document Control Assistant 10300.00
+Dan Wilson B Database Administrator 38500.00
+Mark McArthur K Production Technician 12500.00
+Bryan Walton A Accounts Receivable Specialist 19000.00
+Houman Pournasseh  Production Technician 11000.00
+Sairaj Uddin L Scheduling Assistant 16000.00
+Michiko Osada F Production Technician 9500.00
+Benjamin Martin R Production Technician 9500.00
+Cynthia Randall S Production Supervisor 25000.00
+Kathie Flood E Production Technician 10000.00
+Britta Simon L Production Technician 12500.00
+Brian Lloyd T Production Technician 15000.00
+David Liu J Accounts Manager 34700.00
+Laura Norman F Chief Financial Officer 60100.00
+Michael Patten W Production Technician 11000.00
+Andy Ruth M Production Technician 9500.00
+Yuhong Li L Production Supervisor 25000.00
+Robert Rounthwaite J Production Technician 10000.00
+Andreas Berglund T Quality Assurance Technician 10600.00
+Reed Koch T Production Technician 9500.00
+Linda Randall A Production Technician 14000.00
+James Hamilton R Vice President of Production 84100.00
+Ramesh Meyyappan V Application Specialist 27400.00
+Stephanie Conroy A Network Manager 39700.00
+Samantha Smith H Production Technician 14000.00
+Tawana Nusbaum G Production Technician 15000.00
+Denise Smith H Production Technician 11000.00
+Hao Chen O Human Resources Administrative Assistant 13900.00
+Alex Nayberg M Production Technician 10000.00
+Eugene Kogan O Production Technician 12500.00
+Brandon Heidepriem G Production Technician 12500.00
+Dylan Miller A Research and Development Manager 50500.00
+Shane Kim S Production Supervisor 25000.00
+John Chen Y Production Technician 14000.00
+Karen Berge R Document Control Assistant 10300.00
+Jose Lugo R Production Technician 12500.00
+Mandar Samant H Production Technician 11000.00
+Mikael Sandberg Q Buyer 18300.00
+Sameer Tejani A Production Technician 11000.00
+Dragan Tomic K Accounts Payable Specialist 19000.00
+Carol Philips M Production Technician 9500.00
+Rob Caron T Production Technician 15000.00
+Don Hall L Production Technician 11000.00
+Alan Brewer J Scheduling Assistant 16000.00
+David Lawrence Oliver Production Technician 9500.00
+Baris Cetinok F Production Technician 15000.00
+Michael Ray Sean Production Supervisor 25000.00
+Steve Masters F Production Technician 12500.00
+Suchitra Mohan O Production Technician 12500.00
+Karen Berg A Application Specialist 27400.00
+Terrence Earls W Production Technician 14000.00
+Barbara Moreland C Accountant 26400.00
+Chad Niswonger W Production Technician 11000.00
+Rostislav Shabalin E Production Technician 9500.00
+Belinda Newman M Production Technician 10000.00
+Katie McAskill-White L Production Supervisor 25000.00
+Russell King M Production Technician 9500.00
+Jack Richins S Production Supervisor 25000.00
+Andrew Hill R Production Supervisor 25000.00
+Nicole Holliday B Production Technician 15000.00
+Frank Miller T Production Technician 11000.00
+Peter Connelly I Network Administrator 32500.00
+Anibal Sousa T Production Technician 14000.00
+Ken Myer L Production Technician 15000.00
+Grant Culbertson  Human Resources Administrative Assistant 13900.00
+Michael Entin T Production Technician 11000.00
+Lionel Penuchot C Production Technician 10000.00
+Thomas Michaels R Production Technician 12500.00
+Jimmy Bischoff T Stocker 9000.00
+Michael Vanderhyde T Production Technician 9500.00
+Lori Kane A Production Supervisor 25000.00
+Arvind Rao B Buyer 18300.00
+Stefen Hesse A Production Technician 14000.00
+Hazem Abolrous E Quality Assurance Manager 28800.00
+Janet Sheperdigian L Accounts Payable Specialist 19000.00
+Elizabeth Keyser I Production Technician 11000.00
+Terry Eminhizer J Marketing Specialist 14400.00
+John Frum  Production Technician 9500.00
+Merav Netz A Production Technician 9500.00
+Brian LaMee P Scheduling Assistant 16000.00
+Kitti Lertpiriyasuwat H Production Technician 11000.00
+Jay Adams G Production Technician 12500.00
+Jan Miksovsky S Production Technician 9500.00
+Brenda Diaz M Production Supervisor 25000.00
+Andrew Cencini M Production Technician 10000.00
+Chris Norred K Control Specialist 16800.00
+Chris Okelberry O Production Technician 12500.00
+Shelley Dyck  Production Technician 14000.00
+Gabe Mares B Production Technician 15000.00
+Mike Seamans K Accountant 26400.00
+Michael Raheem  Research and Development Manager 42500.00
+Gary Altman E. Facilities Manager 24000.00
+Charles Fitzgerald B Production Technician 12500.00
+Ebru Ersan  Production Technician 13500.00
+Sylvester Valdez A Production Technician 14000.00
+Brian Goldstein Richard Production Technician 15000.00
+Linda Meisner P Buyer 18300.00
+Betsy Stadick A Production Technician 13500.00
+Magnus Hedlund E Facilities Administrative Assistant 9800.00
+Karan Khanna R Production Technician 12500.00
+Mary Baker R Production Technician 13500.00
+Kevin Homer M Production Technician 13500.00
+Mihail Frintu U Production Technician 15000.00
+Bonnie Kearney  Production Technician 13500.00
+Fukiko Ogisu J Buyer 18300.00
+Hung-Fu Ting T Production Technician 14000.00
+Gordon Hee L Buyer 18300.00
+Kimberly Zimmerman B Production Technician 13500.00
+Kim Abercrombie B Production Technician 12500.00
+Sandeep Kaliyath P Production Technician 15000.00
+Prasanna Samarawickrama E Production Technician 14000.00
+Frank Pellow S Buyer 18300.00
+Min Su G Production Technician 14000.00
+Eric Brown L Production Technician 15000.00
+Eric Kurjan S Buyer 18300.00
+Pat Coleman H Janitor 9300.00
+Maciej Dusza W Production Technician 12500.00
+Erin Hagens M Buyer 18300.00
+Patrick Wedge C Production Technician 13500.00
+Frank Martinez R Production Technician 15000.00
+Ed Dudenhoefer R Production Technician 12500.00
+Christopher Hill E Production Technician 13500.00
+Patrick Cook M Production Technician 15000.00
+Krishna Sunkammurali  Production Technician 14000.00
+Lori Penor K Janitor 9300.00
+Danielle Tiedt C Production Technician 13500.00
+Sootha Charncherngkha T Quality Assurance Technician 10600.00
+Michael Zwilling J Production Technician 12500.00
+Randy Reeves T Production Technician 12500.00
+John Kane T Production Technician 13500.00
+Jack Creasey T Production Technician 15000.00
+Olinda Turner C Production Technician 14000.00
+Stuart Macrae J Janitor 9300.00
+Jo Berry L Janitor 9300.00
+Ben Miller T Buyer 18300.00
+Tom Vande Velde M Production Technician 13500.00
+Ovidiu Cracium V Senior Tool Designer 28800.00
+Annette Hill L Purchasing Assistant 12800.00
+Janice Galvin M Tool Designer 25000.00
+Reinout Hillmann  Purchasing Assistant 12800.00
+Michael Sullivan I Senior Design Engineer 36100.00
+Stephen Jiang Y North American Sales Manager 48100.00
+Wanida Benshoof M Marketing Assistant 13500.00
+Sharon Salavaria B Design Engineer 32700.00
+John Wood L Marketing Specialist 14400.00
+Mary Dempsey A Marketing Assistant 13500.00
+Brian Welcker S Vice President of Sales 72100.00
+Sheela Word H Purchasing Manager 30000.00
+Michael Blythe G Sales Representative 23100.00
+Linda Mitchell C Sales Representative 23100.00
+Jillian Carson  Sales Representative 23100.00
+Garrett Vargas R Sales Representative 23100.00
+Tsvi Reiter Michael Sales Representative 23100.00
+Pamela Ansman-Wolfe O Sales Representative 23100.00
+Shu Ito K Sales Representative 23100.00
+Jose Saraiva Edvaldo Sales Representative 23100.00
+David Campbell R Sales Representative 23100.00
+Amy Alberts E European Sales Manager 48100.00
+Jae Pak B Sales Representative 23100.00
+Ranjit Varkey Chudukatil R Sales Representative 23100.00
+Tete Mensa-Annan A Sales Representative 23100.00
+Syed Abbas E Pacific Sales Manager 48100.00
+Rachel Valdez B Sales Representative 23100.00
+Lynn Tsoflias  Sales Representative 23100.00
+Svetlin Nakov Ivanov Independent Software Development  Consultant 48000.00
+Martin Kulov  Independent .NET Consultant 48000.00
+George Denchev  Independent Java Consultant 48000.00

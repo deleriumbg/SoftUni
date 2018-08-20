@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Delete_Project_by_Id.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Delete_Project_by_Id.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Delete_Project_by_Id.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Delete_Project_by_Id.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Delete_Project_by_Id.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Database_First.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\bin\Debug\netcoreapp2.0\Database_First.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Delete_Project_by_Id\obj\Debug\netcoreapp2.0\Delete_Project_by_Id.pdb

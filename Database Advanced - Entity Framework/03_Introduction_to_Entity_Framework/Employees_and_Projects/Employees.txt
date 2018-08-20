@@ -1,0 +1,148 @@
+Guy Gilbert - Manager: Jo Brown
+--Half-Finger Gloves - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Racing Socks - 11/22/2005 12:00:00 AM - not finished
+--Women's Tights - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road Bottle Cage - 2/21/2004 12:00:00 AM - not finished
+Roberto Tamburello - Manager: Terri Duffy
+--Classic Vest - 6/1/2003 12:00:00 AM - not finished
+--Mountain-300 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--HL Road Handlebars - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Headlights - Weatherproof - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Rob Walters - Manager: Roberto Tamburello
+--Road-150 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Mountain-400 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring Pedal - 5/16/2005 4:34:00 PM - not finished
+--ML Fork - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Thierry D'Hers - Manager: Ovidiu Cracium
+--Road-350-W - 6/1/2003 12:00:00 AM - not finished
+--Road-350 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--HL Mountain Handlebars - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Hydration Pack - 6/1/2003 12:00:00 AM - not finished
+JoLynn Dobney - Manager: Peter Krebs
+--Men's Bib-Shorts - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Short-Sleeve Classic Jersey - 6/1/2003 12:00:00 AM - not finished
+--Hydration Pack - 6/1/2003 12:00:00 AM - not finished
+--Fender Set - Mountain - 6/1/2003 12:00:00 AM - not finished
+Ruth Ellerbrock - Manager: Andrew Hill
+--Cycling Cap - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Mountain-400-W - 2/22/2006 12:00:00 AM - not finished
+--Touring-3000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Water Bottle - 6/1/2003 12:00:00 AM - not finished
+Gail Erickson - Manager: Roberto Tamburello
+--LL Road Frame - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--LL Mountain Handlebars - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--LL Fork - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Hitch Rack - 4-Bike - 6/1/2003 12:00:00 AM - not finished
+Barry Johnson - Manager: Andrew Hill
+--Full-Finger Gloves - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Mountain-500 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Women's Mountain Shorts - 6/1/2003 12:00:00 AM - not finished
+--Mountain Bottle Cage - 6/1/2003 12:00:00 AM - not finished
+Jossef Goldberg - Manager: Roberto Tamburello
+--LL Touring Frame - 5/16/2005 4:34:00 PM - not finished
+--Touring Pedal - 5/16/2005 4:34:00 PM - not finished
+--ML Fork - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Bike Wash - 8/1/2005 12:00:00 AM - not finished
+Terri Duffy - Manager: Ken Sanchez
+--Road-450 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--LL Mountain Front Wheel - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--LL Road Handlebars - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Taillight - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Sidney Higa - Manager: Andrew Hill
+--Mountain-200 - 6/1/2002 12:00:00 AM - 3/11/2004 10:32:00 AM
+--Touring-1000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--HL Touring Handlebars - 5/16/2005 4:34:00 PM - not finished
+--Rear Derailleur - 6/1/2003 12:00:00 AM - not finished
+Taylor Maxwell - Manager: Peter Krebs
+--Mountain-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Sport-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Taillight - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--All-Purpose Bike Stand - 9/1/2005 12:00:00 AM - not finished
+Jeffrey Ford - Manager: Andrew Hill
+--Classic Vest - 6/1/2003 12:00:00 AM - not finished
+--Mountain-300 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring-2000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Headlights - Weatherproof - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Jo Brown - Manager: Peter Krebs
+--Mountain-200 - 6/1/2002 12:00:00 AM - 3/11/2004 10:32:00 AM
+--Touring-1000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Headlights - Dual-Beam - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Rear Derailleur - 6/1/2003 12:00:00 AM - not finished
+Doris Hartwig - Manager: Andrew Hill
+--Mountain-200 - 6/1/2002 12:00:00 AM - 3/11/2004 10:32:00 AM
+--Touring-1000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Headlights - Dual-Beam - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Rear Derailleur - 6/1/2003 12:00:00 AM - not finished
+John Campbell - Manager: Peter Krebs
+--Classic Vest - 6/1/2003 12:00:00 AM - not finished
+--Mountain-300 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring-2000 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Headlights - Weatherproof - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Diane Glimp - Manager: Andrew Hill
+--Men's Bib-Shorts - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Short-Sleeve Classic Jersey - 6/1/2003 12:00:00 AM - not finished
+--Hydration Pack - 6/1/2003 12:00:00 AM - not finished
+--Fender Set - Mountain - 6/1/2003 12:00:00 AM - not finished
+Steven Selikoff - Manager: Michael Ray
+--Mountain-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Sport-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Taillight - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--All-Purpose Bike Stand - 9/1/2005 12:00:00 AM - not finished
+Peter Krebs - Manager: James Hamilton
+--LL Touring Frame - 5/16/2005 4:34:00 PM - not finished
+--Road-650 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--ML Fork - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Bike Wash - 8/1/2005 12:00:00 AM - not finished
+Stuart Munson - Manager: Lori Kane
+--LL Mountain Frame - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Road-450 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--LL Mountain Front Wheel - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Mountain Pump - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Greg Alderson - Manager: Lori Kane
+--LL Road Frame - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road-550-W - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring Rear Wheel - 5/16/2005 4:34:00 PM - not finished
+--Hitch Rack - 4-Bike - 6/1/2003 12:00:00 AM - not finished
+David Johnson - Manager: Jack Richins
+--LL Touring Frame - 5/16/2005 4:34:00 PM - not finished
+--Road-650 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring Front Wheel - 5/16/2005 4:34:00 PM - not finished
+--Bike Wash - 8/1/2005 12:00:00 AM - not finished
+Zheng Mu - Manager: Peter Krebs
+--Long-Sleeve Logo Jersey - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road-750 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--HL Fork - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring-Panniers - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Ivo Salmre - Manager: Eric Gubbels
+--HL Mountain Frame - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road-150 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Mountain-400 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Patch kit - 6/1/2003 12:00:00 AM - not finished
+Paul Komosinski - Manager: David Hamilton
+--Road-250 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road-550 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Cable Lock - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Kendall Keil - Manager: Taylor Maxwell
+--HL Touring Frame - 5/16/2005 4:34:00 PM - not finished
+--Road-350-W - 6/1/2003 12:00:00 AM - not finished
+--Road-350 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--Minipump - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Paula Barreto de Mattos - Manager: Laura Norman
+--Road-250 - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--HL Road Rear Wheel - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Cable Lock - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Alejandro McGuel - Manager: Brenda Diaz
+--Long-Sleeve Logo Jersey - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Road-750 - 11/20/2002 9:57:00 AM - 6/1/2003 12:00:00 AM
+--ML Mountain Front Wheel - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Touring-Panniers - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+Garrett Young - Manager: Jack Richins
+--Men's Bib-Shorts - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Short-Sleeve Classic Jersey - 6/1/2003 12:00:00 AM - not finished
+--HL Mountain Front Wheel - 6/1/2002 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Fender Set - Mountain - 6/1/2003 12:00:00 AM - not finished
+Jian Shuo Wang - Manager: Cynthia Randall
+--Mountain-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--Sport-100 - 6/1/2001 12:00:00 AM - 6/1/2003 12:00:00 AM
+--LL Touring Handlebars - 5/16/2005 4:34:00 PM - not finished
+--All-Purpose Bike Stand - 9/1/2005 12:00:00 AM - not finished
