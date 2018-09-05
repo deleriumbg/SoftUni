@@ -1,0 +1,36 @@
+body {
+    background: #F0F0E8;
+    font-family: 'OpenSans-ExtraBold', Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #7F7F80;
+}
+
+h1 {
+    font-size: 56px;
+    color: #009188;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+main {
+    margin: 0 auto;
+    width: 880px;
+}
+
+article {
+    display: inline-block;
+    width: 20%;
+    padding: 25px 15px;
+    border-left: 10px solid transparent;
+}
+
+article h4 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+article:hover {
+    background: #F6F6F6;
+    border-left: 10px solid #009288;
+}
