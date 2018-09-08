@@ -1,0 +1,289 @@
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background: url("images/Layer-759_02.jpg") no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background: rgba(186, 146, 94, 0.85);
+    margin: 0 auto;
+    width: 70%;
+    position: relative;
+    top: 25px;
+}
+
+nav ul {
+    margin: 0 auto;
+    padding: 18px;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 5em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 900;
+    padding-top: 0.9em;
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+
+header p {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 0.4em;
+    text-shadow: 1px 1px black;
+}
+
+header button {
+    margin: 1.2em auto 25em;
+    text-transform: uppercase;
+    color:white;
+    background: #080820;
+    padding: 15px;
+    border-radius: 8px;
+    border-style: none;
+}
+
+header button i {
+    color: #BA925E;
+}
+
+header button:hover {
+    cursor: pointer;
+    background: #BA925E;
+    color: #080820;
+}
+
+header button:hover i {
+    color: #080820;
+}
+
+#industries {
+    padding: 60px;
+    text-align: center;
+}
+
+#industries h2 {
+    margin: 0 auto;
+    color: #080820;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#first-row article, #second-row article {
+    display: inline-block;
+    width: 31%;
+    text-align: left;
+    margin-left: 20px;
+}
+
+#first-row, #second-row {
+    margin-left: 80px;
+}
+
+main article p {
+    width: 80%;
+}
+
+main article i {
+    color: white;
+    background: #080820;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    right: 60px;
+    top: 50px;
+}
+
+#middle-section {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%), url('images/steel-bg.jpg') center;
+}
+
+#middle-section p {
+    width: 40%;
+    font-size: 25px;
+    padding: 1.5em;
+    color: #080820;
+    font-weight: 900;
+    margin: auto;
+    text-align: center;
+}
+
+#middle-section p:first-line {
+    color: #BA925E;
+}
+
+#choose-us {
+    margin: 0 auto;
+    text-align: center;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url('images/background-choose-us.jpg') no-repeat center;
+}
+
+#choose-us h3 {
+    margin: 0 auto;
+    padding-top: 1.5em;
+    padding-bottom: 0.8em;
+    color: white;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+#choose-us article {
+    display: inline-block;
+    width: 20%;
+    color: white;
+    text-align: center;
+    margin-right: 2em;
+    margin-bottom: 4em;
+    border: 3px solid #BA925E;
+}
+
+#choose-us h4 {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#choose-us p {
+    text-align: left;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+#quote {
+    background: url(images/consulting-woman.jpg) no-repeat;
+    text-align: right;
+    height: 640px;
+}
+
+#quote > article {
+    width: 30%;
+    height: 525px;
+    background: rgba(237, 236, 233, 0.5);
+    padding: 10px;
+    position: relative;
+    left: 1000px;
+    top: 40px;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+#quote > article p {
+    padding-left: 45px;
+}
+
+#quote article p::before, #quote article p::after {
+    content: ' " ';
+    color: #BA925E;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#nested-article {
+    height: 250px;
+    background: #080820;
+    padding: 15px;
+    width: 75%;
+    margin: 45px;
+    color: white;
+}
+
+#nested-article span {
+    float: right;
+    font-size: 15px;
+}
+
+#nested-article h2 {
+    float: left;
+}
+
+#sponsors {
+    text-align: center;
+}
+
+#sponsors img {
+    vertical-align: center;
+    display: inline-block;
+    width: 180px;
+    height: 96px;
+}
+
+footer {
+    padding: 50px;
+    background: #080820;
+    color: white;
+}
+
+footer article {
+    width: 30%;
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+}
+
+footer:nth-child(2){
+    width: 20%;
+}
+
+footer div {
+    width: 19%;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+#social {
+    margin-left: 25px;
+}
+
+#social i {
+    background: #83838F;
+    color: #080820;
+    border-radius: 50%;
+    margin: 8px;
+    padding: 12px;
+}
+
+footer div {
+    vertical-align: top;
+}
+
+footer div a {
+    color: orange;
+    text-decoration: none;
+}
+
+footer article img {
+    width: 120px;
+    height: 120px;
+}
+
+header button:hover, header button:hover i{
+    cursor:pointer;
+    color: #080820;
+    background: #BA925E;
+}
