@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+body {
+    background: #927057;
+    font-family: 'Oxygen', sans-serif;
+    color: #ffffff;
+    padding: 20px;
+}
+
+main {
+    width: 470px;
+    margin: 50px auto 0;
+    padding: 50px 60px 70px 60px;
+    background: #d5c395;
+}
+
+.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.image-container > img {
+    border: 5px solid #d5c395;
+    height: 123px;
+}
+
+form::before {
+    position: absolute;
+    top: 231px;
+    left: 725px;
+    height: 35px;
+    width: 68px;
+    background: url(images/triangle.png) no-repeat 0 0;
+    content: '';
+}
+
+.name, .pass {
+    outline: none;
+    border: none;
+    background: #efe1c4;
+    padding: 10px 10px 10px 60px;
+    width: 85%;
+    font-size: 1.1em;
+    color: #927057;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.name {
+    background: url(images/user.png) no-repeat 12px 10px #efe1c4;
+}
+
+.pass {
+    background: url(images/pass.png) no-repeat 12px 10px #efe1c4;
+}
+
+.submit {
+    outline: none;
+    border: none;
+    background: #927057;
+    padding: 10px;
+    width: 100%;
+    max-width: 500px;
+    font-size: 1.5em;
+    color: #d5c395;
+    border-radius: 5px;
+}
+
+.submit:hover {
+    color: #fae7b0;
+    box-shadow: 0px 0px 3px #fff;
+}
+
+footer {
+    font-size: 1em;
+    color: #EFE1C4;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
