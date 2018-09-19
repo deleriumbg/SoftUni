@@ -1,0 +1,30 @@
+h1 {
+    color: #733837;
+    font-size: 40px;
+}
+
+body {
+    width: 30%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+#accordion .ui-icon {
+    display: none;
+}
+
+#ui-id-1, #ui-id-3, #ui-id-5, #ui-id-7 {
+    background: #733837;
+    color: white;
+    list-style: none;
+    outline: none;
+}
+
+#ui-id-2, #ui-id-4, #ui-id-6, #ui-id-8 {
+    color: #733837;
+    background: white;
+    border: none;
+}
