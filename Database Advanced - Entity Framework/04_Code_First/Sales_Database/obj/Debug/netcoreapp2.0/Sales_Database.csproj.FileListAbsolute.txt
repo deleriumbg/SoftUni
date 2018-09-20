@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\bin\Debug\netcoreapp2.0\Sales_Database.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\bin\Debug\netcoreapp2.0\Sales_Database.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\bin\Debug\netcoreapp2.0\Sales_Database.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\bin\Debug\netcoreapp2.0\Sales_Database.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\bin\Debug\netcoreapp2.0\Sales_Database.pdb
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Database\obj\Debug\netcoreapp2.0\Sales_Database.pdb

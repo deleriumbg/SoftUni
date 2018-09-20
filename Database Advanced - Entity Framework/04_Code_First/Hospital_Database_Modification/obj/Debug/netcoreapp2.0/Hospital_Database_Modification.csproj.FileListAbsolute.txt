@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\bin\Debug\netcoreapp2.0\Hospital_Database_Modification.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\bin\Debug\netcoreapp2.0\Hospital_Database_Modification.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\bin\Debug\netcoreapp2.0\Hospital_Database_Modification.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\bin\Debug\netcoreapp2.0\Hospital_Database_Modification.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\bin\Debug\netcoreapp2.0\Hospital_Database_Modification.pdb
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Hospital_Database_Modification\obj\Debug\netcoreapp2.0\Hospital_Database_Modification.pdb

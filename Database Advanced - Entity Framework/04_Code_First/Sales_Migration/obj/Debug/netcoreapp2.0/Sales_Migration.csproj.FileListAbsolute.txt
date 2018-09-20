@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\bin\Debug\netcoreapp2.0\Sales_Migration.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\bin\Debug\netcoreapp2.0\Sales_Migration.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\bin\Debug\netcoreapp2.0\Sales_Migration.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\bin\Debug\netcoreapp2.0\Sales_Migration.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\bin\Debug\netcoreapp2.0\Sales_Migration.pdb
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.dll
+C:\SoftUni\Database Advanced - Entity Framework\04_Code_First\Sales_Migration\obj\Debug\netcoreapp2.0\Sales_Migration.pdb
