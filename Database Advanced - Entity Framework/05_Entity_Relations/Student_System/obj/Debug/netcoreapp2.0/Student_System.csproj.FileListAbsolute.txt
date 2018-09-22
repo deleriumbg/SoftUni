@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\bin\Debug\netcoreapp2.0\Student_System.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\bin\Debug\netcoreapp2.0\Student_System.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\bin\Debug\netcoreapp2.0\Student_System.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\bin\Debug\netcoreapp2.0\Student_System.dll
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\bin\Debug\netcoreapp2.0\Student_System.pdb
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.dll
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Student_System\obj\Debug\netcoreapp2.0\Student_System.pdb

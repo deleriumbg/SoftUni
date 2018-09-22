@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.dll
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\bin\Debug\netcoreapp2.0\Football_Betting.pdb
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.dll
+C:\SoftUni\Database Advanced - Entity Framework\05_Entity_Relations\Football_Betting\obj\Debug\netcoreapp2.0\Football_Betting.pdb
