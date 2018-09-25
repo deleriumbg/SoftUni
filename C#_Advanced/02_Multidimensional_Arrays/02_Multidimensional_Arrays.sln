@@ -11,15 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group_Numbers", "Group_Numb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{24010CAB-D9DC-4066-9E5B-CCAC3316E701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_of_Palindromes", "Matrix_of_Palindromes\Matrix_of_Palindromes.csproj", "{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix_of_Palindromes", "Matrix_of_Palindromes\Matrix_of_Palindromes.csproj", "{FA6A4204-FF62-4EB9-9014-13E3D9A5A2BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{72F7683E-CF0A-496C-88A3-AFE415D32A1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{72F7683E-CF0A-496C-88A3-AFE415D32A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares_in_Matrix", "Squares_in_Matrix\Squares_in_Matrix.csproj", "{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Squares_in_Matrix", "Squares_in_Matrix\Squares_in_Matrix.csproj", "{604C3D4B-FECD-4195-B1F0-70D65DF49CEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal_Sum", "Maximal_Sum\Maximal_Sum.csproj", "{1ABCD2DB-7555-4DC9-AA1F-504969227549}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal_Sum", "Maximal_Sum\Maximal_Sum.csproj", "{1ABCD2DB-7555-4DC9-AA1F-504969227549}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiks_Matrix", "Rubiks_Matrix\Rubiks_Matrix.csproj", "{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rubiks_Matrix", "Rubiks_Matrix\Rubiks_Matrix.csproj", "{E7DFD112-3B52-4DE9-8DE0-DEFC390E4301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Target_Practice", "Target_Practice\Target_Practice.csproj", "{356B64EC-6A11-47F1-830D-304785FC9513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lego_Blocks", "Lego_Blocks\Lego_Blocks.csproj", "{6D3452E6-673D-41ED-89A1-1F5943E2CFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radioactive_Bunnies", "Radioactive_Bunnies\Radioactive_Bunnies.csproj", "{7953B3CA-12B3-458B-88E2-118D0AD0DE78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +65,22 @@ Global
 		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ABCD2DB-7555-4DC9-AA1F-504969227549}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7ECB47CE-C336-4266-9D2C-C76A6CB2E629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DFD112-3B52-4DE9-8DE0-DEFC390E4301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DFD112-3B52-4DE9-8DE0-DEFC390E4301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DFD112-3B52-4DE9-8DE0-DEFC390E4301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DFD112-3B52-4DE9-8DE0-DEFC390E4301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356B64EC-6A11-47F1-830D-304785FC9513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356B64EC-6A11-47F1-830D-304785FC9513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356B64EC-6A11-47F1-830D-304785FC9513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356B64EC-6A11-47F1-830D-304785FC9513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3452E6-673D-41ED-89A1-1F5943E2CFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3452E6-673D-41ED-89A1-1F5943E2CFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3452E6-673D-41ED-89A1-1F5943E2CFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3452E6-673D-41ED-89A1-1F5943E2CFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7953B3CA-12B3-458B-88E2-118D0AD0DE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7953B3CA-12B3-458B-88E2-118D0AD0DE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7953B3CA-12B3-458B-88E2-118D0AD0DE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7953B3CA-12B3-458B-88E2-118D0AD0DE78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
