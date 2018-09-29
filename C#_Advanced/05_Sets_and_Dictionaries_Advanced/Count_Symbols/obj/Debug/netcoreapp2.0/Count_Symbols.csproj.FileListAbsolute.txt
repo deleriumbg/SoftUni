@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\bin\Debug\netcoreapp2.0\Count_Symbols.deps.json
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\bin\Debug\netcoreapp2.0\Count_Symbols.runtimeconfig.json
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\bin\Debug\netcoreapp2.0\Count_Symbols.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\bin\Debug\netcoreapp2.0\Count_Symbols.dll
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\bin\Debug\netcoreapp2.0\Count_Symbols.pdb
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.dll
+C:\SoftUni\C#_Advanced\05_Sets_and_Dictionaries_Advanced\Count_Symbols\obj\Debug\netcoreapp2.0\Count_Symbols.pdb
