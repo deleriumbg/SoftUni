@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.deps.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\bin\Debug\netcoreapp2.0\Sneaking.pdb
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Sneaking\obj\Debug\netcoreapp2.0\Sneaking.pdb
