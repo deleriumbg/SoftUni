@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\bin\Debug\netcoreapp2.0\Regeh.deps.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\bin\Debug\netcoreapp2.0\Regeh.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\bin\Debug\netcoreapp2.0\Regeh.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\bin\Debug\netcoreapp2.0\Regeh.pdb
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Regeh\obj\Debug\netcoreapp2.0\Regeh.pdb

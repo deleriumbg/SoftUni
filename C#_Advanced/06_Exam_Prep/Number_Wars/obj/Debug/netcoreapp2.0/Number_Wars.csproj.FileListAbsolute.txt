@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\bin\Debug\netcoreapp2.0\Number_Wars.deps.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\bin\Debug\netcoreapp2.0\Number_Wars.runtimeconfig.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\bin\Debug\netcoreapp2.0\Number_Wars.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\bin\Debug\netcoreapp2.0\Number_Wars.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\bin\Debug\netcoreapp2.0\Number_Wars.pdb
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Number_Wars\obj\Debug\netcoreapp2.0\Number_Wars.pdb
