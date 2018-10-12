@@ -11,13 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Key_Revolver", "Key_Revolve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hit_List", "Hit_List\Hit_List.csproj", "{13D8697C-2F26-4472-AFB9-C92E6DF3E74C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regeh", "Regeh\Regeh.csproj", "{F170404F-77C6-4732-B6CA-2F36E53563D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regeh", "Regeh\Regeh.csproj", "{F170404F-77C6-4732-B6CA-2F36E53563D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight_Game", "Knight_Game\Knight_Game.csproj", "{A21095D7-9DFE-46AF-B93C-5CFA369CC9A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knight_Game", "Knight_Game\Knight_Game.csproj", "{A21095D7-9DFE-46AF-B93C-5CFA369CC9A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Wars", "Number_Wars\Number_Wars.csproj", "{8CE73773-EE87-4F7F-800A-4B89B440A75A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_Wars", "Number_Wars\Number_Wars.csproj", "{8CE73773-EE87-4F7F-800A-4B89B440A75A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{4091D624-D411-4798-AB59-A0358FE5198F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital", "Hospital\Hospital.csproj", "{4091D624-D411-4798-AB59-A0358FE5198F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dangerous_Floor", "Dangerous_Floor\Dangerous_Floor.csproj", "{3BF2544E-4AC1-4C01-ACC2-F4C32022F1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto_Master", "Crypto_Master\Crypto_Master.csproj", "{CD5A0AAA-D892-4317-A988-962F68A9F6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy_Times", "Greedy_Times\Greedy_Times.csproj", "{77BEF7A0-EFDA-4E0A-887A-DE055E74924C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treasure_Map", "Treasure_Map\Treasure_Map.csproj", "{8851FEEF-7CFB-4C4A-976A-E1EF8E0634A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{4091D624-D411-4798-AB59-A0358FE5198F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4091D624-D411-4798-AB59-A0358FE5198F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4091D624-D411-4798-AB59-A0358FE5198F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF2544E-4AC1-4C01-ACC2-F4C32022F1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF2544E-4AC1-4C01-ACC2-F4C32022F1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF2544E-4AC1-4C01-ACC2-F4C32022F1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF2544E-4AC1-4C01-ACC2-F4C32022F1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5A0AAA-D892-4317-A988-962F68A9F6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5A0AAA-D892-4317-A988-962F68A9F6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5A0AAA-D892-4317-A988-962F68A9F6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5A0AAA-D892-4317-A988-962F68A9F6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BEF7A0-EFDA-4E0A-887A-DE055E74924C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEF7A0-EFDA-4E0A-887A-DE055E74924C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BEF7A0-EFDA-4E0A-887A-DE055E74924C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BEF7A0-EFDA-4E0A-887A-DE055E74924C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8851FEEF-7CFB-4C4A-976A-E1EF8E0634A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8851FEEF-7CFB-4C4A-976A-E1EF8E0634A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8851FEEF-7CFB-4C4A-976A-E1EF8E0634A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8851FEEF-7CFB-4C4A-976A-E1EF8E0634A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
