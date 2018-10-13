@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\bin\Debug\netcoreapp2.0\Ticket_Trouble.deps.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\bin\Debug\netcoreapp2.0\Ticket_Trouble.runtimeconfig.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\bin\Debug\netcoreapp2.0\Ticket_Trouble.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\bin\Debug\netcoreapp2.0\Ticket_Trouble.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\bin\Debug\netcoreapp2.0\Ticket_Trouble.pdb
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Ticket_Trouble\obj\Debug\netcoreapp2.0\Ticket_Trouble.pdb

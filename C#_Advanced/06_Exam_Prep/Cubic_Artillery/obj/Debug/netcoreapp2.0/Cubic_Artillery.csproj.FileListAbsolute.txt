@@ -1,0 +1,11 @@
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\bin\Debug\netcoreapp2.0\Cubic_Artillery.deps.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\bin\Debug\netcoreapp2.0\Cubic_Artillery.runtimeconfig.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\bin\Debug\netcoreapp2.0\Cubic_Artillery.runtimeconfig.dev.json
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\bin\Debug\netcoreapp2.0\Cubic_Artillery.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\bin\Debug\netcoreapp2.0\Cubic_Artillery.pdb
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.csprojAssemblyReference.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.AssemblyInfoInputs.cache
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.AssemblyInfo.cs
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.dll
+C:\SoftUni\C#_Advanced\06_Exam_Prep\Cubic_Artillery\obj\Debug\netcoreapp2.0\Cubic_Artillery.pdb
