@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\bin\Debug\netcoreapp2.0\Family_Tree.deps.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\bin\Debug\netcoreapp2.0\Family_Tree.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\bin\Debug\netcoreapp2.0\Family_Tree.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\bin\Debug\netcoreapp2.0\Family_Tree.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\bin\Debug\netcoreapp2.0\Family_Tree.pdb
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.dll
+C:\SoftUni\C#_OOP_Basics\01_Defining_Classes\Family_Tree\obj\Debug\netcoreapp2.0\Family_Tree.pdb

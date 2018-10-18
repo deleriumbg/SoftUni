@@ -1,24 +1,25 @@
-﻿using System;
-
-public class Person
+﻿namespace DefiningClasses
 {
-    public string Name { get; set; }
-
-    public int Age { get; set; }
-
-    public Person()
+    public class Person
     {
-        this.Name = "No name";
-        this.Age = 1;
-    }
+        public string Name { get; set; }
 
-    public Person(int age) : this()
-    {
-        this.Age = age;
-    }
+        public int Age { get; set; }
 
-    public Person(string name, int age) : this(age)
-    {
-        Name = name;
+        public Person()
+        {
+            this.Name = "No name";
+            this.Age = 1;
+        }
+
+        public Person(int age) : this()
+        {
+            this.Age = age;
+        }
+
+        public Person(string name, int age) : this(age)
+        {
+            Name = name;
+        }
     }
 }

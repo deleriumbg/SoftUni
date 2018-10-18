@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle_Intersection", "R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car_Salesman", "Car_Salesman\Car_Salesman.csproj", "{F8C181DF-9560-4E14-AA1D-5E05B8058F58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon_Trainer", "Pokemon_Trainer\Pokemon_Trainer.csproj", "{3EDF885C-CB2A-41E5-950E-4D32197D8768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon_Trainer", "Pokemon_Trainer\Pokemon_Trainer.csproj", "{3EDF885C-CB2A-41E5-950E-4D32197D8768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csproj", "{390AF94B-B083-4B2F-B2A3-D7FEA1480BFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google", "Google\Google.csproj", "{390AF94B-B083-4B2F-B2A3-D7FEA1480BFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing_Tool", "Drawing_Tool\Drawing_Tool.csproj", "{F351CE09-C916-42B4-9398-8F74E4DDAB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drawing_Tool", "Drawing_Tool\Drawing_Tool.csproj", "{F351CE09-C916-42B4-9398-8F74E4DDAB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Family_Tree", "Family_Tree\Family_Tree.csproj", "{063426D4-5A51-4139-9A91-9788234103BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{F351CE09-C916-42B4-9398-8F74E4DDAB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F351CE09-C916-42B4-9398-8F74E4DDAB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F351CE09-C916-42B4-9398-8F74E4DDAB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063426D4-5A51-4139-9A91-9788234103BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063426D4-5A51-4139-9A91-9788234103BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063426D4-5A51-4139-9A91-9788234103BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063426D4-5A51-4139-9A91-9788234103BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
