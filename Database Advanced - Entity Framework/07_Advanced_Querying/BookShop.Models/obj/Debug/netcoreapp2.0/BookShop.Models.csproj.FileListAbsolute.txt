@@ -1,0 +1,9 @@
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\07_Advanced_Querying\BookShop.Models\obj\Debug\netcoreapp2.0\BookShop.Models.pdb
