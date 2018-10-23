@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Services.pdb
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.pdb

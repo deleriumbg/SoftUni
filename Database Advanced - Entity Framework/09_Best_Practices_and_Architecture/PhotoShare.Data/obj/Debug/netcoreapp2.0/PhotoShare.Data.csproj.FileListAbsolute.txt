@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\09_Best_Practices_and_Architecture\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb
