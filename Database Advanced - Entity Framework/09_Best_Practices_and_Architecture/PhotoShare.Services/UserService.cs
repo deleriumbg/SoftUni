@@ -36,7 +36,8 @@
 	        {
 	            Username = username,
                 Password = password,
-                Email = email
+                Email = email,
+                IsDeleted = false
 	        };
 
 	        this.context.Users.Add(user);

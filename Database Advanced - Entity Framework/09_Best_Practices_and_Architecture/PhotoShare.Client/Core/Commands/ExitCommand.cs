@@ -9,7 +9,7 @@
         public string Execute(string[] data)
         {
             Environment.Exit(0);
-            return "Bye-bye!";
+            return "Good Bye!";
         }
     }
 }

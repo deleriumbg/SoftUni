@@ -31,11 +31,6 @@
                 return false;
             }
 
-            if (!password.Any(char.IsUpper))
-            {
-                return false;
-            }
-
             if (!password.Any(char.IsDigit))
             {
                 return false;
