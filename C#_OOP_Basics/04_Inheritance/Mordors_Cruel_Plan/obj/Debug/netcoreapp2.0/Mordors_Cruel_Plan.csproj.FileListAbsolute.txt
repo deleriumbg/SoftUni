@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\Mordors_Cruel_Plan.deps.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\Mordors_Cruel_Plan.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\Mordors_Cruel_Plan.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\Mordors_Cruel_Plan.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\bin\Debug\netcoreapp2.0\Mordors_Cruel_Plan.pdb
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.dll
+C:\SoftUni\C#_OOP_Basics\04_Inheritance\Mordors_Cruel_Plan\obj\Debug\netcoreapp2.0\Mordors_Cruel_Plan.pdb

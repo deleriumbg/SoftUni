@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random_List", "Random_List\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack_of_Strings", "Stack_of_Strings\Stack_of_Strings.csproj", "{C58549A8-5F20-4329-82CC-E4048D8D517F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{F5032050-4174-4E96-81C7-59C024F65AE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{F5032050-4174-4E96-81C7-59C024F65AE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_Shop", "Book_Shop\Book_Shop.csproj", "{B6E48D29-F949-40A8-A134-2B14A9B08C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book_Shop", "Book_Shop\Book_Shop.csproj", "{B6E48D29-F949-40A8-A134-2B14A9B08C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mankind", "Mankind\Mankind.csproj", "{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mankind", "Mankind\Mankind.csproj", "{E1F51B40-3F1C-4426-9159-9BD58FDFCFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online_Radio_Database", "Online_Radio_Database\Online_Radio_Database.csproj", "{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online_Radio_Database", "Online_Radio_Database\Online_Radio_Database.csproj", "{CCBB05DC-DEDA-41C6-8B29-39EEA1228155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mordors_Cruel_Plan", "Mordors_Cruel_Plan\Mordors_Cruel_Plan.csproj", "{F6A498F4-0855-4623-870F-8920BD8C29E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C53E865F-E81B-42FC-B790-4BBA0D30CBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6A498F4-0855-4623-870F-8920BD8C29E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A498F4-0855-4623-870F-8920BD8C29E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A498F4-0855-4623-870F-8920BD8C29E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A498F4-0855-4623-870F-8920BD8C29E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
