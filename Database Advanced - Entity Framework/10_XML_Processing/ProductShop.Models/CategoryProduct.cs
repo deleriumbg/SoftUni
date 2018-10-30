@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ProductShop.Models
+﻿namespace ProductShop.Models
 {
     public class CategoryProduct
     {
