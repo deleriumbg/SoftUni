@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\obj\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Data\bin\Debug\netcoreapp2.0\ProductShop.Data.runtimeconfig.dev.json
