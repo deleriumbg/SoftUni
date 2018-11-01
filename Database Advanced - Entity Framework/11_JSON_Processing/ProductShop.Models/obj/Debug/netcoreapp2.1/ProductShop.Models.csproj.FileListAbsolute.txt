@@ -1,0 +1,9 @@
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\bin\Debug\netcoreapp2.1\ProductShop.Models.deps.json
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\bin\Debug\netcoreapp2.1\ProductShop.Models.dll
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\bin\Debug\netcoreapp2.1\ProductShop.Models.pdb
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.csprojResolveAssemblyReference.cache
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.csproj.CoreCompileInputs.cache
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.AssemblyInfoInputs.cache
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.AssemblyInfo.cs
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.dll
+c:\users\stoyan\source\repos\ProductShopDemo\ProductShop.Models\obj\Debug\netcoreapp2.1\ProductShop.Models.pdb
