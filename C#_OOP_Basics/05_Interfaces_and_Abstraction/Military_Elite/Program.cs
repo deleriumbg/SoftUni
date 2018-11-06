@@ -29,8 +29,8 @@ class Program
                     case "Spy":
                         soldier = new Spy(id, firstName, lastName, (int)salary);
                         break;
-                    case "LeutenantGeneral":
-                        LeutenantGeneral lieutenant = new LeutenantGeneral(id, firstName, lastName, salary);
+                    case "LieutenantGeneral":
+                        LieutenantGeneral lieutenant = new LieutenantGeneral(id, firstName, lastName, salary);
 
                         for (int i = 5; i < soldierInfo.Length; i++)
                         {

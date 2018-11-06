@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.deps.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.pdb
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.dll
+C:\SoftUni\C#_OOP_Basics\05_Interfaces_and_Abstraction\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.pdb

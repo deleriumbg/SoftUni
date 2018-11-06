@@ -1,11 +1,16 @@
-﻿public class Citizen : IPerson
+﻿namespace PersonInfo
 {
-    public string Name { get; private set; }
-    public int Age { get; private set; }
-
-    public Citizen(string name, int age)
+    public class Citizen : IPerson
     {
-        Name = name;
-        Age = age;
+        public string Name { get; private set; }
+        public int Age { get; private set; }
+
+        public Citizen(string name, int age)
+        {
+            Name = name;
+            Age = age;
+        }
     }
 }
+
+

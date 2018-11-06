@@ -1,0 +1,4 @@
+﻿interface IRemove
+{
+    string Remove();
+}
