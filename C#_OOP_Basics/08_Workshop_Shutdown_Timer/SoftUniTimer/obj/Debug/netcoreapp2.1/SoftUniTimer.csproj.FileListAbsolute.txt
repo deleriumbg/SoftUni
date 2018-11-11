@@ -1,0 +1,11 @@
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.deps.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\bin\Debug\netcoreapp2.1\SoftUniTimer.pdb
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.dll
+C:\Users\Stoyan\source\repos\ExceptionExercises\SoftUniTimer\obj\Debug\netcoreapp2.1\SoftUniTimer.pdb

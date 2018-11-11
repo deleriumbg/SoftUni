@@ -1,0 +1,15 @@
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\bin\Debug\SoftUniTimer.App.exe.config
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\bin\Debug\SoftUniTimer.App.exe
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\bin\Debug\SoftUniTimer.App.pdb
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\MainWindow.g.cs
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\App.g.cs
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App_MarkupCompile.cache
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App_MarkupCompile.lref
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\MainWindow.baml
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App.g.resources
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App.Properties.Resources.resources
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\Shutdown_Timer.App.csproj.GenerateResource.cache
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\Shutdown_Timer.App.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App.exe
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\SoftUniTimer.App.pdb
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer.App\obj\Debug\Shutdown_Timer.App.csprojAssemblyReference.cache

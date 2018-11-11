@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\bin\Debug\netcoreapp2.1\Shutdown_Timer.deps.json
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\bin\Debug\netcoreapp2.1\Shutdown_Timer.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\bin\Debug\netcoreapp2.1\Shutdown_Timer.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\bin\Debug\netcoreapp2.1\Shutdown_Timer.dll
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\bin\Debug\netcoreapp2.1\Shutdown_Timer.pdb
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.dll
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.pdb
+C:\SoftUni\C#_OOP_Basics\08_Workshop_ShutDown_Timer\SoftUniTimer\obj\Debug\netcoreapp2.1\Shutdown_Timer.csprojAssemblyReference.cache

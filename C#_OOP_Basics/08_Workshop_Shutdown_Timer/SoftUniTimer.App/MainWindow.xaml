@@ -1,0 +1,23 @@
+﻿<Window x:Class="Shutdown_Timer.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Shutdown_Timer.App"
+        mc:Ignorable="d"
+        Title="SoftUniTimer" Height="350" Width="525">
+    <Grid Background="Gray">
+        <Button Content="Shutdown" Background ="DeepSkyBlue" HorizontalAlignment="Left" Margin="185,74,0,0" VerticalAlignment="Top" Width="147" Height="33" Click="Shutdown"/>
+        <Button Content="Restart" Background ="DeepSkyBlue"  HorizontalAlignment="Left" Margin="185,112,0,0" VerticalAlignment="Top" Width="147" Height="33" Click="Restart"/>
+        <Button Content="Hibernate" Background ="DeepSkyBlue" HorizontalAlignment="Left" Margin="185,150,0,0" VerticalAlignment="Top" Width="147" Height="33" Click="Hibernate"/>
+        <Button Content="Abort" Background ="DeepSkyBlue" HorizontalAlignment="Left" Margin="185,188,0,0" VerticalAlignment="Top" Width="147" Height="33" Click="Abort"/>
+        <StackPanel Margin="10">
+            <ComboBox Name="timeList" Margin="185,30,175,0">
+                <ComboBoxItem IsSelected="True" Content="1h"/>
+                <ComboBoxItem Content="15m"/>
+                <ComboBoxItem Content="30m"/>
+                <ComboBoxItem Content="2h"/>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>
