@@ -3,7 +3,6 @@ C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\bin\Debug\netcoreapp2.1\Stor
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
-C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csproj.CoreCompileInputs.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs

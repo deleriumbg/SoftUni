@@ -3,7 +3,6 @@ C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\bin\Debug\netcoreap
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.1\DungeonsAndCodeWizards.runtimeconfig.dev.json
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.1\DungeonsAndCodeWizards.dll
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.1\DungeonsAndCodeWizards.pdb
-C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.1\DungeonsAndCodeWizards.csprojAssemblyReference.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.1\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.1\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
 C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.1\DungeonsAndCodeWizards.AssemblyInfo.cs
