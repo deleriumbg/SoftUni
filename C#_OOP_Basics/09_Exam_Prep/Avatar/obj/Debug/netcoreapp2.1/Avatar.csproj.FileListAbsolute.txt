@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\bin\Debug\netcoreapp2.1\Avatar.deps.json
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\bin\Debug\netcoreapp2.1\Avatar.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\bin\Debug\netcoreapp2.1\Avatar.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\bin\Debug\netcoreapp2.1\Avatar.dll
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\bin\Debug\netcoreapp2.1\Avatar.pdb
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.dll
+C:\SoftUni\C#_OOP_Basics\09_Exam_Prep\Avatar\obj\Debug\netcoreapp2.1\Avatar.pdb
