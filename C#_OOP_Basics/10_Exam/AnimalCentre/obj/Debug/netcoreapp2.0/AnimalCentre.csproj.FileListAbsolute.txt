@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\SoftUni\C#_OOP_Basics\10_Exam\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb
