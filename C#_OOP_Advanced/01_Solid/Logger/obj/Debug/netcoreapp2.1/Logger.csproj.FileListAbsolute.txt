@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\bin\Debug\netcoreapp2.1\Logger.deps.json
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\bin\Debug\netcoreapp2.1\Logger.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\bin\Debug\netcoreapp2.1\Logger.dll
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\bin\Debug\netcoreapp2.1\Logger.pdb
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.dll
+C:\SoftUni\C#_OOP_Advanced\01_Solid\Logger\obj\Debug\netcoreapp2.1\Logger.pdb
