@@ -1,0 +1,34 @@
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.deps.json
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csprojAssemblyReference.cache
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.json
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CopyComplete
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\Users\Stoyan\Desktop\Workshop - exercise\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.deps.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CopyComplete
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb

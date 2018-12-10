@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.deps.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.pdb

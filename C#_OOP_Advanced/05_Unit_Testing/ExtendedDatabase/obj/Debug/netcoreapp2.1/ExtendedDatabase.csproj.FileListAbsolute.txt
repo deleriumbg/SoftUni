@@ -1,0 +1,10 @@
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.deps.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\bin\Debug\netcoreapp2.1\ExtendedDatabase.pdb
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.dll
+C:\SoftUni\C#_OOP_Advanced\05_Unit_Testing\ExtendedDatabase\obj\Debug\netcoreapp2.1\ExtendedDatabase.pdb
