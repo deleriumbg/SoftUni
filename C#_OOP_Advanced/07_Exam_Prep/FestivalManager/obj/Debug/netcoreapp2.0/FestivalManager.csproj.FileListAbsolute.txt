@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb
