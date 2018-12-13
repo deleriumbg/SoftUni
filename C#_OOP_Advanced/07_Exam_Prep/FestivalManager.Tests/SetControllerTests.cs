@@ -8,25 +8,25 @@ using FestivalManager.Entities.Sets;
 namespace FestivalManager.Tests
 {
     using System;
-	using NUnit.Framework;
+    using NUnit.Framework;
 
-	[TestFixture]
-	public class SetControllerTests
+    [TestFixture]
+    public class SetControllerTests
     {
-		[Test]
-	    public void SetControllerShouldReturnFailMessage()
-	    {
+        [Test]
+        public void SetControllerShouldReturnFailMessage()
+        {
             IStage stage = new Stage();
             ISetController setController = new SetController(stage);
 
             ISet set = new Short("Set1");
             stage.AddSet(set);
 
-	        string actualResult = setController.PerformSets();
-	        string expectedResult = "1. Set1:\r\n-- Did not perform";
+            string actualResult = setController.PerformSets();
+            string expectedResult = "1. Set1:\r\n-- Did not perform";
 
             Assert.That(expectedResult, Is.EqualTo(actualResult));
-	    }
+        }
 
         [Test]
         public void SetControllerShouldReturnSuccessMessage()
@@ -35,14 +35,14 @@ namespace FestivalManager.Tests
             ISetController setController = new SetController(stage);
 
             ISet set = new Short("Set1");
-            
+
             IPerformer performer = new Performer("Pesho", 20);
             performer.AddInstrument(new Guitar());
             set.AddPerformer(performer);
 
             ISong song = new Song("Test", new TimeSpan(0, 2, 10));
             set.AddSong(song);
-            
+
             stage.AddSet(set);
 
             string actualResult = setController.PerformSets();
@@ -58,7 +58,7 @@ namespace FestivalManager.Tests
             ISetController setController = new SetController(stage);
 
             ISet set = new Short("Set1");
-            
+
             IPerformer performer = new Performer("Pesho", 20);
             IInstrument instrument = new Guitar();
             performer.AddInstrument(instrument);
@@ -66,7 +66,7 @@ namespace FestivalManager.Tests
 
             ISong song = new Song("Test", new TimeSpan(0, 2, 10));
             set.AddSong(song);
-            
+
             stage.AddSet(set);
 
             double instrumentWearBeforePerforming = instrument.Wear;
