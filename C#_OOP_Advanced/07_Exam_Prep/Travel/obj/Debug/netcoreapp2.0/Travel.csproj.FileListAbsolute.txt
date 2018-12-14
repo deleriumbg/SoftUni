@@ -1,0 +1,11 @@
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Travel\obj\Debug\netcoreapp2.0\Travel.pdb
