@@ -1,0 +1,17 @@
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+C:\SoftUni\C#_OOP_Advanced\08_Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
