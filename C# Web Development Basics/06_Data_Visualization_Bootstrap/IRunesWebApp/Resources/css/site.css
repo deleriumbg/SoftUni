@@ -1,0 +1,43 @@
+﻿body {
+    color: white;
+}
+
+a {
+    color: orange;
+}
+
+footer {
+    color: black;
+    text-align: center;
+}
+
+.top-border-line {
+    margin: 5px 0 15px;
+    border-top: solid 2px green;
+}
+
+.bottom-border-line {
+    margin-top: 20px;
+    border-top: solid 2px green;
+}
+
+.heading-container {
+    border-bottom: solid 2px white;
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: green;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+.navbar .navbar-brand {
+    color: whitesmoke;
+}
+
+.jumbotron {
+    background-color: green;
+}
