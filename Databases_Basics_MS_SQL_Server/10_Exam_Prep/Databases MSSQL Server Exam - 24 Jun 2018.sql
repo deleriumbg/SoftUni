@@ -155,5 +155,144 @@ GROUP BY c.Id, c.[Name]
 ORDER BY SUM(h.BaseRate + r.Price) DESC, Trips DESC
 
 /*14. Trip Revenues */
+SELECT t.Id, 
+	h.[Name], 
+	r.[Type], 
+	CASE
+		WHEN t.CancelDate IS NOT NULL
+		THEN 0
+		ELSE COUNT(at.AccountId) * (r.Price + h.BaseRate)
+	END AS Revenue
+FROM Trips AS t
+JOIN Rooms AS r ON t.RoomId = r.Id
+JOIN Hotels AS h ON r.HotelId = h.Id
+JOIN AccountsTrips AS at ON t.Id = at.TripId
+GROUP BY t.Id, 
+	h.[Name], 
+	r.[Type], 
+	t.CancelDate, 
+	h.BaseRate, 
+	r.Price
+ORDER BY r.[Type], t.Id
+
+/*15. Top Travelers */
+SELECT Id, Email, CountryCode, Trips
+FROM (
+	SELECT 
+		a.Id, 
+		a.Email, 
+		c.CountryCode, 
+		COUNT(t.Id) AS Trips,
+		DENSE_RANK() OVER(PARTITION BY c.CountryCode ORDER BY COUNT(t.ID) DESC, a.Id) AS Rank
+	FROM Accounts AS a 
+	JOIN AccountsTrips AS at ON a.Id = at.AccountId
+	JOIN Trips AS t ON at.TripId = t.Id
+	JOIN Rooms AS r ON t.RoomId = r.Id
+	JOIN Hotels AS h ON r.HotelId = h.Id
+	JOIN Cities AS c ON h.CityId = c.Id
+	GROUP BY 
+		a.Id, 
+		a.Email, 
+		c.CountryCode
+) AS Helper
+WHERE Rank = 1 
+ORDER BY Trips DESC
+
+/*16. Luggage Fees */
+SELECT 
+	TripId, 
+	SUM(Luggage) AS Luggage,
+	CASE 
+		WHEN SUM(Luggage) > 5 THEN '$' + CONVERT(VARCHAR, SUM(Luggage) * 5)
+		ELSE '$0'
+	END AS Fee
+FROM AccountsTrips
+GROUP BY TripId
+HAVING SUM(Luggage) > 0 
+ORDER BY Luggage DESC
+
+/*17. GDPR Violation */
+SELECT 
+	t.Id,
+	CONCAT(a.FirstName, ' ', ISNULL(a.MiddleName + ' ', ''), a.LastName) AS [Full Name],
+	ca.[Name] AS [From],
+	c.[Name] AS [To],
+	CASE
+		WHEN t.CancelDate IS NOT NULL THEN 'Canceled'
+		ELSE CONVERT(VARCHAR, DATEDIFF(DAY, t.ArrivalDate, t.ReturnDate)) + ' days'
+	END AS [Duration]
+FROM Accounts AS a 
+	JOIN Cities AS ca ON a.CityId = ca.Id
+	JOIN AccountsTrips AS at ON a.Id = at.AccountId
+	JOIN Trips AS t ON at.TripId = t.Id
+	JOIN Rooms AS r ON t.RoomId = r.Id
+	JOIN Hotels AS h ON r.HotelId = h.Id
+	JOIN Cities AS c ON h.CityId = c.Id
+ORDER BY [Full Name], t.Id
+
+/*18. Available Room */
+GO
+CREATE FUNCTION udf_GetAvailableRoom(@HotelId INT, @Date DATE, @People INT)
+RETURNS VARCHAR(MAX) AS
+BEGIN
+	DECLARE @BookedRooms TABLE(Id INT)
+	INSERT INTO @BookedRooms
+		SELECT DISTINCT r.Id FROM Rooms AS r
+		LEFT JOIN Trips AS t ON r.Id = t.RoomId
+		WHERE r.HotelId = @HotelId AND @Date BETWEEN t.ArrivalDate AND t.ReturnDate
+		AND t.CancelDate IS NULL
+
+	DECLARE @Rooms TABLE(Id INT, Price DECIMAL(15,2), [Type] VARCHAR(20), Beds INT, TotalPrice DECIMAL(15,2))
+	INSERT INTO @Rooms
+		SELECT TOP(1)
+			r.Id,
+			r.Price,
+			r.[Type],
+			r.Beds,
+			@People * (h.BaseRate + r.Price) AS TotalPrice
+		FROM Rooms AS r
+		LEFT JOIN Hotels AS h ON r.HotelId = h.Id
+		WHERE
+			r.HotelId = @HotelId AND
+			r.Beds >= @People AND
+			r.Id NOT IN (SELECT Id
+						FROM @BookedRooms)
+		ORDER BY TotalPrice DESC
+
+	DECLARE @RoomCount INT = (SELECT COUNT(*) FROM @Rooms)
+
+	IF(@RoomCount < 1)
+	BEGIN
+		RETURN 'No rooms available'
+	END
+
+	DECLARE @Result VARCHAR(MAX) = (SELECT CONCAT('Room ', Id, ': ', Type, ' (', Beds, ' beds) - ', '$', TotalPrice)
+                                    FROM @Rooms)
+
+	RETURN @Result
+END
+GO
+
+/*19. Switch Room */
+CREATE PROC usp_SwitchRoom(@TripId INT, @TargetRoomId INT) AS 
+BEGIN
+END
+
+/*20. Cancel Trip */
+GO
+CREATE TRIGGER T_CancelTrip ON Trips INSTEAD OF DELETE 
+AS
+BEGIN
+	UPDATE Trips
+	SET CancelDate = GETDATE()
+	WHERE Id IN (SELECT Id
+				FROM deleted
+				WHERE CancelDate IS NULL)
+END
+
+
+ 
+
+
 
 
