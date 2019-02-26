@@ -1,0 +1,13 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Change_Town_Names_Casing.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Change_Town_Names_Casing.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Change_Town_Names_Casing.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Change_Town_Names_Casing.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Change_Town_Names_Casing.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\bin\Debug\netcoreapp2.1\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Change_Town_Names_Casing\obj\Debug\netcoreapp2.1\Change_Town_Names_Casing.pdb

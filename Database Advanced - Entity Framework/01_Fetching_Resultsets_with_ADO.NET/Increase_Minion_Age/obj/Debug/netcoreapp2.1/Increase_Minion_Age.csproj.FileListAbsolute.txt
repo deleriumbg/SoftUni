@@ -1,0 +1,13 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Increase_Minion_Age.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Increase_Minion_Age.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Increase_Minion_Age.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Increase_Minion_Age.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Increase_Minion_Age.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\bin\Debug\netcoreapp2.1\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Increase_Minion_Age\obj\Debug\netcoreapp2.1\Increase_Minion_Age.pdb

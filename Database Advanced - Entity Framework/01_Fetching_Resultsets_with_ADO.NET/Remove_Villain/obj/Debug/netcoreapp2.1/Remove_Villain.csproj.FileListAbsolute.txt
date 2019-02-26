@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Remove_Villain.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Remove_Villain.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Remove_Villain.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Remove_Villain.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Remove_Villain.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\bin\Debug\netcoreapp2.1\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Remove_Villain\obj\Debug\netcoreapp2.1\Remove_Villain.pdb

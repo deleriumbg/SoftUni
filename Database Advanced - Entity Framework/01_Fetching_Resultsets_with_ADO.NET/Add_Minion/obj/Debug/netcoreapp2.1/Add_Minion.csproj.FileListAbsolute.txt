@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Add_Minion.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Add_Minion.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Add_Minion.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Add_Minion.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Add_Minion.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Villain_Names.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\bin\Debug\netcoreapp2.1\Villain_Names.pdb
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.dll
+C:\SoftUni\Database Advanced - Entity Framework\01_Fetching_Resultsets_with_ADO.NET\Add_Minion\obj\Debug\netcoreapp2.1\Add_Minion.pdb
