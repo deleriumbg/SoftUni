@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\bin\Debug\netcoreapp2.0\SoftUni.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\bin\Debug\netcoreapp2.0\SoftUni.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\bin\Debug\netcoreapp2.0\SoftUni.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\bin\Debug\netcoreapp2.0\SoftUni.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\bin\Debug\netcoreapp2.0\SoftUni.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Database_First\obj\Debug\netcoreapp2.0\SoftUni.csprojAssemblyReference.cache

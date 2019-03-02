@@ -1,4 +1,4 @@
-﻿namespace P02_DatabaseFirst.Data
+﻿namespace SoftUni.Data
 {
     public class Configuration
     {

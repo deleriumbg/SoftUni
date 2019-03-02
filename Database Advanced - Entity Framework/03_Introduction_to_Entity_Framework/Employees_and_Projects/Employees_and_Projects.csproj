@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Database_First\Database_First.csproj" />
+    <ProjectReference Include="..\Database_First\SoftUni.csproj" />
   </ItemGroup>
 
 </Project>

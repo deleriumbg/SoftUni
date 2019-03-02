@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database_First", "Database_First\Database_First.csproj", "{C91C7518-6B36-4D66-8DD8-6CEFCBCF55AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni", "Database_First\SoftUni.csproj", "{C91C7518-6B36-4D66-8DD8-6CEFCBCF55AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees_Full_Information", "Employees_Full_Information\Employees_Full_Information.csproj", "{90A134CC-717A-4ACD-AE32-931D2213F4BB}"
 EndProject
@@ -23,11 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Departments_With_More_Than_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Latest_10_Projects", "Find_Latest_10_Projects\Find_Latest_10_Projects.csproj", "{43EC8E79-890E-47B0-BF63-329C81F64365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increase_Salaries", "Increase_Salaries\Increase_Salaries.csproj", "{06600E14-B5D0-4FD6-8F5A-94967C4B2D9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Increase_Salaries", "Increase_Salaries\Increase_Salaries.csproj", "{06600E14-B5D0-4FD6-8F5A-94967C4B2D9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Employees_by_First_Name_Starting_With_Sa", "Find_Employees_by_First_Name_Starting_With_Sa\Find_Employees_by_First_Name_Starting_With_Sa.csproj", "{E182FBD6-5BAB-4188-8DF6-9E142D3F6059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Employees_by_First_Name_Starting_With_Sa", "Find_Employees_by_First_Name_Starting_With_Sa\Find_Employees_by_First_Name_Starting_With_Sa.csproj", "{E182FBD6-5BAB-4188-8DF6-9E142D3F6059}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete_Project_by_Id", "Delete_Project_by_Id\Delete_Project_by_Id.csproj", "{DDF2BC23-A52B-4F91-9136-0E8B24620EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delete_Project_by_Id", "Delete_Project_by_Id\Delete_Project_by_Id.csproj", "{DDF2BC23-A52B-4F91-9136-0E8B24620EFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

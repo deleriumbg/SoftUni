@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using System.Linq;
-using P02_DatabaseFirst.Data;
+using SoftUni.Data;
 
 namespace Employees_with_Salary_Over_50000
 {

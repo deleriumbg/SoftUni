@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
-using P02_DatabaseFirst.Data;
-using P02_DatabaseFirst.Data.Models;
+using SoftUni.Data;
+using SoftUni.Models;
 
 namespace Departments_With_More_Than_5_Employees
 {

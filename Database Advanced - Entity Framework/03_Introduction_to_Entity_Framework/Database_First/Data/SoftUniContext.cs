@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using P02_DatabaseFirst.Data.Models;
+using SoftUni.Models;
 
-namespace P02_DatabaseFirst.Data
+namespace SoftUni.Data
 {
-    public partial class SoftUniContext : DbContext
+    public class SoftUniContext : DbContext
     {
         public SoftUniContext()
         {

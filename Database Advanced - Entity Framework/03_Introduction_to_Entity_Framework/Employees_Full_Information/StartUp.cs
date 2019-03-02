@@ -1,11 +1,11 @@
 ﻿using System.IO;
 using System.Linq;
-using P02_DatabaseFirst.Data;
-using P02_DatabaseFirst.Data.Models;
+using SoftUni.Data;
+using SoftUni.Models;
 
 namespace Employees_Full_Information
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {

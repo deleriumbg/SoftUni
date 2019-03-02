@@ -3,8 +3,6 @@ C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framew
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\Employees_Full_Information.runtimeconfig.dev.json
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\Employees_Full_Information.dll
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\Employees_Full_Information.pdb
-C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\Database_First.dll
-C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\Database_First.pdb
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.csprojAssemblyReference.cache
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.csproj.CoreCompileInputs.cache
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.AssemblyInfoInputs.cache
@@ -12,3 +10,5 @@ C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framew
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.csproj.CopyComplete
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.dll
 C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\obj\Debug\netcoreapp2.0\Employees_Full_Information.pdb
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\SoftUni.dll
+C:\SoftUni\Database Advanced - Entity Framework\03_Introduction_to_Entity_Framework\Employees_Full_Information\bin\Debug\netcoreapp2.0\SoftUni.pdb

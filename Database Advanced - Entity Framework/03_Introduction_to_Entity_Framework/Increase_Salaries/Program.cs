@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using System.Linq;
-using P02_DatabaseFirst.Data;
+using SoftUni.Data;
 
 namespace Increase_Salaries
 {

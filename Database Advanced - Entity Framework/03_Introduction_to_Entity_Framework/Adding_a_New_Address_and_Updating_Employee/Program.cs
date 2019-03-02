@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Linq;
-using P02_DatabaseFirst.Data;
-using P02_DatabaseFirst.Data.Models;
+using SoftUni.Data;
+using SoftUni.Models;
 
 namespace Adding_a_New_Address_and_Updating_Employee
 {
