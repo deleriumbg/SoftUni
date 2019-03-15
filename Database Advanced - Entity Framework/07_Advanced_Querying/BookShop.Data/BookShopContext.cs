@@ -2,8 +2,8 @@
 {
     using Microsoft.EntityFrameworkCore;
 
-    using BookShop.Models;
-    using BookShop.Data.EntityConfiguration;
+    using Models;
+    using EntityConfiguration;
 
     public class BookShopContext : DbContext
     {

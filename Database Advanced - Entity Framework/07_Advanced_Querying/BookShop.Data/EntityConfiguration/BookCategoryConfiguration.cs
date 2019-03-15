@@ -3,7 +3,7 @@
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-    using BookShop.Models;
+    using Models;
 
     class BookCategoryConfiguration : IEntityTypeConfiguration<BookCategory>
     {

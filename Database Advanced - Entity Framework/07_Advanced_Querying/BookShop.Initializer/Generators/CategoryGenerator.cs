@@ -1,6 +1,6 @@
 ﻿namespace BookShop.Initializer.Generators
 {
-    using BookShop.Models;
+    using Models;
 
     internal class CategoryGenerator 
     {

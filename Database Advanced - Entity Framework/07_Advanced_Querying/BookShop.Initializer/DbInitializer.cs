@@ -2,8 +2,8 @@
 {
     using System;
 
-    using BookShop.Data;
-    using BookShop.Models;
+    using Data;
+    using Models;
     using Generators;
 
     public class DbInitializer

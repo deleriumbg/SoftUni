@@ -1,6 +1,8 @@
-﻿namespace BookShop.Initializer.Generators
+﻿using BookShop.Models.Enums;
+
+namespace BookShop.Initializer.Generators
 {
-    using BookShop.Models;
+    using Models;
     using System;
     using System.Globalization;
 

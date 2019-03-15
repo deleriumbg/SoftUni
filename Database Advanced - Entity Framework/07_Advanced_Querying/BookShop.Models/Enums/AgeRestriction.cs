@@ -1,4 +1,4 @@
-﻿namespace BookShop.Models
+﻿namespace BookShop.Models.Enums
 {
     public enum AgeRestriction
     {

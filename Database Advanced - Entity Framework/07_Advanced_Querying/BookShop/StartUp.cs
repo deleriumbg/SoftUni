@@ -2,13 +2,12 @@
 using System.Globalization;
 using System.Linq;
 using System.Text;
-using BookShop.Models;
+using BookShop.Models.Enums;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookShop
 {
-    using BookShop.Data;
-    using BookShop.Initializer;
+    using Data;
 
     public class StartUp
     {
@@ -55,7 +54,7 @@ namespace BookShop
             return string.Join(Environment.NewLine, books);
         }
 
-        public static string GetBooksNotRealeasedIn(BookShopContext context, int year)
+        public static string GetBooksNotReleasedIn(BookShopContext context, int year)
         {
             var books = context.Books
                 .Where(x => x.ReleaseDate.Value.Year != year)

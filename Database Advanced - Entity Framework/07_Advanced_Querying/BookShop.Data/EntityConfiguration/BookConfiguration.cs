@@ -2,7 +2,7 @@
 {
     using Microsoft.EntityFrameworkCore;
 
-    using BookShop.Models;
+    using Models;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
     class BookConfiguration : IEntityTypeConfiguration<Book>
