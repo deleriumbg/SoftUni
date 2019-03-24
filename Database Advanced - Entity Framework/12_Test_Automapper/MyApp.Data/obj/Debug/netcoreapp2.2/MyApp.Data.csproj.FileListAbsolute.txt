@@ -1,0 +1,14 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Data.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Data.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Data.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.2\MyApp.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.2\MyApp.Data.pdb

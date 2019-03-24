@@ -1,0 +1,42 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.deps.json
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.json
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.dev.json
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.dll
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.dll
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csprojAssemblyReference.cache
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfoInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfo.cs
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CopyComplete
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.dll
+D:\Downloads\SoftUni_Database_Advanced-master\07_TestAutomapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\bin\Debug\netcoreapp2.1\MyApp.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\12_Test_Automapper\MyApp.Data\obj\Debug\netcoreapp2.1\MyApp.Data.pdb
