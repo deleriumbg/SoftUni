@@ -1,0 +1,129 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.input.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.output.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorCoreGenerate.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\All.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\All.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Register.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\All.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\All.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\All.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\Create.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.deps.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.dev.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csprojAssemblyReference.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CoreCompileInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfoInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfo.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.input.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.output.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorCoreGenerate.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\All.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\All.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Register.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\All.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\All.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\All.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\Create.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CopyComplete
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.input.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.output.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorCoreGenerate.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\All.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\All.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Register.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\All.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\All.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\All.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\Create.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.pdb

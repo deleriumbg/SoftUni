@@ -1,0 +1,42 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Downloads\SoftUni_Database_Advanced-master\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\13_Auto_Mapping_Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
