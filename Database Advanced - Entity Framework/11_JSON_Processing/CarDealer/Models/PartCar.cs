@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CarDealer.Models
+﻿namespace CarDealer.Models
 {
     public class PartCar
     {
