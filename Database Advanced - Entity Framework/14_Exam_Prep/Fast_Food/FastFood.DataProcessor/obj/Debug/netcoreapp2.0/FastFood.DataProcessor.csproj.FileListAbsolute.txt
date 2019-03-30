@@ -1,0 +1,14 @@
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.DataProcessor.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Data.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Data.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.csproj.CopyComplete
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Fast_Food\FastFood.DataProcessor\obj\Debug\netcoreapp2.0\FastFood.DataProcessor.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\Pet_Clinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb
