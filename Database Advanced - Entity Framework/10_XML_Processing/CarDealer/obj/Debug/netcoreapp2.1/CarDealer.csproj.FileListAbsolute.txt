@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\SoftUni\Database Advanced - Entity Framework\XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

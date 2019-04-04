@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\SoftUni\Database Advanced - Entity Framework\XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

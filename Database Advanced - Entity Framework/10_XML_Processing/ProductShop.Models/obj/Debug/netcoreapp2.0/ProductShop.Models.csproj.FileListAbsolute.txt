@@ -1,9 +1,0 @@
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\bin\Debug\netcoreapp2.0\ProductShop.Models.deps.json
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.csprojAssemblyReference.cache
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.csproj.CoreCompileInputs.cache
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.AssemblyInfoInputs.cache
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.AssemblyInfo.cs
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.dll
-C:\SoftUni\Database Advanced - Entity Framework\10_XML_Processing\ProductShop.Models\obj\Debug\netcoreapp2.0\ProductShop.Models.pdb
