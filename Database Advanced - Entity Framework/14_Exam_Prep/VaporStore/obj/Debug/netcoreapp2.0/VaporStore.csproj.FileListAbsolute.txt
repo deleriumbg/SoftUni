@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
