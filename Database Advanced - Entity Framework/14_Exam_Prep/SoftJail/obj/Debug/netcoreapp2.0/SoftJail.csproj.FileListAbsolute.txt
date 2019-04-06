@@ -1,0 +1,11 @@
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\SoftUni\Database Advanced - Entity Framework\14_Exam_Prep\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
