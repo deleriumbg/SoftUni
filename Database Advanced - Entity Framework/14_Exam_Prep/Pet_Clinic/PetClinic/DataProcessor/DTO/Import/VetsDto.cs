@@ -25,6 +25,7 @@ namespace PetClinic.DataProcessor.DTO.Import
         [Range(22, 65)]
         public int Age { get; set; }
 
+        [Required]
         [RegularExpression("^0[0-9]{9}$|^\\+359[0-9]{9}$")]
         public string PhoneNumber { get; set; }
     }

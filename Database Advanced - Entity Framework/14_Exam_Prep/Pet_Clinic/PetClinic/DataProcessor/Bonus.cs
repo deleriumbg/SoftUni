@@ -1,4 +1,6 @@
-﻿namespace PetClinic.DataProcessor
+﻿using System.Linq;
+
+namespace PetClinic.DataProcessor
 {
     using System;
 
@@ -8,7 +10,20 @@
     {
         public static string UpdateVetProfession(PetClinicContext context, string phoneNumber, string newProfession)
         {
-            throw new NotImplementedException();
+            var vet = context.Vets.FirstOrDefault(x => x.PhoneNumber == phoneNumber);
+
+            if (vet == null)
+            {
+                return $"Vet with phone number {phoneNumber} not found!";
+            }
+
+            var oldProfession = vet.Profession;
+            vet.Profession = newProfession;
+
+            context.Vets.Update(vet);
+            context.SaveChanges();
+
+            return $"{vet.Name}'s profession updated from {oldProfession} to {newProfession}.";
         }
     }
 }

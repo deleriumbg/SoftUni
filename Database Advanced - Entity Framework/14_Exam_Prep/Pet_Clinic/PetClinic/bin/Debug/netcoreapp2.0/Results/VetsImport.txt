@@ -6,5 +6,5 @@ Record Werner Heisenberg successfully imported.
 Error: Invalid data.
 Error: Invalid data.
 Record Jennifer Evans successfully imported.
-Record Jennifer WithoutPhoneNumber successfully imported.
+Error: Invalid data.
 Error: Invalid data.
