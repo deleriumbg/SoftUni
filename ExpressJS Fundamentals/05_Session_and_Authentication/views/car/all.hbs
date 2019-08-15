@@ -1,0 +1,22 @@
+<form id="search-form" action="/search">
+    <!--Chosse criteria for searching-->
+    <input type="text" name="model">
+    <input class="submit-btn" type="submit" value="Search" />
+</form>
+<div id="container">
+    {{#each cars}}
+    <div class="car">
+        <h2>{{model}}</h2>
+        <img src="{{image}}" alt="car">
+        <h2 class="price">Price per day: {{pricePerDay}} &euro;</h2>
+
+        {{#if ../user}}
+        <a class="rent-btn" href="/car/rent/{{_id}}">Rent</a>
+        {{/if}}
+
+        {{#if ../isAdmin}}
+        <a class="edit-btn" href="/car/edit/{{_id}}">Edit</a>
+        {{/if}}
+    </div>
+    {{/each}}
+</div>

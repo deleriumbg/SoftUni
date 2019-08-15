@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th>Price Per Day</th>
+            <th>Rent Expires</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each cars}}
+        <tr>
+            <td>{{this.model}}</td>
+            <td>{{this.pricePerDay}} &euro;</td>
+            <td>{{this.expiresOn}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>

@@ -1,0 +1,72 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Car Renting System</title>
+    <link href="/css/style.css" type="text/css" rel="stylesheet">
+    <link href="favicon.ico" type="image/x-icon">
+</head>
+
+<html>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li class="align-left first">
+                    <a href="/">Home</a>
+                </li>
+                <li class="align-left">
+                    <a href="/car/all">View Avaliable Cars</a>
+                </li>
+                {{#if user}}
+                <li class="align-left">
+                    <a href="/user/rents">My Rented Cars</a>
+                </li>
+                {{/if}} {{#if isAdmin}}
+                <li class="align-left">
+                    <a href="/car/add">Add Car</a>
+                </li>
+                {{/if}} {{#if user}}
+                <li class="align-right">
+                    <form id="logout-form" action="/user/logout" method="POST">
+                        <a href="javascript:document.getElementById('logout-form').submit()">Logout</a>
+                    </form>
+                </li>
+                <li class="align-right">
+                    <span>Hello, {{user.username}}</span>
+                </li>
+                {{else}}
+                <li class="align-right">
+                    <a href="/user/register">Register</a>
+                </li>
+                <li class="align-right">
+                    <a href="/user/login">Login</a>
+                </li>
+                {{/if}}
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {{#if success}}
+        <div id="successBox">
+            <h2>{{success}}</h2>
+        </div>
+        {{/if}}
+
+        {{#if error}}
+        <div id="errorBox">
+            <h2>{{error}}</h2>
+        </div>
+        {{/if}} {{{body}}}
+    </main>
+
+    <footer>
+        <p>&copy; 2018 Rent A Car Service Ltd. All Rights Reserved</p>
+    </footer>
+</body>
+
+</html>

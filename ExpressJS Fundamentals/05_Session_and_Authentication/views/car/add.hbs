@@ -1,0 +1,9 @@
+<form class="car-form" action="/car/add" method="POST">
+    <label for="carModel">Model:</label>
+    <input class="input-field" type="text" id="carModel" name="model" value="{{model}}" />
+    <label for="image">Image:</label>
+    <input class="input-field" type="url" name="image" id="image" value="{{image}}" />
+    <label for="pricePerDay">Price per Day:</label>
+    <input class="input-field" type="number" name="pricePerDay" id="pricePerDay" value="{{pricePerDay}}" />
+    <input class="submit-btn" type="submit" value="Add Car" />
+</form>
