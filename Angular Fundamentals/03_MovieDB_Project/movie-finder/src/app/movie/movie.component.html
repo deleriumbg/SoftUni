@@ -1,0 +1,16 @@
+<div class="container">
+    <div class="card mb-3">
+        <img style="height: 350px; width: 100%; display: block;"
+            [src]="imagePath"
+            alt="Card image">
+        <div class="card-body">
+            <h6 class="card-text">{{movie.title}}</h6>
+            <p>{{movie.release_date}}</p>
+        </div>
+        <div class="card-footer text-muted">
+            <button class="btn btn-primary" [id]="movie.id" (click)="viewDetails()">
+                View Details
+            </button>
+        </div>
+    </div>
+</div>

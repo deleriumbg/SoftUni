@@ -1,0 +1,17 @@
+<h1>Popular Movies</h1>
+<div class="row">
+    <div class="col-lg-2" *ngFor="let movie of popularMovies">
+        <app-movie [movie]="movie"></app-movie>
+    </div>
+</div>
+
+<h1>In Theater Movies</h1>
+<div class="row">
+    <div class="col-lg-2" *ngFor="let movie of inTheaterMovies">
+        <app-movie [movie]="movie" (viewDetailsButtonEmitter)="fromChild($event)"></app-movie>
+    </div>
+
+    <div class="row" *ngIf="message">
+        {{message}}
+    </div>
+</div>
