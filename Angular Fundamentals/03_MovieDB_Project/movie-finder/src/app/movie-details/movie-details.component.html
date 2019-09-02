@@ -1,0 +1,14 @@
+<ng-template [ngIf]="movie">
+    <div class="container w-50 mt-5">
+        <h3 class="panel-title">{{movie.title}}</h3>
+        <img class="thumbnail" src="http://image.tmdb.org/t/p/w500/{{movie.poster_path}}">
+        <ul class="list-group" style="width: 500px">
+            <li class="list-group-item">Genres:
+                <span> {{movieGenres}} </span>
+            </li>
+            <li class="list-group-item">Release Date: {{movie.release_date}}</li>
+        </ul>
+        <a href="{{movie.homepage}}" target="_blank" class="btn btn-default">
+            Visit Movie Website</a>
+    </div>
+</ng-template>

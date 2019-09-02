@@ -8,9 +8,9 @@
             <p>{{movie.release_date}}</p>
         </div>
         <div class="card-footer text-muted">
-            <button class="btn btn-primary" [id]="movie.id" (click)="viewDetails()">
+            <a class="btn btn-primary" [routerLink]="[ '/movies', movie.id ]">
                 View Details
-            </button>
+            </a>
         </div>
     </div>
 </div>

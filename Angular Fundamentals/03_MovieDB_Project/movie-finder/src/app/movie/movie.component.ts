@@ -1,4 +1,4 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import Movie from 'src/models/Movie';
 
 @Component({
@@ -13,17 +13,9 @@ export class MovieComponent implements OnInit {
   movie: Movie;
   imagePath: string;
 
-  @Output()
-  viewDetailsButtonEmitter: EventEmitter<number> = new EventEmitter();
-
   constructor() { }
 
   ngOnInit() {
     this.imagePath = 'https://image.tmdb.org/t/p/w500' + this.movie.poster_path;
-  }
-
-  viewDetails() {
-    console.log('button with id ' + this.movie.id + ' clicked');
-    this.viewDetailsButtonEmitter.emit(this.movie.id)
   }
 }
