@@ -1,10 +1,11 @@
 <div class="jumbotron">
 	<div class="container">
-	  <h1>Find a movie</h1>
-	  <p>Search for a movie using the form below:</p>
-	  <form>
-		<input class="form-control input-lg" type="text" placeholder="Search" aria-label="Search">
-		<button class="btn btn-default mt-2" type="submit">Search</button>
-	  </form>
+		<h1>Find a movie</h1>
+		<p>Search for a movie using the form below:</p>
+		<form #f="ngForm" (ngSubmit)="search()">
+			<input type="text" class="form-control" name="search" required ngModel>
+			<button [disabled]="f.invalid" type="sumbit" class="btn btn-primary">Search</button>
+		</form>
 	</div>
- </div>
+</div>
+

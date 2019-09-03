@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { MovieService } from '../services/movie.service';
+import { MovieService } from '../../services/movie.service';
 import { ActivatedRoute, Params } from '@angular/router';
 import MovieDetails from 'src/models/Movie-Details';
 
@@ -19,7 +19,13 @@ export class MovieDetailsComponent implements OnInit {
     ) { }
 
   ngOnInit() {
-    this.id = this.route.snapshot.params['id'];
+    this.movie = this.route.snapshot.data['singleMovie'];
+    this.movieGenres = this.movie.genres
+      .map(el => el['name'])
+      .join(', ');
+
+    // implementation without resolver
+    // this.id = this.route.snapshot.params['id'];
 
     // another approach used if the param (in this case: id) will change dynamically
     // this.route.params
@@ -27,13 +33,13 @@ export class MovieDetailsComponent implements OnInit {
     //     this.id = params['id'];
     //   });
 
-    this.movieService.getMovieById(this.id)
-      .subscribe((data) => {
-        this.movie = data;
-        this.movieGenres = this.movie.genres
-          .map(el => el['name'])
-          .join(', ')
-      });
+    // implementation without resolver
+    // this.movieService.getMovieById(this.id)
+    //   .subscribe((data) => {
+    //     this.movie = data;
+    //     this.movieGenres = this.movie.genres
+    //       .map(el => el['name'])
+    //       .join(', ')
+    //   });
   }
-
 }
