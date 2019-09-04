@@ -1,20 +1,23 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { RegisterFormTemplateComponent } from './register-form-template/register-form-template.component';
 import { ValidateImageUrlDirective } from './validate-image-url.directive';
+import { RegisterFormReactiveComponent } from './register-form-reactive/register-form-reactive.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     RegisterFormTemplateComponent,
-    ValidateImageUrlDirective
+    ValidateImageUrlDirective,
+    RegisterFormReactiveComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
