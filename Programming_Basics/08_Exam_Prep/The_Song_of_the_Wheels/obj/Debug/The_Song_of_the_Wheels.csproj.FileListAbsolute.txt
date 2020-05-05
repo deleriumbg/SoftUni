@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\bin\Debug\The_Song_of_the_Wheels.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\bin\Debug\The_Song_of_the_Wheels.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\bin\Debug\The_Song_of_the_Wheels.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\obj\Debug\The_Song_of_the_Wheels.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\obj\Debug\The_Song_of_the_Wheels.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\The_Song_of_the_Wheels\obj\Debug\The_Song_of_the_Wheels.pdb

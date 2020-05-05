@@ -1,6 +1,0 @@
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.exe.config
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.exe
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.pdb
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.exe
-C:\Projects\03_Simple_Conditions\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.pdb

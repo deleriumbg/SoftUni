@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\bin\Debug\ASCII_Combinations.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\bin\Debug\ASCII_Combinations.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\bin\Debug\ASCII_Combinations.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\obj\Debug\ASCII_Combinations.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\obj\Debug\ASCII_Combinations.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\obj\Debug\ASCII_Combinations.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\ASCII_Combinations\obj\Debug\ASCII_Combinations.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\bin\Debug\Minedraft.exe.config
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\bin\Debug\Minedraft.exe
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\bin\Debug\Minedraft.pdb
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\obj\Debug\Minedraft.exe
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\obj\Debug\Minedraft.pdb
-C:\SoftUni\C#_OOP_Advanced\07_Exam_Prep\Minedraft\obj\Debug\Minedraft.csprojAssemblyReference.cache

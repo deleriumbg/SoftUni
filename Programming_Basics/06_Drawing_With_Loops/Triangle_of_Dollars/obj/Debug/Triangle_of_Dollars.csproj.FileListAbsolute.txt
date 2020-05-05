@@ -1,6 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\bin\Debug\Triangle_of_Dollars.exe.config
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\bin\Debug\Triangle_of_Dollars.exe
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\bin\Debug\Triangle_of_Dollars.pdb
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\obj\Debug\Triangle_of_Dollars.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\obj\Debug\Triangle_of_Dollars.exe
-C:\Projects\06_Drawing_With_Loops\Triangle_of_Dollars\obj\Debug\Triangle_of_Dollars.pdb

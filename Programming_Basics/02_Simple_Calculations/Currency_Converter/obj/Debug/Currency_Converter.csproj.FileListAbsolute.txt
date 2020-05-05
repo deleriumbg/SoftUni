@@ -1,7 +1,0 @@
-C:\Projects\02_Simple_Calculations\Currency_Converter\bin\Debug\Currency_Converter.exe.config
-C:\Projects\02_Simple_Calculations\Currency_Converter\bin\Debug\Currency_Converter.exe
-C:\Projects\02_Simple_Calculations\Currency_Converter\bin\Debug\Currency_Converter.pdb
-C:\Projects\02_Simple_Calculations\Currency_Converter\obj\Debug\Currency_Converter.csprojResolveAssemblyReference.cache
-C:\Projects\02_Simple_Calculations\Currency_Converter\obj\Debug\Currency_Converter.csproj.CoreCompileInputs.cache
-C:\Projects\02_Simple_Calculations\Currency_Converter\obj\Debug\Currency_Converter.exe
-C:\Projects\02_Simple_Calculations\Currency_Converter\obj\Debug\Currency_Converter.pdb

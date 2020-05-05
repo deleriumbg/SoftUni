@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\bin\Debug\Travel.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\bin\Debug\Travel.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\bin\Debug\Travel.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\obj\Debug\Travel.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Travel\obj\Debug\Travel.pdb

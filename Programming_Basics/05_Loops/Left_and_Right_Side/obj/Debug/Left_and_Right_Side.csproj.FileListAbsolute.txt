@@ -1,6 +1,0 @@
-C:\Projects\05_Loops\Left_and_Right_Side\bin\Debug\Left_and_Right_Side.exe.config
-C:\Projects\05_Loops\Left_and_Right_Side\bin\Debug\Left_and_Right_Side.exe
-C:\Projects\05_Loops\Left_and_Right_Side\bin\Debug\Left_and_Right_Side.pdb
-C:\Projects\05_Loops\Left_and_Right_Side\obj\Debug\Left_and_Right_Side.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Left_and_Right_Side\obj\Debug\Left_and_Right_Side.exe
-C:\Projects\05_Loops\Left_and_Right_Side\obj\Debug\Left_and_Right_Side.pdb

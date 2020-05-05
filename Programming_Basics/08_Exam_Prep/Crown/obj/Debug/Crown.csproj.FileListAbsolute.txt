@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\bin\Debug\Crown.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\bin\Debug\Crown.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\bin\Debug\Crown.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\obj\Debug\Crown.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\obj\Debug\Crown.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Crown\obj\Debug\Crown.pdb

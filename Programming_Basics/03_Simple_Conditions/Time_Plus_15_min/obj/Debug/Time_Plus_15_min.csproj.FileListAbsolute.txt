@@ -1,7 +1,0 @@
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\bin\Debug\Time_Plus_15_min.exe.config
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\bin\Debug\Time_Plus_15_min.exe
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\bin\Debug\Time_Plus_15_min.pdb
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\obj\Debug\Time_Plus_15_min.csprojResolveAssemblyReference.cache
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\obj\Debug\Time_Plus_15_min.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\obj\Debug\Time_Plus_15_min.exe
-C:\Projects\03_Simple_Conditions\Time_Plus_15_min\obj\Debug\Time_Plus_15_min.pdb

@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\bin\Debug\Battles.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\bin\Debug\Battles.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\bin\Debug\Battles.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\obj\Debug\Battles.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\obj\Debug\Battles.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\obj\Debug\Battles.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Battles\obj\Debug\Battles.pdb

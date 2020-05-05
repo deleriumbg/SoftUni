@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\bin\Debug\Number_Generator.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\bin\Debug\Number_Generator.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\bin\Debug\Number_Generator.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\obj\Debug\Number_Generator.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\obj\Debug\Number_Generator.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Number_Generator\obj\Debug\Number_Generator.pdb

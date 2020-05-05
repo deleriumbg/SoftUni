@@ -1,7 +1,0 @@
-C:\Projects\04_Complex_Conditions\Volleyball\bin\Debug\Volleyball.exe.config
-C:\Projects\04_Complex_Conditions\Volleyball\bin\Debug\Volleyball.exe
-C:\Projects\04_Complex_Conditions\Volleyball\bin\Debug\Volleyball.pdb
-C:\Projects\04_Complex_Conditions\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache
-C:\Projects\04_Complex_Conditions\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
-C:\Projects\04_Complex_Conditions\Volleyball\obj\Debug\Volleyball.exe
-C:\Projects\04_Complex_Conditions\Volleyball\obj\Debug\Volleyball.pdb

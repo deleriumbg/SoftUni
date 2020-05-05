@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\bin\Debug\Choreography.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\bin\Debug\Choreography.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\bin\Debug\Choreography.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\obj\Debug\Choreography.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\obj\Debug\Choreography.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Choreography\obj\Debug\Choreography.pdb

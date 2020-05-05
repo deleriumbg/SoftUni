@@ -1,7 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\House\obj\Debug\House.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\House\bin\Debug\House.exe.config
-C:\Projects\06_Drawing_With_Loops\House\bin\Debug\House.exe
-C:\Projects\06_Drawing_With_Loops\House\bin\Debug\House.pdb
-C:\Projects\06_Drawing_With_Loops\House\obj\Debug\House.exe
-C:\Projects\06_Drawing_With_Loops\House\obj\Debug\House.pdb
-C:\Projects\06_Drawing_With_Loops\House\obj\Debug\House.csprojResolveAssemblyReference.cache

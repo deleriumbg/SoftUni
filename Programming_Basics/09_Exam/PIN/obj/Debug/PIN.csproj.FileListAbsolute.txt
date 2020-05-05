@@ -1,6 +1,0 @@
-C:\Users\deler\source\repos\09_Exam\PIN\bin\Debug\PIN.exe.config
-C:\Users\deler\source\repos\09_Exam\PIN\bin\Debug\PIN.exe
-C:\Users\deler\source\repos\09_Exam\PIN\bin\Debug\PIN.pdb
-C:\Users\deler\source\repos\09_Exam\PIN\obj\Debug\PIN.csproj.CoreCompileInputs.cache
-C:\Users\deler\source\repos\09_Exam\PIN\obj\Debug\PIN.exe
-C:\Users\deler\source\repos\09_Exam\PIN\obj\Debug\PIN.pdb

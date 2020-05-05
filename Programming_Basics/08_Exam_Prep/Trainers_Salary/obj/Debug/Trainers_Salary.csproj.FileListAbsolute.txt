@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\bin\Debug\Trainers_Salary.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\bin\Debug\Trainers_Salary.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\bin\Debug\Trainers_Salary.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\obj\Debug\Trainers_Salary.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\obj\Debug\Trainers_Salary.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\obj\Debug\Trainers_Salary.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Trainers_Salary\obj\Debug\Trainers_Salary.pdb

@@ -1,7 +1,0 @@
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.exe.config
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.exe
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.pdb
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.csprojResolveAssemblyReference.cache
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.csproj.CoreCompileInputs.cache
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.exe
-C:\Projects\07_Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.pdb

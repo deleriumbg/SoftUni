@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\bin\Debug\Lutenitsa.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\bin\Debug\Lutenitsa.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\bin\Debug\Lutenitsa.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\obj\Debug\Lutenitsa.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\obj\Debug\Lutenitsa.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\obj\Debug\Lutenitsa.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Lutenitsa\obj\Debug\Lutenitsa.pdb

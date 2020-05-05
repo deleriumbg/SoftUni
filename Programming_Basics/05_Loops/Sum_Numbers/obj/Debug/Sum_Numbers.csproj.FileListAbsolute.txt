@@ -1,7 +1,0 @@
-C:\Projects\05_Loops\Sum_Numbers\bin\Debug\Sum_Numbers.exe.config
-C:\Projects\05_Loops\Sum_Numbers\bin\Debug\Sum_Numbers.exe
-C:\Projects\05_Loops\Sum_Numbers\bin\Debug\Sum_Numbers.pdb
-C:\Projects\05_Loops\Sum_Numbers\obj\Debug\Sum_Numbers.csprojResolveAssemblyReference.cache
-C:\Projects\05_Loops\Sum_Numbers\obj\Debug\Sum_Numbers.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Sum_Numbers\obj\Debug\Sum_Numbers.exe
-C:\Projects\05_Loops\Sum_Numbers\obj\Debug\Sum_Numbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\deler\source\repos\09_Exam\Spaceship\bin\Debug\Spaceship.exe.config
-C:\Users\deler\source\repos\09_Exam\Spaceship\bin\Debug\Spaceship.exe
-C:\Users\deler\source\repos\09_Exam\Spaceship\bin\Debug\Spaceship.pdb
-C:\Users\deler\source\repos\09_Exam\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
-C:\Users\deler\source\repos\09_Exam\Spaceship\obj\Debug\Spaceship.exe
-C:\Users\deler\source\repos\09_Exam\Spaceship\obj\Debug\Spaceship.pdb

@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\bin\Debug\Workout.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\bin\Debug\Workout.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\bin\Debug\Workout.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\obj\Debug\Workout.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\obj\Debug\Workout.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\obj\Debug\Workout.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Workout\obj\Debug\Workout.csprojResolveAssemblyReference.cache

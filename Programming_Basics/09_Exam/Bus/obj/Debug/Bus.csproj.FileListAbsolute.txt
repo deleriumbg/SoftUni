@@ -1,6 +1,0 @@
-C:\Users\deler\source\repos\09_Exam\Bus\bin\Debug\Bus.exe.config
-C:\Users\deler\source\repos\09_Exam\Bus\bin\Debug\Bus.exe
-C:\Users\deler\source\repos\09_Exam\Bus\bin\Debug\Bus.pdb
-C:\Users\deler\source\repos\09_Exam\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
-C:\Users\deler\source\repos\09_Exam\Bus\obj\Debug\Bus.exe
-C:\Users\deler\source\repos\09_Exam\Bus\obj\Debug\Bus.pdb

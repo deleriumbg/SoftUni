@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\bin\Debug\Arrow.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\bin\Debug\Arrow.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\bin\Debug\Arrow.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\obj\Debug\Arrow.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\obj\Debug\Arrow.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Arrow\obj\Debug\Arrow.pdb

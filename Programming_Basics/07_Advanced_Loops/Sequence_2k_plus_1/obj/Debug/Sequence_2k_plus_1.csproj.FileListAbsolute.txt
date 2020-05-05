@@ -1,6 +1,0 @@
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\bin\Debug\Sequence_2k_plus_1.exe.config
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\bin\Debug\Sequence_2k_plus_1.exe
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\bin\Debug\Sequence_2k_plus_1.pdb
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\obj\Debug\Sequence_2k_plus_1.csproj.CoreCompileInputs.cache
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\obj\Debug\Sequence_2k_plus_1.exe
-C:\Projects\07_Advanced_Loops\Sequence_2k_plus_1\obj\Debug\Sequence_2k_plus_1.pdb

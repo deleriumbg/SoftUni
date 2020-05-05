@@ -1,6 +1,0 @@
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\bin\Debug\Celsius_to_Fahrenheit.exe.config
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\bin\Debug\Celsius_to_Fahrenheit.exe
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\bin\Debug\Celsius_to_Fahrenheit.pdb
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\obj\Debug\Celsius_to_Fahrenheit.csproj.CoreCompileInputs.cache
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\obj\Debug\Celsius_to_Fahrenheit.exe
-C:\Projects\02_Simple_Calculations\Celsius_to_Fahrenheit\obj\Debug\Celsius_to_Fahrenheit.pdb

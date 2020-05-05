@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\bin\Debug\Fox.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\bin\Debug\Fox.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\bin\Debug\Fox.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\obj\Debug\Fox.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\obj\Debug\Fox.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Fox\obj\Debug\Fox.pdb

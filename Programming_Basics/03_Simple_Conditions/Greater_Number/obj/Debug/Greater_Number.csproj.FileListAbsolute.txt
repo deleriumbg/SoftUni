@@ -1,6 +1,0 @@
-C:\Projects\03_Simple_Conditions\Greater_Number\bin\Debug\Greater_Number.exe.config
-C:\Projects\03_Simple_Conditions\Greater_Number\bin\Debug\Greater_Number.exe
-C:\Projects\03_Simple_Conditions\Greater_Number\bin\Debug\Greater_Number.pdb
-C:\Projects\03_Simple_Conditions\Greater_Number\obj\Debug\Greater_Number.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Greater_Number\obj\Debug\Greater_Number.exe
-C:\Projects\03_Simple_Conditions\Greater_Number\obj\Debug\Greater_Number.pdb

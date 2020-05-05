@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\bin\Debug\Cake.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\bin\Debug\Cake.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\bin\Debug\Cake.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\obj\Debug\Cake.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\obj\Debug\Cake.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Cake\obj\Debug\Cake.pdb

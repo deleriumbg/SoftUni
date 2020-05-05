@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\bin\Debug\Energy_Loss.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\bin\Debug\Energy_Loss.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\bin\Debug\Energy_Loss.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\obj\Debug\Energy_Loss.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\obj\Debug\Energy_Loss.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\obj\Debug\Energy_Loss.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Energy_Loss\obj\Debug\Energy_Loss.pdb

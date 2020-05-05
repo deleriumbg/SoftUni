@@ -1,7 +1,0 @@
-C:\Projects\05_Loops\Max_Number\bin\Debug\Max_Number.exe.config
-C:\Projects\05_Loops\Max_Number\bin\Debug\Max_Number.exe
-C:\Projects\05_Loops\Max_Number\bin\Debug\Max_Number.pdb
-C:\Projects\05_Loops\Max_Number\obj\Debug\Max_Number.csprojResolveAssemblyReference.cache
-C:\Projects\05_Loops\Max_Number\obj\Debug\Max_Number.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Max_Number\obj\Debug\Max_Number.exe
-C:\Projects\05_Loops\Max_Number\obj\Debug\Max_Number.pdb

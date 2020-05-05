@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\bin\Debug\Arena_Tournament.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\bin\Debug\Arena_Tournament.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\bin\Debug\Arena_Tournament.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\obj\Debug\Arena_Tournament.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\obj\Debug\Arena_Tournament.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\obj\Debug\Arena_Tournament.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Arena_Tournament\obj\Debug\Arena_Tournament.pdb

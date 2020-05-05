@@ -1,7 +1,0 @@
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\bin\Debug\Rad_to_Deg.exe.config
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\bin\Debug\Rad_to_Deg.exe
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\bin\Debug\Rad_to_Deg.pdb
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\obj\Debug\Rad_to_Deg.csprojResolveAssemblyReference.cache
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\obj\Debug\Rad_to_Deg.csproj.CoreCompileInputs.cache
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\obj\Debug\Rad_to_Deg.exe
-C:\Projects\02_Simple_Calculations\Rad_to_Deg\obj\Debug\Rad_to_Deg.pdb

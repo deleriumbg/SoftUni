@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\bin\Debug\Birthday.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\bin\Debug\Birthday.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\bin\Debug\Birthday.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\obj\Debug\Birthday.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Birthday\obj\Debug\Birthday.pdb

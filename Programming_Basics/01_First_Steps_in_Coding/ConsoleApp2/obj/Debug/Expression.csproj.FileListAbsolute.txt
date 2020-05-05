@@ -1,6 +1,0 @@
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\obj\Debug\Expression.csproj.CoreCompileInputs.cache
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-C:\Projects\01_First_Steps_in_Coding\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

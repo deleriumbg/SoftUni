@@ -1,7 +1,0 @@
-C:\Projects\07_Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.exe.config
-C:\Projects\07_Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.exe
-C:\Projects\07_Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.pdb
-C:\Projects\07_Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.csprojResolveAssemblyReference.cache
-C:\Projects\07_Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.csproj.CoreCompileInputs.cache
-C:\Projects\07_Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.exe
-C:\Projects\07_Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.pdb

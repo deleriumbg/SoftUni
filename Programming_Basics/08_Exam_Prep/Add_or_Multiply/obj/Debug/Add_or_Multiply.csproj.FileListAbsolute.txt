@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\bin\Debug\Add_or_Multiply.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\bin\Debug\Add_or_Multiply.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\bin\Debug\Add_or_Multiply.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\obj\Debug\Add_or_Multiply.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\obj\Debug\Add_or_Multiply.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\obj\Debug\Add_or_Multiply.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Add_or_Multiply\obj\Debug\Add_or_Multiply.pdb

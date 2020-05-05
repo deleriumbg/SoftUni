@@ -1,7 +1,0 @@
-C:\Projects\05_Loops\Half_Sum_Element\bin\Debug\Half_Sum_Element.exe.config
-C:\Projects\05_Loops\Half_Sum_Element\bin\Debug\Half_Sum_Element.exe
-C:\Projects\05_Loops\Half_Sum_Element\bin\Debug\Half_Sum_Element.pdb
-C:\Projects\05_Loops\Half_Sum_Element\obj\Debug\Half_Sum_Element.csprojResolveAssemblyReference.cache
-C:\Projects\05_Loops\Half_Sum_Element\obj\Debug\Half_Sum_Element.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Half_Sum_Element\obj\Debug\Half_Sum_Element.exe
-C:\Projects\05_Loops\Half_Sum_Element\obj\Debug\Half_Sum_Element.pdb

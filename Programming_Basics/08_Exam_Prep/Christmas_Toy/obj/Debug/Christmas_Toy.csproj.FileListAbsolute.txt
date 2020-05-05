@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\bin\Debug\Christmas_Toy.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\bin\Debug\Christmas_Toy.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\bin\Debug\Christmas_Toy.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\obj\Debug\Christmas_Toy.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\obj\Debug\Christmas_Toy.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Toy\obj\Debug\Christmas_Toy.pdb

@@ -1,6 +1,0 @@
-C:\Projects\05_Loops\Latin_Letters\obj\Debug\Latin_Letters.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Latin_Letters\bin\Debug\Latin_Letters.exe.config
-C:\Projects\05_Loops\Latin_Letters\bin\Debug\Latin_Letters.exe
-C:\Projects\05_Loops\Latin_Letters\bin\Debug\Latin_Letters.pdb
-C:\Projects\05_Loops\Latin_Letters\obj\Debug\Latin_Letters.exe
-C:\Projects\05_Loops\Latin_Letters\obj\Debug\Latin_Letters.pdb

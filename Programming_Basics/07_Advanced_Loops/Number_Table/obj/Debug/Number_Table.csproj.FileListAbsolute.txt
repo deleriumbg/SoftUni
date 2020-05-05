@@ -1,6 +1,0 @@
-C:\Projects\07_Advanced_Loops\Number_Table\bin\Debug\Number_Table.exe.config
-C:\Projects\07_Advanced_Loops\Number_Table\bin\Debug\Number_Table.exe
-C:\Projects\07_Advanced_Loops\Number_Table\bin\Debug\Number_Table.pdb
-C:\Projects\07_Advanced_Loops\Number_Table\obj\Debug\Number_Table.csproj.CoreCompileInputs.cache
-C:\Projects\07_Advanced_Loops\Number_Table\obj\Debug\Number_Table.exe
-C:\Projects\07_Advanced_Loops\Number_Table\obj\Debug\Number_Table.pdb

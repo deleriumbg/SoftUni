@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\bin\Debug\Juice_Diet.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\bin\Debug\Juice_Diet.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\bin\Debug\Juice_Diet.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\obj\Debug\Juice_Diet.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\obj\Debug\Juice_Diet.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\obj\Debug\Juice_Diet.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Juice_Diet\obj\Debug\Juice_Diet.pdb

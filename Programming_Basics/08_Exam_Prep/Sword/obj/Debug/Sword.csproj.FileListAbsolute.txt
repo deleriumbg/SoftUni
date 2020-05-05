@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\bin\Debug\Sword.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\bin\Debug\Sword.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\bin\Debug\Sword.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\obj\Debug\Sword.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\obj\Debug\Sword.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\obj\Debug\Sword.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Sword\obj\Debug\Sword.pdb

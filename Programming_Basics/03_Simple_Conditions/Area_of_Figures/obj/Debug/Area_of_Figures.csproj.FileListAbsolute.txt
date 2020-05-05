@@ -1,7 +1,0 @@
-C:\Projects\03_Simple_Conditions\Area_of_Figures\bin\Debug\Area_of_Figures.exe.config
-C:\Projects\03_Simple_Conditions\Area_of_Figures\bin\Debug\Area_of_Figures.exe
-C:\Projects\03_Simple_Conditions\Area_of_Figures\bin\Debug\Area_of_Figures.pdb
-C:\Projects\03_Simple_Conditions\Area_of_Figures\obj\Debug\Area_of_Figures.csprojResolveAssemblyReference.cache
-C:\Projects\03_Simple_Conditions\Area_of_Figures\obj\Debug\Area_of_Figures.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Area_of_Figures\obj\Debug\Area_of_Figures.exe
-C:\Projects\03_Simple_Conditions\Area_of_Figures\obj\Debug\Area_of_Figures.pdb

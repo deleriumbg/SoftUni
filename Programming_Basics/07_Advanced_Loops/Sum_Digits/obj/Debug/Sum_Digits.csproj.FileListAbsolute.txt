@@ -1,7 +1,0 @@
-C:\Projects\07_Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.exe.config
-C:\Projects\07_Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.exe
-C:\Projects\07_Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.pdb
-C:\Projects\07_Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.csprojResolveAssemblyReference.cache
-C:\Projects\07_Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.csproj.CoreCompileInputs.cache
-C:\Projects\07_Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.exe
-C:\Projects\07_Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.pdb

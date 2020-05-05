@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\bin\Debug\Control_Number.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\bin\Debug\Control_Number.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\bin\Debug\Control_Number.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\obj\Debug\Control_Number.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\obj\Debug\Control_Number.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\obj\Debug\Control_Number.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Control_Number\obj\Debug\Control_Number.pdb

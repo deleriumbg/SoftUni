@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\bin\Debug\Two_Numbers_Sum.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\bin\Debug\Two_Numbers_Sum.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\bin\Debug\Two_Numbers_Sum.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\obj\Debug\Two_Numbers_Sum.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\obj\Debug\Two_Numbers_Sum.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\obj\Debug\Two_Numbers_Sum.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Two_Numbers_Sum\obj\Debug\Two_Numbers_Sum.pdb

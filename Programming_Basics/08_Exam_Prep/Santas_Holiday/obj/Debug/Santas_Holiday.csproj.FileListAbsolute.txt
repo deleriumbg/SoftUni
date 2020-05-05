@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\bin\Debug\Santas_Holiday.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\bin\Debug\Santas_Holiday.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\bin\Debug\Santas_Holiday.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\obj\Debug\Santas_Holiday.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\obj\Debug\Santas_Holiday.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\obj\Debug\Santas_Holiday.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Santas_Holiday\obj\Debug\Santas_Holiday.pdb

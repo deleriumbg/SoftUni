@@ -1,6 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\bin\Debug\Rectangle_10x10_Stars.exe.config
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\bin\Debug\Rectangle_10x10_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\bin\Debug\Rectangle_10x10_Stars.pdb
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\obj\Debug\Rectangle_10x10_Stars.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\obj\Debug\Rectangle_10x10_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Rectangle_10x10_Stars\obj\Debug\Rectangle_10x10_Stars.pdb

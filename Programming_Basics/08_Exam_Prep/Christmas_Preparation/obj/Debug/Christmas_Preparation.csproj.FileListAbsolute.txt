@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\bin\Debug\Christmas_Preparation.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\bin\Debug\Christmas_Preparation.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\bin\Debug\Christmas_Preparation.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\obj\Debug\Christmas_Preparation.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\obj\Debug\Christmas_Preparation.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\obj\Debug\Christmas_Preparation.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Christmas_Preparation\obj\Debug\Christmas_Preparation.pdb

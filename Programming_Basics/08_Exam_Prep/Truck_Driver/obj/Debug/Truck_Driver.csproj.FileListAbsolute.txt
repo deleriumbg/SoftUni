@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\bin\Debug\Truck_Driver.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\bin\Debug\Truck_Driver.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\bin\Debug\Truck_Driver.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\obj\Debug\Truck_Driver.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\obj\Debug\Truck_Driver.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Truck_Driver\obj\Debug\Truck_Driver.pdb

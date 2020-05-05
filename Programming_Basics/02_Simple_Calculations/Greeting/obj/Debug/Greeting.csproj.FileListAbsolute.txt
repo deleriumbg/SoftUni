@@ -1,6 +1,0 @@
-C:\Projects\02_Simple_Calculations\Greeting\bin\Debug\Greeting.exe.config
-C:\Projects\02_Simple_Calculations\Greeting\bin\Debug\Greeting.exe
-C:\Projects\02_Simple_Calculations\Greeting\bin\Debug\Greeting.pdb
-C:\Projects\02_Simple_Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
-C:\Projects\02_Simple_Calculations\Greeting\obj\Debug\Greeting.exe
-C:\Projects\02_Simple_Calculations\Greeting\obj\Debug\Greeting.pdb

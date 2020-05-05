@@ -1,7 +1,0 @@
-C:\Projects\03_Simple_Conditions\Seconds_Sum\bin\Debug\Seconds_Sum.exe.config
-C:\Projects\03_Simple_Conditions\Seconds_Sum\bin\Debug\Seconds_Sum.exe
-C:\Projects\03_Simple_Conditions\Seconds_Sum\bin\Debug\Seconds_Sum.pdb
-C:\Projects\03_Simple_Conditions\Seconds_Sum\obj\Debug\Seconds_Sum.csprojResolveAssemblyReference.cache
-C:\Projects\03_Simple_Conditions\Seconds_Sum\obj\Debug\Seconds_Sum.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Seconds_Sum\obj\Debug\Seconds_Sum.exe
-C:\Projects\03_Simple_Conditions\Seconds_Sum\obj\Debug\Seconds_Sum.pdb

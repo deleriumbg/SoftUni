@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\bin\Debug\Three_Brothers.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\bin\Debug\Three_Brothers.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\bin\Debug\Three_Brothers.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\obj\Debug\Three_Brothers.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\obj\Debug\Three_Brothers.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Three_Brothers\obj\Debug\Three_Brothers.pdb

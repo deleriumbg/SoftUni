@@ -1,7 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\bin\Debug\Christmas_Tree.exe.config
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\bin\Debug\Christmas_Tree.exe
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\bin\Debug\Christmas_Tree.pdb
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\obj\Debug\Christmas_Tree.exe
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\obj\Debug\Christmas_Tree.pdb
-C:\Projects\06_Drawing_With_Loops\Christmas_Tree\obj\Debug\Christmas_Tree.csprojResolveAssemblyReference.cache

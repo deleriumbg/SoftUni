@@ -1,7 +1,0 @@
-C:\Projects\04_Complex_Conditions\Small_Shop\bin\Debug\Small_Shop.exe.config
-C:\Projects\04_Complex_Conditions\Small_Shop\bin\Debug\Small_Shop.exe
-C:\Projects\04_Complex_Conditions\Small_Shop\bin\Debug\Small_Shop.pdb
-C:\Projects\04_Complex_Conditions\Small_Shop\obj\Debug\Small_Shop.csprojResolveAssemblyReference.cache
-C:\Projects\04_Complex_Conditions\Small_Shop\obj\Debug\Small_Shop.csproj.CoreCompileInputs.cache
-C:\Projects\04_Complex_Conditions\Small_Shop\obj\Debug\Small_Shop.exe
-C:\Projects\04_Complex_Conditions\Small_Shop\obj\Debug\Small_Shop.pdb

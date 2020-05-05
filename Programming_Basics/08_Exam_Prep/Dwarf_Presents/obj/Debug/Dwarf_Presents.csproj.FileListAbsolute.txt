@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\bin\Debug\Dwarf_Presents.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\bin\Debug\Dwarf_Presents.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\bin\Debug\Dwarf_Presents.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\obj\Debug\Dwarf_Presents.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\obj\Debug\Dwarf_Presents.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Dwarf_Presents\obj\Debug\Dwarf_Presents.pdb

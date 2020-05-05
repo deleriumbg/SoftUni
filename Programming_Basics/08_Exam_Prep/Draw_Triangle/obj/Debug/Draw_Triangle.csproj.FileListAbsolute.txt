@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\bin\Debug\Draw_Triangle.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\bin\Debug\Draw_Triangle.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\bin\Debug\Draw_Triangle.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\obj\Debug\Draw_Triangle.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\obj\Debug\Draw_Triangle.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Draw_Triangle\obj\Debug\Draw_Triangle.pdb

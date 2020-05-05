@@ -1,6 +1,0 @@
-C:\Users\deler\source\repos\09_Exam\Solar_System\bin\Debug\Solar_System.exe.config
-C:\Users\deler\source\repos\09_Exam\Solar_System\bin\Debug\Solar_System.exe
-C:\Users\deler\source\repos\09_Exam\Solar_System\bin\Debug\Solar_System.pdb
-C:\Users\deler\source\repos\09_Exam\Solar_System\obj\Debug\Solar_System.csproj.CoreCompileInputs.cache
-C:\Users\deler\source\repos\09_Exam\Solar_System\obj\Debug\Solar_System.exe
-C:\Users\deler\source\repos\09_Exam\Solar_System\obj\Debug\Solar_System.pdb

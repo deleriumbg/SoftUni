@@ -1,6 +1,0 @@
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\bin\Debug\Excellent_or_Not.exe.config
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\bin\Debug\Excellent_or_Not.exe
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\bin\Debug\Excellent_or_Not.pdb
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\obj\Debug\Excellent_or_Not.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\obj\Debug\Excellent_or_Not.exe
-C:\Projects\03_Simple_Conditions\Excellent_or_Not\obj\Debug\Excellent_or_Not.pdb

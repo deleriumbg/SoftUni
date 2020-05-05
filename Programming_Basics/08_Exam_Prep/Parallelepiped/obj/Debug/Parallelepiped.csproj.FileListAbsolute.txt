@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\bin\Debug\Parallelepiped.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\bin\Debug\Parallelepiped.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\bin\Debug\Parallelepiped.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\obj\Debug\Parallelepiped.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\obj\Debug\Parallelepiped.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Parallelepiped\obj\Debug\Parallelepiped.pdb

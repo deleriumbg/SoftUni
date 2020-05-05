@@ -1,6 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\bin\Debug\Square_of_Stars.exe.config
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\bin\Debug\Square_of_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\bin\Debug\Square_of_Stars.pdb
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\obj\Debug\Square_of_Stars.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\obj\Debug\Square_of_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Square_of_Stars\obj\Debug\Square_of_Stars.pdb

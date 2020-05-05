@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\bin\Debug\Dance_Hall.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\bin\Debug\Dance_Hall.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\bin\Debug\Dance_Hall.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\obj\Debug\Dance_Hall.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\obj\Debug\Dance_Hall.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\obj\Debug\Dance_Hall.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Dance_Hall\obj\Debug\Dance_Hall.pdb

@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\bin\Debug\Grape_and_Rakia.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\bin\Debug\Grape_and_Rakia.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\bin\Debug\Grape_and_Rakia.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\obj\Debug\Grape_and_Rakia.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\obj\Debug\Grape_and_Rakia.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Grape_and_Rakia\obj\Debug\Grape_and_Rakia.pdb

@@ -1,7 +1,0 @@
-C:\Projects\05_Loops\Numbers_1_to_100\bin\Debug\Numbers_1_to_100.exe.config
-C:\Projects\05_Loops\Numbers_1_to_100\bin\Debug\Numbers_1_to_100.exe
-C:\Projects\05_Loops\Numbers_1_to_100\bin\Debug\Numbers_1_to_100.pdb
-C:\Projects\05_Loops\Numbers_1_to_100\obj\Debug\Numbers_1_to_100.csprojResolveAssemblyReference.cache
-C:\Projects\05_Loops\Numbers_1_to_100\obj\Debug\Numbers_1_to_100.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Numbers_1_to_100\obj\Debug\Numbers_1_to_100.exe
-C:\Projects\05_Loops\Numbers_1_to_100\obj\Debug\Numbers_1_to_100.pdb

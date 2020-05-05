@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\bin\Debug\Shopping.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\bin\Debug\Shopping.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\bin\Debug\Shopping.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\obj\Debug\Shopping.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\obj\Debug\Shopping.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Shopping\obj\Debug\Shopping.pdb

@@ -1,7 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.exe.config
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\bin\Debug\Rhombus_of_Stars.pdb
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.csprojResolveAssemblyReference.cache
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.exe
-C:\Projects\06_Drawing_With_Loops\Rhombus_of_Stars\obj\Debug\Rhombus_of_Stars.pdb

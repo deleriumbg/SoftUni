@@ -1,7 +1,0 @@
-C:\Projects\04_Complex_Conditions\Cinema\bin\Debug\Cinema.exe.config
-C:\Projects\04_Complex_Conditions\Cinema\bin\Debug\Cinema.exe
-C:\Projects\04_Complex_Conditions\Cinema\bin\Debug\Cinema.pdb
-C:\Projects\04_Complex_Conditions\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
-C:\Projects\04_Complex_Conditions\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
-C:\Projects\04_Complex_Conditions\Cinema\obj\Debug\Cinema.exe
-C:\Projects\04_Complex_Conditions\Cinema\obj\Debug\Cinema.pdb

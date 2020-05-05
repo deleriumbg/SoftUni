@@ -1,7 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\bin\Debug\CSGO.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\bin\Debug\CSGO.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\bin\Debug\CSGO.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\obj\Debug\CSGO.csprojResolveAssemblyReference.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\obj\Debug\CSGO.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\obj\Debug\CSGO.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\CSGO\obj\Debug\CSGO.pdb

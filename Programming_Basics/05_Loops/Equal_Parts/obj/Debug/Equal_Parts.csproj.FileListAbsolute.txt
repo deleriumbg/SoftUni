@@ -1,7 +1,0 @@
-C:\Projects\05_Loops\Equal_Parts\bin\Debug\Equal_Parts.exe.config
-C:\Projects\05_Loops\Equal_Parts\bin\Debug\Equal_Parts.exe
-C:\Projects\05_Loops\Equal_Parts\bin\Debug\Equal_Parts.pdb
-C:\Projects\05_Loops\Equal_Parts\obj\Debug\Equal_Parts.csprojResolveAssemblyReference.cache
-C:\Projects\05_Loops\Equal_Parts\obj\Debug\Equal_Parts.csproj.CoreCompileInputs.cache
-C:\Projects\05_Loops\Equal_Parts\obj\Debug\Equal_Parts.exe
-C:\Projects\05_Loops\Equal_Parts\obj\Debug\Equal_Parts.pdb

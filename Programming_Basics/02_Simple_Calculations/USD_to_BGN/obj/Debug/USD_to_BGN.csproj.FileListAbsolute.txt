@@ -1,6 +1,0 @@
-C:\Projects\02_Simple_Calculations\USD_to_BGN\bin\Debug\USD_to_BGN.exe.config
-C:\Projects\02_Simple_Calculations\USD_to_BGN\bin\Debug\USD_to_BGN.exe
-C:\Projects\02_Simple_Calculations\USD_to_BGN\bin\Debug\USD_to_BGN.pdb
-C:\Projects\02_Simple_Calculations\USD_to_BGN\obj\Debug\USD_to_BGN.csproj.CoreCompileInputs.cache
-C:\Projects\02_Simple_Calculations\USD_to_BGN\obj\Debug\USD_to_BGN.exe
-C:\Projects\02_Simple_Calculations\USD_to_BGN\obj\Debug\USD_to_BGN.pdb

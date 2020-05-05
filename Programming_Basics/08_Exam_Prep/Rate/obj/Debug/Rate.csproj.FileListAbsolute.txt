@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\bin\Debug\Rate.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\bin\Debug\Rate.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\bin\Debug\Rate.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\obj\Debug\Rate.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\obj\Debug\Rate.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Rate\obj\Debug\Rate.pdb

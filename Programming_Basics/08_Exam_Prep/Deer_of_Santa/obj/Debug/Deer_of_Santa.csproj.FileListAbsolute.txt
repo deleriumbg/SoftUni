@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\bin\Debug\Deer_of_Santa.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\bin\Debug\Deer_of_Santa.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\bin\Debug\Deer_of_Santa.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\obj\Debug\Deer_of_Santa.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\obj\Debug\Deer_of_Santa.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Deer_of_Santa\obj\Debug\Deer_of_Santa.pdb

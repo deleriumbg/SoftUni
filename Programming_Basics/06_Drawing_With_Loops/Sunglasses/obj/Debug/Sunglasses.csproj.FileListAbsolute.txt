@@ -1,7 +1,0 @@
-C:\Projects\06_Drawing_With_Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
-C:\Projects\06_Drawing_With_Loops\Sunglasses\bin\Debug\Sunglasses.exe
-C:\Projects\06_Drawing_With_Loops\Sunglasses\bin\Debug\Sunglasses.pdb
-C:\Projects\06_Drawing_With_Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
-C:\Projects\06_Drawing_With_Loops\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
-C:\Projects\06_Drawing_With_Loops\Sunglasses\obj\Debug\Sunglasses.exe
-C:\Projects\06_Drawing_With_Loops\Sunglasses\obj\Debug\Sunglasses.pdb

@@ -1,6 +1,0 @@
-C:\Projects\03_Simple_Conditions\Number_100_200\bin\Debug\Number_100_200.exe.config
-C:\Projects\03_Simple_Conditions\Number_100_200\bin\Debug\Number_100_200.exe
-C:\Projects\03_Simple_Conditions\Number_100_200\bin\Debug\Number_100_200.pdb
-C:\Projects\03_Simple_Conditions\Number_100_200\obj\Debug\Number_100_200.csproj.CoreCompileInputs.cache
-C:\Projects\03_Simple_Conditions\Number_100_200\obj\Debug\Number_100_200.exe
-C:\Projects\03_Simple_Conditions\Number_100_200\obj\Debug\Number_100_200.pdb

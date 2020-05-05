@@ -1,6 +1,0 @@
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\bin\Debug\Ladybird.exe.config
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\bin\Debug\Ladybird.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\bin\Debug\Ladybird.pdb
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\obj\Debug\Ladybird.csproj.CoreCompileInputs.cache
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\obj\Debug\Ladybird.exe
-C:\Projects\Programming_Basics\08_Exam_Prep\Ladybird\obj\Debug\Ladybird.pdb
