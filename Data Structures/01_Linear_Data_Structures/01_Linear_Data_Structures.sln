@@ -13,7 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove_Odd_Occurrences", "R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count_of_Occurrences", "Count_of_Occurrences\Count_of_Occurrences.csproj", "{48BB2B59-5CCF-4C85-BCDA-47FCCB820996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed_List", "Reversed_List\Reversed_List.csproj", "{C281821F-9414-4856-A787-4436B517991E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed_List", "Reversed_List\Reversed_List.csproj", "{C281821F-9414-4856-A787-4436B517991E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse_Numbers_with_a_Stack", "Reverse_Numbers_with_a_Stack\Reverse_Numbers_with_a_Stack.csproj", "{45250F39-6CD4-47CA-BFFC-48EB83F967E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculate_Sequence_with_a_Queue", "Calculate_Sequence_with_a_Queue\Calculate_Sequence_with_a_Queue.csproj", "{86BC6CD0-7082-4B35-9E1F-5402FF1D5F21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Based_Stack", "Array_Based_Stack\Array_Based_Stack.csproj", "{F348D0EA-0A95-46D8-B068-646A6E72C7DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked_Stack", "Linked_Stack\Linked_Stack.csproj", "{3097BE8A-FB8E-406A-AB32-9E6A3AADF0B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked_Queue", "Linked_Queue\Linked_Queue.csproj", "{72B4A8A1-2D45-4386-B827-D769A0EBEE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence_N-M", "Sequence_N-M\Sequence_N-M.csproj", "{A835AA94-F6BB-4451-87F8-DA190DF55162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,30 @@ Global
 		{C281821F-9414-4856-A787-4436B517991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C281821F-9414-4856-A787-4436B517991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C281821F-9414-4856-A787-4436B517991E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45250F39-6CD4-47CA-BFFC-48EB83F967E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45250F39-6CD4-47CA-BFFC-48EB83F967E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45250F39-6CD4-47CA-BFFC-48EB83F967E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45250F39-6CD4-47CA-BFFC-48EB83F967E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BC6CD0-7082-4B35-9E1F-5402FF1D5F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BC6CD0-7082-4B35-9E1F-5402FF1D5F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BC6CD0-7082-4B35-9E1F-5402FF1D5F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BC6CD0-7082-4B35-9E1F-5402FF1D5F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F348D0EA-0A95-46D8-B068-646A6E72C7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F348D0EA-0A95-46D8-B068-646A6E72C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F348D0EA-0A95-46D8-B068-646A6E72C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F348D0EA-0A95-46D8-B068-646A6E72C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3097BE8A-FB8E-406A-AB32-9E6A3AADF0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3097BE8A-FB8E-406A-AB32-9E6A3AADF0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3097BE8A-FB8E-406A-AB32-9E6A3AADF0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3097BE8A-FB8E-406A-AB32-9E6A3AADF0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B4A8A1-2D45-4386-B827-D769A0EBEE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B4A8A1-2D45-4386-B827-D769A0EBEE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B4A8A1-2D45-4386-B827-D769A0EBEE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B4A8A1-2D45-4386-B827-D769A0EBEE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A835AA94-F6BB-4451-87F8-DA190DF55162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A835AA94-F6BB-4451-87F8-DA190DF55162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A835AA94-F6BB-4451-87F8-DA190DF55162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A835AA94-F6BB-4451-87F8-DA190DF55162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
